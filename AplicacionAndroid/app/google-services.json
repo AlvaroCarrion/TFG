@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "874583755248",
+    "project_id": "f1quiz-72eff",
+    "storage_bucket": "f1quiz-72eff.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874583755248:android:204a545bd0c329fa3af535",
+        "android_client_info": {
+          "package_name": "com.alvaro.f1quizz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQEjfbHomsegBUDDV2OP0jWE6YaNLQ080"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
