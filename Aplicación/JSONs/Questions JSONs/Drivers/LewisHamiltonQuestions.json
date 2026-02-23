@@ -1,0 +1,367 @@
+[
+  {
+    "category": "drivers",
+    "topic": "lewisHamilton",
+    "language": {
+      "sp": {
+        "question": "¿De qué país es el piloto Lewis Hamilton?",
+        "options": ["Estados Unidos", "Reino Unido", "Canadá", "Australia"],
+        "answer": "Reino Unido",
+        "fact": "Lewis Hamilton nació en Stevenage, Inglaterra."
+      },
+      "en": {
+        "question": "Which country is Lewis Hamilton from?",
+        "options": ["United States", "United Kingdom", "Canada", "Australia"],
+        "answer": "United Kingdom",
+        "fact": "Lewis Hamilton was born in Stevenage, England."
+      }
+    },
+    "difficulty": 1,
+    "tags": ["origin", "basic"],
+    "image": "lewishamilton_photo.png"
+  },
+  {
+    "category": "drivers",
+    "topic": "lewisHamilton",
+    "language": {
+      "sp": {
+        "question": "¿En qué año debutó Lewis Hamilton en la Fórmula 1?",
+        "options": ["2005", "2006", "2007", "2008"],
+        "answer": "2007",
+        "fact": "Debutó directamente con el equipo McLaren."
+      },
+      "en": {
+        "question": "In which year did Lewis Hamilton debut in Formula 1?",
+        "options": ["2005", "2006", "2007", "2008"],
+        "answer": "2007",
+        "fact": "He debuted directly with the McLaren team."
+      }
+    },
+    "difficulty": 1,
+    "tags": ["career", "basic"],
+    "image": "lewishamilton_photo.png"
+  },
+  {
+    "category": "drivers",
+    "topic": "lewisHamilton",
+    "language": {
+      "sp": {
+        "question": "¿Cuántos campeonatos del mundo de F1 ha ganado Lewis Hamilton?",
+        "options": ["5", "6", "7", "8"],
+        "answer": "7",
+        "fact": "Igualó el récord histórico de Michael Schumacher."
+      },
+      "en": {
+        "question": "How many Formula 1 World Championships has Lewis Hamilton won?",
+        "options": ["5", "6", "7", "8"],
+        "answer": "7",
+        "fact": "He equaled Michael Schumacher’s all-time record."
+      }
+    },
+    "difficulty": 1,
+    "tags": ["titles", "basic"],
+    "image": "lewishamilton_photo.png"
+  },
+  {
+    "category": "drivers",
+    "topic": "lewisHamilton",
+    "language": {
+      "sp": {
+        "question": "¿Con qué equipo ganó Lewis Hamilton la mayoría de sus campeonatos?",
+        "options": ["McLaren", "Ferrari", "Mercedes", "Williams"],
+        "answer": "Mercedes",
+        "fact": "Con Mercedes ganó seis títulos mundiales."
+      },
+      "en": {
+        "question": "With which team did Lewis Hamilton win most of his championships?",
+        "options": ["McLaren", "Ferrari", "Mercedes", "Williams"],
+        "answer": "Mercedes",
+        "fact": "He won six world titles with Mercedes."
+      }
+    },
+    "difficulty": 1,
+    "tags": ["teams", "basic"],
+    "image": "lewishamilton_photo.png"
+  },
+  {
+    "category": "drivers",
+    "topic": "lewisHamilton",
+    "language": {
+      "sp": {
+        "question": "¿Qué número utiliza Lewis Hamilton en competición?",
+        "options": ["1", "33", "44", "77"],
+        "answer": "44",
+        "fact": "Eligió el 44 en homenaje a su padre en karting."
+      },
+      "en": {
+        "question": "Which racing number does Lewis Hamilton use?",
+        "options": ["1", "33", "44", "77"],
+        "answer": "44",
+        "fact": "He chose 44 as a tribute to his father’s karting number."
+      }
+    },
+    "difficulty": 1,
+    "tags": ["number", "basic"],
+    "image": "lewishamilton_photo.png"
+  },
+  {
+    "category": "drivers",
+    "topic": "lewisHamilton",
+    "language": {
+      "sp": {
+        "question": "¿En qué circuito logró Hamilton su primera victoria en F1?",
+        "options": ["Silverstone", "Hungaroring", "Monza", "Montreal"],
+        "answer": "Hungaroring",
+        "fact": "Ganó el Gran Premio de Hungría en 2007."
+      },
+      "en": {
+        "question": "At which circuit did Hamilton achieve his first F1 victory?",
+        "options": ["Silverstone", "Hungaroring", "Monza", "Montreal"],
+        "answer": "Hungaroring",
+        "fact": "He won the 2007 Hungarian Grand Prix."
+      }
+    },
+    "difficulty": 2,
+    "tags": ["wins", "circuits"],
+    "image": "lewishamilton_photo.png"
+  },
+  {
+    "category": "drivers",
+    "topic": "lewisHamilton",
+    "language": {
+      "sp": {
+        "question": "¿Qué condición suele destacar especialmente en Lewis Hamilton?",
+        "options": [
+          "Velocidad pura",
+          "Gestión de neumáticos",
+          "Clasificación",
+          "Salidas"
+        ],
+        "answer": "Gestión de neumáticos",
+        "fact": "Es reconocido por mantener ritmo constante durante largas tandas."
+      },
+      "en": {
+        "question": "Which trait particularly stands out in Lewis Hamilton?",
+        "options": [
+          "Pure speed",
+          "Tyre management",
+          "Qualifying pace",
+          "Starts"
+        ],
+        "answer": "Tyre management",
+        "fact": "He is known for maintaining consistent pace over long stints."
+      }
+    },
+    "difficulty": 2,
+    "tags": ["skills", "driving"],
+    "image": "lewishamilton_photo.png"
+  },
+  {
+    "category": "drivers",
+    "topic": "lewisHamilton",
+    "language": {
+      "sp": {
+        "question": "¿Qué piloto fue su principal rival en Mercedes?",
+        "options": ["Sebastian Vettel", "Fernando Alonso", "Nico Rosberg", "Jenson Button"],
+        "answer": "Nico Rosberg",
+        "fact": "Compartieron equipo entre 2013 y 2016."
+      },
+      "en": {
+        "question": "Which driver was his main rival at Mercedes?",
+        "options": ["Sebastian Vettel", "Fernando Alonso", "Nico Rosberg", "Jenson Button"],
+        "answer": "Nico Rosberg",
+        "fact": "They were teammates from 2013 to 2016."
+      }
+    },
+    "difficulty": 2,
+    "tags": ["rivalry", "teams"],
+    "image": "lewishamilton_photo.png"
+  },
+  {
+    "category": "drivers",
+    "topic": "lewisHamilton",
+    "language": {
+      "sp": {
+        "question": "¿En qué año ganó Hamilton su primer campeonato del mundo?",
+        "options": ["2007", "2008", "2009", "2010"],
+        "answer": "2008",
+        "fact": "Ganó el título en la última curva del GP de Brasil."
+      },
+      "en": {
+        "question": "In which year did Hamilton win his first world championship?",
+        "options": ["2007", "2008", "2009", "2010"],
+        "answer": "2008",
+        "fact": "He won the title at the final corner of the Brazilian GP."
+      }
+    },
+    "difficulty": 2,
+    "tags": ["titles", "history"],
+    "image": "lewishamilton_photo.png"
+  },
+  {
+    "category": "drivers",
+    "topic": "lewisHamilton",
+    "language": {
+      "sp": {
+        "question": "¿En qué circuito ha conseguido más victorias Lewis Hamilton?",
+        "options": ["Silverstone", "Hungaroring", "Monza", "Spa"],
+        "answer": "Silverstone",
+        "fact": "Es el piloto más exitoso en el GP de Gran Bretaña."
+      },
+      "en": {
+        "question": "At which circuit has Lewis Hamilton achieved the most victories?",
+        "options": ["Silverstone", "Hungaroring", "Monza", "Spa"],
+        "answer": "Silverstone",
+        "fact": "He is the most successful driver at the British GP."
+      }
+    },
+    "difficulty": 2,
+    "tags": ["records", "circuits"],
+    "image": "lewishamilton_photo.png"
+  },
+  {
+    "category": "drivers",
+    "topic": "lewisHamilton",
+    "language": {
+      "sp": {
+        "question": "¿Qué récord histórico posee Hamilton en clasificación?",
+        "options": [
+          "Más poles",
+          "Más victorias",
+          "Más podios",
+          "Más carreras"
+        ],
+        "answer": "Más poles",
+        "fact": "Es el piloto con más poles en la historia de la F1."
+      },
+      "en": {
+        "question": "Which historic record does Hamilton hold in qualifying?",
+        "options": [
+          "Most poles",
+          "Most wins",
+          "Most podiums",
+          "Most races"
+        ],
+        "answer": "Most poles",
+        "fact": "He is the driver with the most poles in F1 history."
+      }
+    },
+    "difficulty": 3,
+    "tags": ["records", "qualifying"],
+    "image": "lewishamilton_photo.png"
+  },
+  {
+    "category": "drivers",
+    "topic": "lewisHamilton",
+    "language": {
+      "sp": {
+        "question": "¿Qué etapa marcó el dominio de Hamilton en la F1?",
+        "options": [
+          "2009–2012",
+          "2010–2013",
+          "2014–2020",
+          "2018–2023"
+        ],
+        "answer": "2014–2020",
+        "fact": "Coincidió con la era híbrida de la Fórmula 1."
+      },
+      "en": {
+        "question": "Which period marked Hamilton’s dominance in F1?",
+        "options": [
+          "2009–2012",
+          "2010–2013",
+          "2014–2020",
+          "2018–2023"
+        ],
+        "answer": "2014–2020",
+        "fact": "It coincided with the hybrid era of Formula 1."
+      }
+    },
+    "difficulty": 3,
+    "tags": ["dominance", "era"],
+    "image": "lewishamilton_photo.png"
+  },
+  {
+    "category": "drivers",
+    "topic": "lewisHamilton",
+    "language": {
+      "sp": {
+        "question": "¿Qué rasgo mental destaca especialmente en Hamilton?",
+        "options": [
+          "Agresividad",
+          "Capacidad de adaptación",
+          "Impulsividad",
+          "Dependencia técnica"
+        ],
+        "answer": "Capacidad de adaptación",
+        "fact": "Ha sido competitivo en distintas generaciones de coches."
+      },
+      "en": {
+        "question": "Which mental trait stands out most in Hamilton?",
+        "options": [
+          "Aggression",
+          "Adaptability",
+          "Impulsiveness",
+          "Technical dependence"
+        ],
+        "answer": "Adaptability",
+        "fact": "He has been competitive across different car generations."
+      }
+    },
+    "difficulty": 3,
+    "tags": ["mentality", "skills"],
+    "image": "lewishamilton_photo.png"
+  },
+  {
+    "category": "drivers",
+    "topic": "lewisHamilton",
+    "language": {
+      "sp": {
+        "question": "¿Qué legado deja Lewis Hamilton en la Fórmula 1?",
+        "options": [
+          "Récords deportivos",
+          "Influencia social",
+          "Cambio cultural",
+          "Todas las anteriores"
+        ],
+        "answer": "Todas las anteriores",
+        "fact": "Es uno de los pilotos más influyentes dentro y fuera de la pista."
+      },
+      "en": {
+        "question": "What legacy does Lewis Hamilton leave in Formula 1?",
+        "options": [
+          "Sporting records",
+          "Social influence",
+          "Cultural change",
+          "All of the above"
+        ],
+        "answer": "All of the above",
+        "fact": "He is one of the most influential drivers on and off the track."
+      }
+    },
+    "difficulty": 3,
+    "tags": ["legacy", "impact"],
+    "image": "lewishamilton_photo.png"
+  },
+  {
+    "category": "drivers",
+    "topic": "lewisHamilton",
+    "language": {
+      "sp": {
+        "question": "¿En qué Gran Premio consiguió Lewis Hamilton su primera victoria con Mercedes?",
+        "options": ["Australia", "Canadá", "Bahrein", "China"],
+        "answer": "Canadá",
+        "fact": "Ganó su primera carrera con Mercedes en el GP de Canadá de 2013."
+      },
+      "en": {
+        "question": "At which Grand Prix did Lewis Hamilton achieve his first victory with Mercedes?",
+        "options": ["Australia", "Canada", "Bahrain", "China"],
+        "answer": "Canada",
+        "fact": "He won his first race with Mercedes at the 2013 Canadian GP."
+      }
+    },
+    "difficulty": 3,
+    "tags": ["wins", "teams"],
+    "image": "lewishamilton_photo.png"
+  }
+]

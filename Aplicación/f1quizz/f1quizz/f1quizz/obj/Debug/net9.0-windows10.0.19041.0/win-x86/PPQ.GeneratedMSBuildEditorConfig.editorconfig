@@ -1,0 +1,203 @@
+is_global = true
+build_property.TargetFramework = net9.0-windows10.0.19041.0
+build_property.TargetPlatformMinVersion = 10.0.17763.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 9A19103F-16F7-4668-BE54-9A1E7A4F7556
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = PPQ
+build_property.ProjectDir = C:\Users\carri\OneDrive\Escritorio\Clase\2DAM\TFG\Aplicación\f1quizz\f1quizz\f1quizz\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTAotOptimizerEnabled = true
+build_property.CsWinRTAotExportsEnabled = 
+build_property.CsWinRTRcwFactoryFallbackGeneratorForceOptIn = 
+build_property.CsWinRTRcwFactoryFallbackGeneratorForceOptOut = 
+build_property.CsWinRTCcwLookupTableGeneratorEnabled = true
+build_property.CsWinRTMergeReferencedActivationFactories = 
+build_property.CsWinRTAotWarningLevel = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/carri/OneDrive/Escritorio/Clase/2DAM/TFG/Aplicación/f1quizz/f1quizz/f1quizz/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PPQ.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/carri/OneDrive/Escritorio/Clase/2DAM/TFG/Aplicación/f1quizz/f1quizz/f1quizz/Navigation/AdminShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PPQ.Navigation.AdminShell.xaml
+build_metadata.AdditionalFiles.TargetPath = Navigation\AdminShell.xaml
+build_metadata.AdditionalFiles.RelativePath = Navigation\AdminShell.xaml
+
+[C:/Users/carri/OneDrive/Escritorio/Clase/2DAM/TFG/Aplicación/f1quizz/f1quizz/f1quizz/Navigation/LoginShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PPQ.Navigation.LoginShell.xaml
+build_metadata.AdditionalFiles.TargetPath = Navigation\LoginShell.xaml
+build_metadata.AdditionalFiles.RelativePath = Navigation\LoginShell.xaml
+
+[C:/Users/carri/OneDrive/Escritorio/Clase/2DAM/TFG/Aplicación/f1quizz/f1quizz/f1quizz/Navigation/SuperadminShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PPQ.Navigation.SuperadminShell.xaml
+build_metadata.AdditionalFiles.TargetPath = Navigation\SuperadminShell.xaml
+build_metadata.AdditionalFiles.RelativePath = Navigation\SuperadminShell.xaml
+
+[C:/Users/carri/OneDrive/Escritorio/Clase/2DAM/TFG/Aplicación/f1quizz/f1quizz/f1quizz/Navigation/UserShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PPQ.Navigation.UserShell.xaml
+build_metadata.AdditionalFiles.TargetPath = Navigation\UserShell.xaml
+build_metadata.AdditionalFiles.RelativePath = Navigation\UserShell.xaml
+
+[C:/Users/carri/OneDrive/Escritorio/Clase/2DAM/TFG/Aplicación/f1quizz/f1quizz/f1quizz/Resources/Languages/English.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PPQ.Resources.Languages.English.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Languages\English.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Languages\English.xaml
+
+[C:/Users/carri/OneDrive/Escritorio/Clase/2DAM/TFG/Aplicación/f1quizz/f1quizz/f1quizz/Resources/Languages/Spanish.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PPQ.Resources.Languages.Spanish.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Languages\Spanish.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Languages\Spanish.xaml
+
+[C:/Users/carri/OneDrive/Escritorio/Clase/2DAM/TFG/Aplicación/f1quizz/f1quizz/f1quizz/Resources/Styles/MainStyles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PPQ.Resources.Styles.MainStyles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\MainStyles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\MainStyles.xaml
+
+[C:/Users/carri/OneDrive/Escritorio/Clase/2DAM/TFG/Aplicación/f1quizz/f1quizz/f1quizz/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PPQ.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/carri/OneDrive/Escritorio/Clase/2DAM/TFG/Aplicación/f1quizz/f1quizz/f1quizz/Resources/Themes/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PPQ.Resources.Themes.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Themes\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Themes\Colors.xaml
+
+[C:/Users/carri/OneDrive/Escritorio/Clase/2DAM/TFG/Aplicación/f1quizz/f1quizz/f1quizz/Resources/Themes/DarkTheme.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PPQ.Resources.Themes.DarkTheme.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Themes\DarkTheme.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Themes\DarkTheme.xaml
+
+[C:/Users/carri/OneDrive/Escritorio/Clase/2DAM/TFG/Aplicación/f1quizz/f1quizz/f1quizz/Resources/Themes/LightTheme.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PPQ.Resources.Themes.LightTheme.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Themes\LightTheme.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Themes\LightTheme.xaml
+
+[C:/Users/carri/OneDrive/Escritorio/Clase/2DAM/TFG/Aplicación/f1quizz/f1quizz/f1quizz/Views/AccountPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PPQ.Views.AccountPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\AccountPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\AccountPage.xaml
+
+[C:/Users/carri/OneDrive/Escritorio/Clase/2DAM/TFG/Aplicación/f1quizz/f1quizz/f1quizz/Views/AdminShell/AdminMenuPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PPQ.Views.AdminShell.AdminMenuPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\AdminShell\AdminMenuPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\AdminShell\AdminMenuPage.xaml
+
+[C:/Users/carri/OneDrive/Escritorio/Clase/2DAM/TFG/Aplicación/f1quizz/f1quizz/f1quizz/Views/AdminShell/CreateUsersPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PPQ.Views.AdminShell.CreateUsersPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\AdminShell\CreateUsersPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\AdminShell\CreateUsersPage.xaml
+
+[C:/Users/carri/OneDrive/Escritorio/Clase/2DAM/TFG/Aplicación/f1quizz/f1quizz/f1quizz/Views/AdminShell/EditUsersPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PPQ.Views.AdminShell.EditUsersPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\AdminShell\EditUsersPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\AdminShell\EditUsersPage.xaml
+
+[C:/Users/carri/OneDrive/Escritorio/Clase/2DAM/TFG/Aplicación/f1quizz/f1quizz/f1quizz/Views/AdminShell/UserListPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PPQ.Views.AdminShell.UserListPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\AdminShell\UserListPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\AdminShell\UserListPage.xaml
+
+[C:/Users/carri/OneDrive/Escritorio/Clase/2DAM/TFG/Aplicación/f1quizz/f1quizz/f1quizz/Views/LoginShell/LoginPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PPQ.Views.LoginShell.LoginPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\LoginShell\LoginPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\LoginShell\LoginPage.xaml
+
+[C:/Users/carri/OneDrive/Escritorio/Clase/2DAM/TFG/Aplicación/f1quizz/f1quizz/f1quizz/Views/LoginShell/RegisterPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PPQ.Views.LoginShell.RegisterPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\LoginShell\RegisterPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\LoginShell\RegisterPage.xaml
+
+[C:/Users/carri/OneDrive/Escritorio/Clase/2DAM/TFG/Aplicación/f1quizz/f1quizz/f1quizz/Views/LoginShell/ResetPasswordPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PPQ.Views.LoginShell.ResetPasswordPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\LoginShell\ResetPasswordPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\LoginShell\ResetPasswordPage.xaml
+
+[C:/Users/carri/OneDrive/Escritorio/Clase/2DAM/TFG/Aplicación/f1quizz/f1quizz/f1quizz/Views/SuperadminShell/CreateUsersPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PPQ.Views.SuperadminShell.CreateUsersPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\SuperadminShell\CreateUsersPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\SuperadminShell\CreateUsersPage.xaml
+
+[C:/Users/carri/OneDrive/Escritorio/Clase/2DAM/TFG/Aplicación/f1quizz/f1quizz/f1quizz/Views/SuperadminShell/EditUsersPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PPQ.Views.SuperadminShell.EditUsersPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\SuperadminShell\EditUsersPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\SuperadminShell\EditUsersPage.xaml
+
+[C:/Users/carri/OneDrive/Escritorio/Clase/2DAM/TFG/Aplicación/f1quizz/f1quizz/f1quizz/Views/SuperadminShell/SuperadminMenuPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PPQ.Views.SuperadminShell.SuperadminMenuPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\SuperadminShell\SuperadminMenuPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\SuperadminShell\SuperadminMenuPage.xaml
+
+[C:/Users/carri/OneDrive/Escritorio/Clase/2DAM/TFG/Aplicación/f1quizz/f1quizz/f1quizz/Views/SuperadminShell/UserListPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PPQ.Views.SuperadminShell.UserListPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\SuperadminShell\UserListPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\SuperadminShell\UserListPage.xaml
+
+[C:/Users/carri/OneDrive/Escritorio/Clase/2DAM/TFG/Aplicación/f1quizz/f1quizz/f1quizz/Views/UserShell/MultiplayerQuizPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PPQ.Views.UserShell.MultiplayerQuizPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\UserShell\MultiplayerQuizPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\UserShell\MultiplayerQuizPage.xaml
+
+[C:/Users/carri/OneDrive/Escritorio/Clase/2DAM/TFG/Aplicación/f1quizz/f1quizz/f1quizz/Views/UserShell/MultiplayerQuizSummaryPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PPQ.Views.UserShell.MultiplayerQuizSummaryPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\UserShell\MultiplayerQuizSummaryPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\UserShell\MultiplayerQuizSummaryPage.xaml
+
+[C:/Users/carri/OneDrive/Escritorio/Clase/2DAM/TFG/Aplicación/f1quizz/f1quizz/f1quizz/Views/UserShell/QuizMenuPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PPQ.Views.UserShell.QuizMenuPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\UserShell\QuizMenuPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\UserShell\QuizMenuPage.xaml
+
+[C:/Users/carri/OneDrive/Escritorio/Clase/2DAM/TFG/Aplicación/f1quizz/f1quizz/f1quizz/Views/UserShell/QuizPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PPQ.Views.UserShell.QuizPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\UserShell\QuizPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\UserShell\QuizPage.xaml
+
+[C:/Users/carri/OneDrive/Escritorio/Clase/2DAM/TFG/Aplicación/f1quizz/f1quizz/f1quizz/Views/UserShell/QuizSummaryPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PPQ.Views.UserShell.QuizSummaryPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\UserShell\QuizSummaryPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\UserShell\QuizSummaryPage.xaml
+
+[C:/Users/carri/OneDrive/Escritorio/Clase/2DAM/TFG/Aplicación/f1quizz/f1quizz/f1quizz/Views/UserShell/UserMenuPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PPQ.Views.UserShell.UserMenuPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\UserShell\UserMenuPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\UserShell\UserMenuPage.xaml

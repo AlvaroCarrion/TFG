@@ -1,0 +1,357 @@
+[
+    {
+      "category": "circuits",
+      "topic": "silverstone",
+      "language": {
+        "sp": {
+          "question": "¿En qué país se encuentra el circuito de Silverstone?",
+          "options": ["Irlanda", "Escocia", "Inglaterra", "Gales"],
+          "answer": "Inglaterra",
+          "fact": "Silverstone está ubicado en Inglaterra y es considerado la cuna de la Fórmula 1."
+        },
+        "en": {
+          "question": "In which country is the Silverstone Circuit located?",
+          "options": ["Ireland", "Scotland", "England", "Wales"],
+          "answer": "England",
+          "fact": "Silverstone is located in England and is considered the birthplace of Formula 1."
+        }
+      },
+      "difficulty": 1,
+      "tags": ["location", "basic"],
+      "image": "silverstonse_straight.png"
+    },
+    {
+      "category": "circuits",
+      "topic": "silverstone",
+      "language": {
+        "sp": {
+          "question": "¿Qué tipo de circuito es Silverstone?",
+          "options": ["Urbano", "Permanente", "Temporal", "Desértico"],
+          "answer": "Permanente",
+          "fact": "Silverstone se construyó sobre una antigua base aérea militar."
+        },
+        "en": {
+          "question": "What type of circuit is Silverstone?",
+          "options": ["Street", "Permanent", "Temporary", "Desert"],
+          "answer": "Permanent",
+          "fact": "Silverstone was built on a former military airfield."
+        }
+      },
+      "difficulty": 1,
+      "tags": ["circuit", "basic"],
+      "image": "silverstonse_straight.png"
+    },
+    {
+      "category": "circuits",
+      "topic": "silverstone",
+      "language": {
+        "sp": {
+          "question": "¿Qué Gran Premio se celebra en Silverstone?",
+          "options": [
+            "Gran Premio de Europa",
+            "Gran Premio de Gran Bretaña",
+            "Gran Premio de Inglaterra",
+            "Gran Premio del Reino Unido"
+          ],
+          "answer": "Gran Premio de Gran Bretaña",
+          "fact": "El GP de Gran Bretaña es uno de los más antiguos del calendario."
+        },
+        "en": {
+          "question": "Which Grand Prix is held at Silverstone?",
+          "options": [
+            "European Grand Prix",
+            "British Grand Prix",
+            "England Grand Prix",
+            "United Kingdom Grand Prix"
+          ],
+          "answer": "British Grand Prix",
+          "fact": "The British Grand Prix is one of the oldest races on the calendar."
+        }
+      },
+      "difficulty": 1,
+      "tags": ["event", "basic"],
+      "image": "silverstonse_straight.png"
+    },
+    {
+      "category": "circuits",
+      "topic": "silverstone",
+      "language": {
+        "sp": {
+          "question": "¿Qué característica define a Silverstone?",
+          "options": [
+            "Curvas muy lentas",
+            "Rectas cortas",
+            "Curvas rápidas",
+            "Asfalto urbano"
+          ],
+          "answer": "Curvas rápidas",
+          "fact": "Silverstone es famoso por sus curvas de alta velocidad."
+        },
+        "en": {
+          "question": "What defines the Silverstone circuit?",
+          "options": [
+            "Very slow corners",
+            "Short straights",
+            "Fast corners",
+            "Street asphalt"
+          ],
+          "answer": "Fast corners",
+          "fact": "Silverstone is famous for its high-speed corners."
+        }
+      },
+      "difficulty": 1,
+      "tags": ["layout", "basic"],
+      "image": "silverstonse_straight.png"
+    },
+    {
+      "category": "circuits",
+      "topic": "silverstone",
+      "language": {
+        "sp": {
+          "question": "¿Qué equipo tiene su sede cerca de Silverstone?",
+          "options": ["Ferrari", "Mercedes", "Red Bull", "Alpine"],
+          "answer": "Mercedes",
+          "fact": "Muchas escuderías tienen sus fábricas cerca del circuito."
+        },
+        "en": {
+          "question": "Which team has its headquarters near Silverstone?",
+          "options": ["Ferrari", "Mercedes", "Red Bull", "Alpine"],
+          "answer": "Mercedes",
+          "fact": "Many teams have their factories close to the circuit."
+        }
+      },
+      "difficulty": 1,
+      "tags": ["teams", "basic"],
+      "image": "silverstonse_straight.png"
+    },
+    {
+      "category": "circuits",
+      "topic": "silverstone",
+      "language": {
+        "sp": {
+          "question": "¿Cuál es la longitud aproximada del circuito de Silverstone?",
+          "options": ["4.5 km", "5.9 km", "6.8 km", "7.2 km"],
+          "answer": "5.9 km",
+          "fact": "Es uno de los circuitos más largos del calendario."
+        },
+        "en": {
+          "question": "What is the approximate length of the Silverstone circuit?",
+          "options": ["4.5 km", "5.9 km", "6.8 km", "7.2 km"],
+          "answer": "5.9 km",
+          "fact": "It is one of the longest circuits on the calendar."
+        }
+      },
+      "difficulty": 2,
+      "tags": ["length", "facts"],
+      "image": "silverstonse_straight.png"
+    },
+    {
+      "category": "circuits",
+      "topic": "silverstone",
+      "language": {
+        "sp": {
+          "question": "¿Qué sección de Silverstone es especialmente rápida?",
+          "options": ["Becketts", "Brooklands", "Copse", "Village"],
+          "answer": "Becketts",
+          "fact": "Becketts exige cambios de dirección a gran velocidad."
+        },
+        "en": {
+          "question": "Which section of Silverstone is particularly fast?",
+          "options": ["Becketts", "Brooklands", "Copse", "Village"],
+          "answer": "Becketts",
+          "fact": "Becketts requires rapid direction changes at high speed."
+        }
+      },
+      "difficulty": 2,
+      "tags": ["corners", "speed"],
+      "image": "silverstonse_straight.png"
+    },
+    {
+      "category": "circuits",
+      "topic": "silverstone",
+      "language": {
+        "sp": {
+          "question": "¿Qué curva es una de las más famosas de Silverstone?",
+          "options": ["Copse", "Ascari", "Eau Rouge", "Rascasse"],
+          "answer": "Copse",
+          "fact": "Copse se toma a muy alta velocidad en clasificación."
+        },
+        "en": {
+          "question": "Which corner is one of the most famous at Silverstone?",
+          "options": ["Copse", "Ascari", "Eau Rouge", "Rascasse"],
+          "answer": "Copse",
+          "fact": "Copse is taken at extremely high speed during qualifying."
+        }
+      },
+      "difficulty": 2,
+      "tags": ["corners", "famous"],
+      "image": "silverstonse_straight.png"
+    },
+    {
+      "category": "circuits",
+      "topic": "silverstone",
+      "language": {
+        "sp": {
+          "question": "¿Qué factor meteorológico es habitual en Silverstone?",
+          "options": ["Calor extremo", "Viento cambiante", "Tormentas de arena", "Niebla constante"],
+          "answer": "Viento cambiante",
+          "fact": "El viento puede afectar notablemente al comportamiento del coche."
+        },
+        "en": {
+          "question": "Which weather factor is common at Silverstone?",
+          "options": ["Extreme heat", "Changing winds", "Sandstorms", "Constant fog"],
+          "answer": "Changing winds",
+          "fact": "Wind can significantly affect car performance."
+        }
+      },
+      "difficulty": 2,
+      "tags": ["weather", "conditions"],
+      "image": "silverstonse_straight.png"
+    },
+    {
+      "category": "circuits",
+      "topic": "silverstone",
+      "language": {
+        "sp": {
+          "question": "¿Qué zona del circuito combina frenada fuerte y aceleración?",
+          "options": ["Brooklands", "Copse", "Maggotts", "Stowe"],
+          "answer": "Brooklands",
+          "fact": "Brooklands es clave para los adelantamientos."
+        },
+        "en": {
+          "question": "Which area of the circuit combines heavy braking and acceleration?",
+          "options": ["Brooklands", "Copse", "Maggotts", "Stowe"],
+          "answer": "Brooklands",
+          "fact": "Brooklands is key for overtaking opportunities."
+        }
+      },
+      "difficulty": 2,
+      "tags": ["braking", "technical"],
+      "image": "silverstonse_straight.png"
+    },
+    {
+      "category": "circuits",
+      "topic": "silverstone",
+      "language": {
+        "sp": {
+          "question": "¿En qué año se celebró la primera carrera del Mundial de F1 en Silverstone?",
+          "options": ["1948", "1950", "1955", "1960"],
+          "answer": "1950",
+          "fact": "Silverstone acogió la primera carrera de la historia del Mundial de F1."
+        },
+        "en": {
+          "question": "In which year was the first F1 World Championship race held at Silverstone?",
+          "options": ["1948", "1950", "1955", "1960"],
+          "answer": "1950",
+          "fact": "Silverstone hosted the first race in Formula 1 World Championship history."
+        }
+      },
+      "difficulty": 3,
+      "tags": ["history", "dates"],
+      "image": "silverstonse_straight.png"
+    },
+    {
+      "category": "circuits",
+      "topic": "silverstone",
+      "language": {
+        "sp": {
+          "question": "¿Qué conjunto de curvas es considerado el más técnico de Silverstone?",
+          "options": ["Copse", "Maggotts-Becketts", "Stowe", "Village"],
+          "answer": "Maggotts-Becketts",
+          "fact": "Este sector exige máxima carga aerodinámica y precisión."
+        },
+        "en": {
+          "question": "Which set of corners is considered the most technical at Silverstone?",
+          "options": ["Copse", "Maggotts-Becketts", "Stowe", "Village"],
+          "answer": "Maggotts-Becketts",
+          "fact": "This sector demands maximum downforce and precision."
+        }
+      },
+      "difficulty": 3,
+      "tags": ["technical", "corners"],
+      "image": "silverstonse_straight.png"
+    },
+    {
+      "category": "circuits",
+      "topic": "silverstone",
+      "language": {
+        "sp": {
+          "question": "¿Qué tipo de carga aerodinámica se prioriza en Silverstone?",
+          "options": ["Muy baja", "Media", "Alta", "Variable extrema"],
+          "answer": "Alta",
+          "fact": "Las curvas rápidas requieren altos niveles de apoyo aerodinámico."
+        },
+        "en": {
+          "question": "What type of aerodynamic setup is prioritized at Silverstone?",
+          "options": ["Very low", "Medium", "High", "Extreme variable"],
+          "answer": "High",
+          "fact": "Fast corners require high levels of aerodynamic downforce."
+        }
+      },
+      "difficulty": 3,
+      "tags": ["aerodynamics", "setup"],
+      "image": "silverstonse_straight.png"
+    },
+    {
+      "category": "circuits",
+      "topic": "silverstone",
+      "language": {
+        "sp": {
+          "question": "¿Por qué Silverstone es especialmente exigente para los neumáticos?",
+          "options": [
+            "Por el asfalto urbano",
+            "Por las curvas rápidas prolongadas",
+            "Por la baja temperatura",
+            "Por las rectas largas"
+          ],
+          "answer": "Por las curvas rápidas prolongadas",
+          "fact": "Las fuerzas laterales generan un gran desgaste."
+        },
+        "en": {
+          "question": "Why is Silverstone particularly demanding on tyres?",
+          "options": [
+            "Due to street asphalt",
+            "Due to long high-speed corners",
+            "Due to low temperatures",
+            "Due to long straights"
+          ],
+          "answer": "Due to long high-speed corners",
+          "fact": "Lateral forces generate significant tyre wear."
+        }
+      },
+      "difficulty": 3,
+      "tags": ["tyres", "technical"],
+      "image": "silverstonse_straight.png"
+    },
+    {
+      "category": "circuits",
+      "topic": "silverstone",
+      "language": {
+        "sp": {
+          "question": "¿Qué hace históricamente especial a Silverstone en la Fórmula 1?",
+          "options": [
+            "Es un circuito urbano",
+            "Fue sede del primer GP del mundial",
+            "Tiene el túnel más largo",
+            "Es el más corto del calendario"
+          ],
+          "answer": "Fue sede del primer GP del mundial",
+          "fact": "La primera carrera del Mundial de F1 se disputó allí."
+        },
+        "en": {
+          "question": "What makes Silverstone historically special in Formula 1?",
+          "options": [
+            "It is a street circuit",
+            "It hosted the first World Championship GP",
+            "It has the longest tunnel",
+            "It is the shortest circuit"
+          ],
+          "answer": "It hosted the first World Championship GP",
+          "fact": "The first Formula 1 World Championship race was held there."
+        }
+      },
+      "difficulty": 3,
+      "tags": ["history", "records"],
+      "image": "silverstonse_straight.png"
+    }
+  ]  

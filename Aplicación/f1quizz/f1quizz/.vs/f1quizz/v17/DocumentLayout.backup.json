@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\carri\\OneDrive\\Escritorio\\Clase\\2DAM\\TFG\\Aplicaci\u00F3n\\f1quizz\\f1quizz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E192BAF1-C2DB-4D1E-92B1-60DBE2299381}|f1quizz\\PPQ.csproj|c:\\users\\carri\\onedrive\\escritorio\\clase\\2dam\\tfg\\aplicaci\u00F3n\\f1quizz\\f1quizz\\f1quizz\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E192BAF1-C2DB-4D1E-92B1-60DBE2299381}|f1quizz\\PPQ.csproj|solutionrelative:f1quizz\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\carri\\.nuget\\packages\\microsoft.windowsappsdk\\1.7.250909003\\buildTransitive\\Microsoft.WindowsAppSDK.SingleProject.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E192BAF1-C2DB-4D1E-92B1-60DBE2299381}|f1quizz\\PPQ.csproj|c:\\users\\carri\\onedrive\\escritorio\\clase\\2dam\\tfg\\aplicaci\u00F3n\\f1quizz\\f1quizz\\f1quizz\\ppq.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E192BAF1-C2DB-4D1E-92B1-60DBE2299381}|f1quizz\\PPQ.csproj|solutionrelative:f1quizz\\ppq.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E192BAF1-C2DB-4D1E-92B1-60DBE2299381}|f1quizz\\PPQ.csproj|c:\\users\\carri\\onedrive\\escritorio\\clase\\2dam\\tfg\\aplicaci\u00F3n\\f1quizz\\f1quizz\\f1quizz\\database\\databaseclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E192BAF1-C2DB-4D1E-92B1-60DBE2299381}|f1quizz\\PPQ.csproj|solutionrelative:f1quizz\\database\\databaseclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E192BAF1-C2DB-4D1E-92B1-60DBE2299381}|f1quizz\\PPQ.csproj|c:\\users\\carri\\onedrive\\escritorio\\clase\\2dam\\tfg\\aplicaci\u00F3n\\f1quizz\\f1quizz\\f1quizz\\views\\usershell\\multiplayerquizpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E192BAF1-C2DB-4D1E-92B1-60DBE2299381}|f1quizz\\PPQ.csproj|solutionrelative:f1quizz\\views\\usershell\\multiplayerquizpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E192BAF1-C2DB-4D1E-92B1-60DBE2299381}|f1quizz\\PPQ.csproj|c:\\users\\carri\\onedrive\\escritorio\\clase\\2dam\\tfg\\aplicaci\u00F3n\\f1quizz\\f1quizz\\f1quizz\\views\\usershell\\usermenupage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E192BAF1-C2DB-4D1E-92B1-60DBE2299381}|f1quizz\\PPQ.csproj|solutionrelative:f1quizz\\views\\usershell\\usermenupage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 84,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DatabaseClass.cs",
+              "DocumentMoniker": "C:\\Users\\carri\\OneDrive\\Escritorio\\Clase\\2DAM\\TFG\\Aplicaci\u00F3n\\f1quizz\\f1quizz\\f1quizz\\Database\\DatabaseClass.cs",
+              "RelativeDocumentMoniker": "f1quizz\\Database\\DatabaseClass.cs",
+              "ToolTip": "C:\\Users\\carri\\OneDrive\\Escritorio\\Clase\\2DAM\\TFG\\Aplicaci\u00F3n\\f1quizz\\f1quizz\\f1quizz\\Database\\DatabaseClass.cs",
+              "RelativeToolTip": "f1quizz\\Database\\DatabaseClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T15:36:06.412Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MultiplayerQuizPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\carri\\OneDrive\\Escritorio\\Clase\\2DAM\\TFG\\Aplicaci\u00F3n\\f1quizz\\f1quizz\\f1quizz\\Views\\UserShell\\MultiplayerQuizPage.xaml.cs",
+              "RelativeDocumentMoniker": "f1quizz\\Views\\UserShell\\MultiplayerQuizPage.xaml.cs",
+              "ToolTip": "C:\\Users\\carri\\OneDrive\\Escritorio\\Clase\\2DAM\\TFG\\Aplicaci\u00F3n\\f1quizz\\f1quizz\\f1quizz\\Views\\UserShell\\MultiplayerQuizPage.xaml.cs",
+              "RelativeToolTip": "f1quizz\\Views\\UserShell\\MultiplayerQuizPage.xaml.cs",
+              "ViewState": "AgIAAOMAAAAAAAAAAAAIwO8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T12:21:01.547Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserMenuPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\carri\\OneDrive\\Escritorio\\Clase\\2DAM\\TFG\\Aplicaci\u00F3n\\f1quizz\\f1quizz\\f1quizz\\Views\\UserShell\\UserMenuPage.xaml.cs",
+              "RelativeDocumentMoniker": "f1quizz\\Views\\UserShell\\UserMenuPage.xaml.cs",
+              "ToolTip": "C:\\Users\\carri\\OneDrive\\Escritorio\\Clase\\2DAM\\TFG\\Aplicaci\u00F3n\\f1quizz\\f1quizz\\f1quizz\\Views\\UserShell\\UserMenuPage.xaml.cs",
+              "RelativeToolTip": "f1quizz\\Views\\UserShell\\UserMenuPage.xaml.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAqwDMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T15:03:07.848Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\carri\\OneDrive\\Escritorio\\Clase\\2DAM\\TFG\\Aplicaci\u00F3n\\f1quizz\\f1quizz\\f1quizz\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "f1quizz\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\carri\\OneDrive\\Escritorio\\Clase\\2DAM\\TFG\\Aplicaci\u00F3n\\f1quizz\\f1quizz\\f1quizz\\Properties\\launchSettings.json",
+              "RelativeToolTip": "f1quizz\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-21T14:47:57.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Microsoft.WindowsAppSDK.SingleProject.targets",
+              "DocumentMoniker": "C:\\Users\\carri\\.nuget\\packages\\microsoft.windowsappsdk\\1.7.250909003\\buildTransitive\\Microsoft.WindowsAppSDK.SingleProject.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\.nuget\\packages\\microsoft.windowsappsdk\\1.7.250909003\\buildTransitive\\Microsoft.WindowsAppSDK.SingleProject.targets",
+              "ToolTip": "C:\\Users\\carri\\.nuget\\packages\\microsoft.windowsappsdk\\1.7.250909003\\buildTransitive\\Microsoft.WindowsAppSDK.SingleProject.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\.nuget\\packages\\microsoft.windowsappsdk\\1.7.250909003\\buildTransitive\\Microsoft.WindowsAppSDK.SingleProject.targets",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAkwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-02-21T14:47:24.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PPQ",
+              "DocumentMoniker": "C:\\Users\\carri\\OneDrive\\Escritorio\\Clase\\2DAM\\TFG\\Aplicaci\u00F3n\\f1quizz\\f1quizz\\f1quizz\\PPQ.csproj",
+              "RelativeDocumentMoniker": "f1quizz\\PPQ.csproj",
+              "ToolTip": "C:\\Users\\carri\\OneDrive\\Escritorio\\Clase\\2DAM\\TFG\\Aplicaci\u00F3n\\f1quizz\\f1quizz\\f1quizz\\PPQ.csproj",
+              "RelativeToolTip": "f1quizz\\PPQ.csproj",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACIAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-21T14:45:38.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

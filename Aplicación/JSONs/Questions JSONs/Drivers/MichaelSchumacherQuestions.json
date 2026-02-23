@@ -1,0 +1,318 @@
+[
+    {
+      "category": "drivers",
+      "topic": "michaelSchumacher",
+      "language": {
+        "sp": {
+          "question": "¿De qué país es el piloto Michael Schumacher?",
+          "options": ["Alemania", "Suiza", "Austria", "Bélgica"],
+          "answer": "Alemania",
+          "fact": "Michael Schumacher nació en Hürth, Alemania."
+        },
+        "en": {
+          "question": "Which country is Michael Schumacher from?",
+          "options": ["Germany", "Switzerland", "Austria", "Belgium"],
+          "answer": "Germany",
+          "fact": "Michael Schumacher was born in Hürth, Germany."
+        }
+      },
+      "difficulty": 1,
+      "tags": ["origin", "basic"],
+      "image": "michaelschumacher_photo.png"
+    },
+    {
+      "category": "drivers",
+      "topic": "michaelSchumacher",
+      "language": {
+        "sp": {
+          "question": "¿En qué año debutó Michael Schumacher en la Fórmula 1?",
+          "options": ["1989", "1991", "1994", "1996"],
+          "answer": "1991",
+          "fact": "Debutó con el equipo Jordan en el Gran Premio de Bélgica."
+        },
+        "en": {
+          "question": "In which year did Michael Schumacher debut in Formula 1?",
+          "options": ["1989", "1991", "1994", "1996"],
+          "answer": "1991",
+          "fact": "He debuted with the Jordan team at the Belgian Grand Prix."
+        }
+      },
+      "difficulty": 1,
+      "tags": ["career", "basic"],
+      "image": "michaelschumacher_photo.png"
+    },
+    {
+      "category": "drivers",
+      "topic": "michaelSchumacher",
+      "language": {
+        "sp": {
+          "question": "¿Cuántos campeonatos del mundo de F1 ganó Michael Schumacher?",
+          "options": ["5", "6", "7", "8"],
+          "answer": "7",
+          "fact": "Ganó cinco títulos con Ferrari y dos con Benetton."
+        },
+        "en": {
+          "question": "How many Formula 1 World Championships did Michael Schumacher win?",
+          "options": ["5", "6", "7", "8"],
+          "answer": "7",
+          "fact": "He won five titles with Ferrari and two with Benetton."
+        }
+      },
+      "difficulty": 1,
+      "tags": ["titles", "basic"],
+      "image": "michaelschumacher_photo.png"
+    },
+    {
+      "category": "drivers",
+      "topic": "michaelSchumacher",
+      "language": {
+        "sp": {
+          "question": "¿Con qué equipo ganó Schumacher la mayoría de sus campeonatos?",
+          "options": ["Benetton", "Ferrari", "Mercedes", "McLaren"],
+          "answer": "Ferrari",
+          "fact": "Con Ferrari ganó cinco de sus siete títulos mundiales."
+        },
+        "en": {
+          "question": "With which team did Schumacher win most of his championships?",
+          "options": ["Benetton", "Ferrari", "Mercedes", "McLaren"],
+          "answer": "Ferrari",
+          "fact": "He won five of his seven world titles with Ferrari."
+        }
+      },
+      "difficulty": 1,
+      "tags": ["teams", "basic"],
+      "image": "michaelschumacher_photo.png"
+    },
+    {
+      "category": "drivers",
+      "topic": "michaelSchumacher",
+      "language": {
+        "sp": {
+          "question": "¿Qué característica definía a Michael Schumacher como piloto?",
+          "options": ["Velocidad en recta", "Constancia y agresividad", "Conducción defensiva", "Salidas rápidas"],
+          "answer": "Constancia y agresividad",
+          "fact": "Era famoso por su consistencia, estrategia y agresividad en pista."
+        },
+        "en": {
+          "question": "Which characteristic defined Michael Schumacher as a driver?",
+          "options": ["Top speed", "Consistency and aggression", "Defensive driving", "Quick starts"],
+          "answer": "Consistency and aggression",
+          "fact": "He was famous for his consistency, strategy, and on-track aggression."
+        }
+      },
+      "difficulty": 1,
+      "tags": ["skills", "basic"],
+      "image": "michaelschumacher_photo.png"
+    },
+    {
+      "category": "drivers",
+      "topic": "michaelSchumacher",
+      "language": {
+        "sp": {
+          "question": "¿En qué circuito logró Schumacher su primera victoria en F1?",
+          "options": ["Spa-Francorchamps", "Monza", "Estoril", "Silverstone"],
+          "answer": "Spa-Francorchamps",
+          "fact": "Ganó el Gran Premio de Bélgica en 1992."
+        },
+        "en": {
+          "question": "At which circuit did Schumacher achieve his first F1 victory?",
+          "options": ["Spa-Francorchamps", "Monza", "Estoril", "Silverstone"],
+          "answer": "Spa-Francorchamps",
+          "fact": "He won the 1992 Belgian Grand Prix."
+        }
+      },
+      "difficulty": 2,
+      "tags": ["wins", "circuits"],
+      "image": "michaelschumacher_photo.png"
+    },
+    {
+      "category": "drivers",
+      "topic": "michaelSchumacher",
+      "language": {
+        "sp": {
+          "question": "¿Qué dorsal utilizó históricamente Michael Schumacher?",
+          "options": ["1", "5", "7", "3"],
+          "answer": "1",
+          "fact": "Usaba el 1 tras ganar un campeonato."
+        },
+        "en": {
+          "question": "Which racing number did Michael Schumacher historically use?",
+          "options": ["1", "5", "7", "3"],
+          "answer": "1",
+          "fact": "He used number 1 after winning a championship."
+        }
+      },
+      "difficulty": 2,
+      "tags": ["number", "identity"],
+      "image": "michaelschumacher_photo.png"
+    },
+    {
+      "category": "drivers",
+      "topic": "michaelSchumacher",
+      "language": {
+        "sp": {
+          "question": "¿Qué equipo representaba Schumacher durante la era dominante de Ferrari?",
+          "options": ["McLaren", "Benetton", "Ferrari", "Mercedes"],
+          "answer": "Ferrari",
+          "fact": "Logró cinco títulos consecutivos entre 2000 y 2004."
+        },
+        "en": {
+          "question": "Which team did Schumacher represent during Ferrari's dominant era?",
+          "options": ["McLaren", "Benetton", "Ferrari", "Mercedes"],
+          "answer": "Ferrari",
+          "fact": "He won five consecutive titles from 2000 to 2004."
+        }
+      },
+      "difficulty": 2,
+      "tags": ["teams", "dominance"],
+      "image": "michaelschumacher_photo.png"
+    },
+    {
+      "category": "drivers",
+      "topic": "michaelSchumacher",
+      "language": {
+        "sp": {
+          "question": "¿Qué récord histórico de victorias tuvo Schumacher durante su carrera?",
+          "options": ["91 victorias", "72 victorias", "80 victorias", "60 victorias"],
+          "answer": "91 victorias",
+          "fact": "Poseía el récord de más victorias en F1 hasta que fue superado por Hamilton."
+        },
+        "en": {
+          "question": "What historic race win record did Schumacher hold during his career?",
+          "options": ["91 wins", "72 wins", "80 wins", "60 wins"],
+          "answer": "91 wins",
+          "fact": "He held the record for most F1 wins until surpassed by Hamilton."
+        }
+      },
+      "difficulty": 2,
+      "tags": ["records", "wins"],
+      "image": "michaelschumacher_photo.png"
+    },
+    {
+      "category": "drivers",
+      "topic": "michaelSchumacher",
+      "language": {
+        "sp": {
+          "question": "¿Qué rivalidad marcó especialmente la carrera de Schumacher?",
+          "options": ["Ayrton Senna", "Rubens Barrichello", "Mika Häkkinen", "Fernando Alonso"],
+          "answer": "Mika Häkkinen",
+          "fact": "Tuvo una intensa rivalidad con Häkkinen durante los años 1998–2001."
+        },
+        "en": {
+          "question": "Which rivalry especially marked Schumacher’s career?",
+          "options": ["Ayrton Senna", "Rubens Barrichello", "Mika Häkkinen", "Fernando Alonso"],
+          "answer": "Mika Häkkinen",
+          "fact": "He had an intense rivalry with Häkkinen from 1998 to 2001."
+        }
+      },
+      "difficulty": 2,
+      "tags": ["rivalry", "career"],
+      "image": "michaelschumacher_photo.png"
+    },
+    {
+      "category": "drivers",
+      "topic": "michaelSchumacher",
+      "language": {
+        "sp": {
+          "question": "¿Qué apodo tenía Michael Schumacher?",
+          "options": ["The Red Baron", "Schumi", "The Iceman", "Magic"],
+          "answer": "Schumi",
+          "fact": "Era conocido cariñosamente como 'Schumi' entre aficionados y medios."
+        },
+        "en": {
+          "question": "What nickname did Michael Schumacher have?",
+          "options": ["The Red Baron", "Schumi", "The Iceman", "Magic"],
+          "answer": "Schumi",
+          "fact": "He was affectionately known as 'Schumi' by fans and media."
+        }
+      },
+      "difficulty": 3,
+      "tags": ["nickname", "fans"],
+      "image": "michaelschumacher_photo.png"
+    },
+    {
+      "category": "drivers",
+      "topic": "michaelSchumacher",
+      "language": {
+        "sp": {
+          "question": "¿Qué récord de títulos consecutivos logró Schumacher?",
+          "options": ["3", "4", "5", "6"],
+          "answer": "5",
+          "fact": "Ganó cinco campeonatos consecutivos entre 2000 y 2004."
+        },
+        "en": {
+          "question": "What consecutive title record did Schumacher achieve?",
+          "options": ["3", "4", "5", "6"],
+          "answer": "5",
+          "fact": "He won five consecutive championships from 2000 to 2004."
+        }
+      },
+      "difficulty": 3,
+      "tags": ["records", "titles"],
+      "image": "michaelschumacher_photo.png"
+    },
+    {
+      "category": "drivers",
+      "topic": "michaelSchumacher",
+      "language": {
+        "sp": {
+          "question": "¿Qué accidente marcó la carrera de Schumacher en Silverstone 1999?",
+          "options": ["Choque frontal", "Salida de pista", "Colisión con el muro", "Accidente en pits"],
+          "answer": "Colisión con el muro",
+          "fact": "Se accidentó durante el Gran Premio de Europa, afectando su campeonato."
+        },
+        "en": {
+          "question": "Which accident marked Schumacher’s career at Silverstone 1999?",
+          "options": ["Head-on crash", "Off-track", "Collision with wall", "Pit accident"],
+          "answer": "Collision with wall",
+          "fact": "He crashed during the European GP, affecting his championship."
+        }
+      },
+      "difficulty": 3,
+      "tags": ["accident", "career"],
+      "image": "michaelschumacher_photo.png"
+    },
+    {
+      "category": "drivers",
+      "topic": "michaelSchumacher",
+      "language": {
+        "sp": {
+          "question": "¿Qué aspecto técnico destacaba Schumacher en el desarrollo del coche?",
+          "options": ["Feedback preciso", "Velocidad pura", "Agresividad", "Clasificación"],
+          "answer": "Feedback preciso",
+          "fact": "Era muy valorado por los ingenieros por su información detallada."
+        },
+        "en": {
+          "question": "Which technical aspect did Schumacher stand out for in car development?",
+          "options": ["Precise feedback", "Pure speed", "Aggression", "Qualifying pace"],
+          "answer": "Precise feedback",
+          "fact": "Engineers highly valued his detailed feedback."
+        }
+      },
+      "difficulty": 3,
+      "tags": ["technical", "development"],
+      "image": "michaelschumacher_photo.png"
+    },
+    {
+      "category": "drivers",
+      "topic": "michaelSchumacher",
+      "language": {
+        "sp": {
+          "question": "¿Por qué Michael Schumacher es considerado uno de los pilotos más completos de la historia?",
+          "options": ["Velocidad", "Estrategia y consistencia", "Número de poles", "Longevidad"],
+          "answer": "Estrategia y consistencia",
+          "fact": "Su combinación de velocidad, inteligencia y consistencia le hizo destacar en F1."
+        },
+        "en": {
+          "question": "Why is Michael Schumacher considered one of the most complete drivers in history?",
+          "options": ["Speed", "Strategy and consistency", "Number of poles", "Longevity"],
+          "answer": "Strategy and consistency",
+          "fact": "His combination of speed, intelligence, and consistency made him excel in F1."
+        }
+      },
+      "difficulty": 3,
+      "tags": ["legacy", "versatility"],
+      "image": "michaelschumacher_photo.png"
+    }
+  ]
+  

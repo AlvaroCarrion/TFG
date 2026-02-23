@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PPQ.Views.UserShell.QuizPage"
+             Title="QuizPage">
+    
+    <Shell.TitleView>
+        <StackLayout>
+            <Label
+                Style="{StaticResource LabelShellTitleStyle}"
+                Text="{DynamicResource ShellLabelPolePositionQuiz}"/>
+        </StackLayout>
+    </Shell.TitleView>
+
+    <VerticalStackLayout
+        VerticalOptions="Fill">
+
+        <Grid
+            RowDefinitions="*,*,*,*,*,*,*,*,*,*,*,*,*"
+            ColumnDefinitions="*,*,*,*">
+
+            <Label
+                x:Name="titleLabel"
+                Style="{StaticResource LabelTitleStyle}"
+                Grid.Row="0"
+                Grid.Column="1"
+                Grid.ColumnSpan="2"/>
+
+            <Label
+                x:Name="countdownLabel"
+                Style="{StaticResource LabelSubitleStyle}"
+                Margin="0"
+                Grid.Row="1"
+                Grid.Column="0"
+                Grid.ColumnSpan="4"/>
+
+            <Grid
+                x:Name="circuit"
+                RowDefinitions="*"
+                ColumnDefinitions="*,*,*,*,*,*,*,*,*,*,*,*,*,*,*"
+                Margin="0,0,0,20"
+                HeightRequest="50"
+                BackgroundColor="{DynamicResource ColorSecundary}"
+                Grid.Row="2"
+                Grid.Column="0"
+                Grid.ColumnSpan="4">
+                
+                <Image
+                    x:Name="carImage"
+                    Source="car.png"
+                    HeightRequest="80"
+                    WidthRequest="80"
+                    HorizontalOptions="Center"
+                    VerticalOptions="Center"
+                    Grid.Row="0"
+                    Grid.Column="0"
+                    ZIndex="10" />
+
+                <Label
+                    x:Name="box1"
+                    Style="{StaticResource LabelCircuitStyle}"
+                    Grid.Column="0"
+                    Text="1"/>
+
+                <Label
+                    x:Name="box2"
+                    Style="{StaticResource LabelCircuitStyle}"
+                    Grid.Column="1"
+                    Text="2"/>
+
+                <Label
+                    x:Name="box3"
+                    Style="{StaticResource LabelCircuitStyle}"
+                    Grid.Column="2"
+                    Text="3"/>
+
+                <Label
+                    x:Name="box4"
+                    Style="{StaticResource LabelCircuitStyle}"
+                    Grid.Column="3"
+                    Text="4"/>
+
+                <Label
+                    x:Name="box5"
+                    Style="{StaticResource LabelCircuitStyle}"
+                    Grid.Column="4"
+                    Text="5"/>
+
+                <Label
+                    x:Name="box6"
+                    Style="{StaticResource LabelCircuitStyle}"
+                    Grid.Column="5"
+                    Text="6"/>
+
+                <Label
+                    x:Name="box7"
+                    Style="{StaticResource LabelCircuitStyle}"
+                    Grid.Column="6"
+                    Text="7"/>
+
+                <Label
+                    x:Name="box8"
+                    Style="{StaticResource LabelCircuitStyle}"
+                    Grid.Column="7"
+                    Text="8"/>
+
+                <Label
+                    x:Name="box9"
+                    Style="{StaticResource LabelCircuitStyle}"
+                    Grid.Column="8"
+                    Text="9"/>
+
+                <Label
+                    x:Name="box10"
+                    Style="{StaticResource LabelCircuitStyle}"
+                    Grid.Column="9"
+                    Text="10"/>
+
+                <Label
+                    x:Name="box11"
+                    Style="{StaticResource LabelCircuitStyle}"
+                    Grid.Column="10"
+                    Text="11"/>
+
+                <Label
+                    x:Name="box12"
+                    Style="{StaticResource LabelCircuitStyle}"
+                    Grid.Column="11"
+                    Text="12"/>
+
+                <Label
+                    x:Name="box13"
+                    Style="{StaticResource LabelCircuitStyle}"
+                    Grid.Column="12"
+                    Text="13"/>
+                
+                <Label
+                    x:Name="box14"
+                    Style="{StaticResource LabelCircuitStyle}"
+                    Grid.Column="13"
+                    Text="14"/>
+
+                <Image
+                    Source="finishline.png"
+                    HeightRequest="50"
+                    VerticalOptions="Center"
+                    HorizontalOptions="End"
+                    Grid.Column="14"/>
+
+                <Label
+                    x:Name="box15"
+                    Style="{StaticResource LabelCircuitStyle}"
+                    Grid.Column="14"
+                    Text="15"/>
+
+            </Grid>
+
+            <Frame
+                Padding="0"            
+                BackgroundColor="Black"
+                BorderColor="{DynamicResource Principal}"
+                CornerRadius="10"
+                HorizontalOptions="Center"
+                WidthRequest="200"
+                HeightRequest="200"
+                Grid.Row="3"
+                Grid.Column="1"
+                Grid.ColumnSpan="2">
+
+                <Image
+                    x:Name="quizImage"
+                    Aspect="AspectFill"
+                    WidthRequest="198"
+                    HeightRequest="198"/>
+            </Frame>
+
+            <Label
+                x:Name="question"
+                Style="{StaticResource LabelTitleStyle}"
+                FontSize="22"
+                Margin="0,10,0,10"
+                HorizontalTextAlignment="Center"
+                Grid.Row="4"
+                Grid.Column="1"
+                Grid.ColumnSpan="2"/>
+
+            <BoxView
+                Style="{StaticResource BoxViewSytle}"
+                Grid.Row="5"
+                Grid.Column="0"
+                Grid.ColumnSpan="4"/>
+
+            <Button
+                x:Name="answerA"
+                Style="{StaticResource ButtonStyleQuestions}"
+                Clicked="OnOptionClicked"
+                Grid.Row="6"
+                Grid.Column="1"
+                Grid.ColumnSpan="2"/>
+
+            <BoxView
+                Style="{StaticResource BoxViewSytle}"
+                Grid.Row="7"
+                Grid.Column="1"/>
+
+            <Button
+                x:Name="answerB"
+                Style="{StaticResource ButtonStyleQuestions}"
+                Clicked="OnOptionClicked"
+                Grid.Row="8"
+                Grid.Column="1"
+                Grid.ColumnSpan="2" />
+
+            <BoxView
+                Style="{StaticResource BoxViewSytle}"
+                Grid.Row="9"
+                Grid.Column="1"/>
+
+            <Button
+                x:Name="answerC"
+                Style="{StaticResource ButtonStyleQuestions}"
+                Clicked="OnOptionClicked"
+                Grid.Row="10"
+                Grid.Column="1"
+                Grid.ColumnSpan="2"/>
+
+            <BoxView
+                Style="{StaticResource BoxViewSytle}"
+                Grid.Row="11"
+                Grid.Column="1"/>
+
+            <Button
+                x:Name="answerD"
+                Style="{StaticResource ButtonStyleQuestions}"
+                Clicked="OnOptionClicked"
+                Grid.Row="12"
+                Grid.Column="1"
+                Grid.ColumnSpan="2"/>
+        </Grid>
+    </VerticalStackLayout>
+</ContentPage>

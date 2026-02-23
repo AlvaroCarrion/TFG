@@ -1,0 +1,2224 @@
+{
+  "questionsCircuits":[
+  {
+  "_id": {
+    "oid": "691d8c9906dd902831e49ebc"
+  },
+  "category": "circuits",
+  "topic": "montmelo",
+  "language": {
+    "sp": {
+      "question": "¿Qué equipo tiene más victorias en Montmeló?",
+      "options": [
+        "Ferrari",
+        "Mercedes",
+        "Red Bull",
+        "McLaren"
+      ],
+      "answer": "Ferrari",
+      "fact": "Ferrari ha conseguido numerosas victorias históricas en el Gran Premio de España."
+    },
+    "en": {
+      "question": "Which team has the most victories at Montmeló?",
+      "options": [
+        "Ferrari",
+        "Mercedes",
+        "Red Bull",
+        "McLaren"
+      ],
+      "answer": "Ferrari",
+      "fact": "Ferrari has achieved numerous historic victories at the Spanish Grand Prix."
+    }
+  },
+  "difficulty": 3,
+  "tags": [
+    "records",
+    "history"
+  ],
+  "image": "montmelo_podium.png"
+},
+{
+  "_id": {
+    "oid": "691d8c9906dd902831e49eb6"
+  },
+  "category": "circuits",
+  "topic": "montmelo",
+  "language": {
+    "sp": {
+      "question": "¿Cuál es la longitud aproximada del circuito?",
+      "options": [
+        "4,6 km",
+        "5,5 km",
+        "3,8 km",
+        "6,1 km"
+      ],
+      "answer": "4,6 km",
+      "fact": "El circuito mide aproximadamente 4,655 km de longitud."
+    },
+    "en": {
+      "question": "What is the approximate length of the circuit?",
+      "options": [
+        "4.6 km",
+        "5.5 km",
+        "3.8 km",
+        "6.1 km"
+      ],
+      "answer": "4.6 km",
+      "fact": "The circuit is approximately 4.655 km long."
+    }
+  },
+  "difficulty": 1,
+  "tags": [
+    "length",
+    "basic"
+  ],
+  "image": "lenght_montmelo.png"
+},
+{
+  "_id": {
+    "oid": "691d8c9906dd902831e49ec1"
+  },
+  "category": "circuits",
+  "topic": "montmelo",
+  "language": {
+    "sp": {
+      "question": "¿Qué aspecto técnico del trazado es especialmente valorado por los equipos durante los test?",
+      "options": [
+        "La variedad de curvas",
+        "El clima extremo",
+        "Las pendientes pronunciadas",
+        "La gran zona de grava"
+      ],
+      "answer": "La variedad de curvas",
+      "fact": "La combinación de curvas lentas, medias y rápidas del circuito permite evaluar el comportamiento del coche en distintos tipos de agarre y cargas aerodinámicas."
+    },
+    "en": {
+      "question": "What technical aspect of the layout is especially valued by teams during testing?",
+      "options": [
+        "Variety of corners",
+        "Extreme weather",
+        "Steep gradients",
+        "Large gravel area"
+      ],
+      "answer": "Variety of corners",
+      "fact": "The combination of slow, medium, and fast corners helps evaluate car behavior under different grip and aerodynamic conditions."
+    }
+  },
+  "difficulty": 3,
+  "tags": [
+    "technical",
+    "testing"
+  ],
+  "image": "montmelo_testing.png"
+},
+{
+  "_id": {
+    "oid": "691d8fb106dd902831e49ec5"
+  },
+  "category": "circuits",
+  "topic": "monaco",
+  "language": {
+    "sp": {
+      "question": "¿Qué caracteriza a las curvas del circuito de Mónaco?",
+      "options": [
+        "Son extremadamente rápidas",
+        "Son muy estrechas",
+        "Tienen grava",
+        "Todas son peraltadas"
+      ],
+      "answer": "Son muy estrechas",
+      "fact": "Es uno de los circuitos con menos espacio para adelantar."
+    },
+    "en": {
+      "question": "What characterizes the corners of the Monaco circuit?",
+      "options": [
+        "They are extremely fast",
+        "They are very narrow",
+        "They have gravel",
+        "They are all banked"
+      ],
+      "answer": "They are very narrow",
+      "fact": "It is one of the circuits with the least space for overtaking."
+    }
+  },
+  "difficulty": 1,
+  "tags": [
+    "corners",
+    "basic"
+  ],
+  "image": "corners_of_monaco.png"
+},
+{
+  "_id": {
+    "oid": "691d8fb106dd902831e49ec2"
+  },
+  "category": "circuits",
+  "topic": "monaco",
+  "language": {
+    "sp": {
+      "question": "¿En qué país se encuentra el circuito de Mónaco?",
+      "options": [
+        "Francia",
+        "Italia",
+        "Mónaco",
+        "Suiza"
+      ],
+      "answer": "Mónaco",
+      "fact": "El Principado de Mónaco es el segundo país más pequeño del mundo."
+    },
+    "en": {
+      "question": "In which country is the Monaco Circuit located?",
+      "options": [
+        "France",
+        "Italy",
+        "Monaco",
+        "Switzerland"
+      ],
+      "answer": "Monaco",
+      "fact": "The Principality of Monaco is the second smallest country in the world."
+    }
+  },
+  "difficulty": 1,
+  "tags": [
+    "location",
+    "basic"
+  ],
+  "image": "where_monaco.png"
+},
+{
+  "_id": {
+    "oid": "691d8fb106dd902831e49ec7"
+  },
+  "category": "circuits",
+  "topic": "monaco",
+  "language": {
+    "sp": {
+      "question": "¿Cuál es la curva más lenta del circuito de Mónaco?",
+      "options": [
+        "La Piscine",
+        "Curva Fairmont",
+        "Tabac",
+        "Sainte Dévote"
+      ],
+      "answer": "Curva Fairmont",
+      "fact": "Es la curva más lenta de toda la Fórmula 1, tomada a unos 50 km/h."
+    },
+    "en": {
+      "question": "Which is the slowest corner of the Monaco circuit?",
+      "options": [
+        "La Piscine",
+        "Fairmont Hairpin",
+        "Tabac",
+        "Sainte Dévote"
+      ],
+      "answer": "Fairmont Hairpin",
+      "fact": "It is the slowest corner in all of Formula 1, taken at about 50 km/h."
+    }
+  },
+  "difficulty": 2,
+  "tags": [
+    "corners",
+    "speed"
+  ],
+  "image": "slowest_zone.png"
+},
+{
+  "_id": {
+    "oid": "691d8c9906dd902831e49eb4"
+  },
+  "category": "circuits",
+  "topic": "montmelo",
+  "language": {
+    "sp": {
+      "question": "¿Qué evento de Fórmula 1 se celebra anualmente en este circuito?",
+      "options": [
+        "Gran Premio de España",
+        "Gran Premio de Cataluña",
+        "Gran Premio de Montmeló",
+        "Gran Premio de Barcelona"
+      ],
+      "answer": "Gran Premio de España",
+      "fact": "El Gran Premio de España de Fórmula 1 se disputa cada año en el Circuito de Barcelona-Cataluña."
+    },
+    "en": {
+      "question": "Which Formula 1 event is held annually at this circuit?",
+      "options": [
+        "Spanish Grand Prix",
+        "Catalonia Grand Prix",
+        "Montmeló Grand Prix",
+        "Barcelona Grand Prix"
+      ],
+      "answer": "Spanish Grand Prix",
+      "fact": "The Formula 1 Spanish Grand Prix is held every year at the Circuit de Barcelona-Catalunya."
+    }
+  },
+  "difficulty": 1,
+  "tags": [
+    "event",
+    "basic"
+  ],
+  "image": "what_event.png"
+},
+{
+  "_id": {
+    "oid": "691d8c9906dd902831e49eba"
+  },
+  "category": "circuits",
+  "topic": "montmelo",
+  "language": {
+    "sp": {
+      "question": "¿Qué curva del circuito combina velocidad y precisión técnica?",
+      "options": [
+        "Curva 1",
+        "Curva 5",
+        "Curva 9",
+        "Curva 14"
+      ],
+      "answer": "Curva 9",
+      "fact": "Curva 9 es rápida y requiere precisión para no perder tiempo."
+    },
+    "en": {
+      "question": "Which corner of the circuit combines speed and technical precision?",
+      "options": [
+        "Turn 1",
+        "Turn 5",
+        "Turn 9",
+        "Turn 14"
+      ],
+      "answer": "Turn 9",
+      "fact": "Turn 9 is fast and requires precision to avoid time loss."
+    }
+  },
+  "difficulty": 2,
+  "tags": [
+    "technical",
+    "corners"
+  ],
+  "image": "montmelo_cornernine.png"
+},
+{
+  "_id": {
+    "oid": "691d8c9906dd902831e49eb3"
+  },
+  "category": "circuits",
+  "topic": "montmelo",
+  "language": {
+    "sp": {
+      "question": "¿En qué ciudad se encuentra el Circuito de Barcelona-Cataluña?",
+      "options": [
+        "Barcelona",
+        "Montmeló",
+        "Madrid",
+        "Valencia"
+      ],
+      "answer": "Montmeló",
+      "fact": "El Circuito de Barcelona-Cataluña está ubicado en Montmeló, a unos 30 km de Barcelona."
+    },
+    "en": {
+      "question": "In which city is the Circuit de Barcelona-Catalunya located?",
+      "options": [
+        "Barcelona",
+        "Montmeló",
+        "Madrid",
+        "Valencia"
+      ],
+      "answer": "Montmeló",
+      "fact": "The Circuit de Barcelona-Catalunya is located in Montmeló, about 30 km from Barcelona."
+    }
+  },
+  "difficulty": 1,
+  "tags": [
+    "location",
+    "basic"
+  ],
+  "image": "where_montmelo.png"
+},
+{
+  "_id": {
+    "oid": "691d8fb106dd902831e49ec8"
+  },
+  "category": "circuits",
+  "topic": "monaco",
+  "language": {
+    "sp": {
+      "question": "¿Qué parte del circuito pasa por un túnel?",
+      "options": [
+        "Sector 1",
+        "Sector 2",
+        "Sector 3",
+        "Línea de meta"
+      ],
+      "answer": "Sector 2",
+      "fact": "El túnel produce un cambio brusco de luz que dificulta la visibilidad."
+    },
+    "en": {
+      "question": "Which part of the circuit passes through a tunnel?",
+      "options": [
+        "Sector 1",
+        "Sector 2",
+        "Sector 3",
+        "Finish line"
+      ],
+      "answer": "Sector 2",
+      "fact": "The tunnel produces a sudden change in light that makes visibility difficult."
+    }
+  },
+  "difficulty": 2,
+  "tags": [
+    "tunnel",
+    "sector"
+  ],
+  "image": "tunnel.png"
+},
+{
+  "_id": {
+    "oid": "691d8fb106dd902831e49ec9"
+  },
+  "category": "circuits",
+  "topic": "monaco",
+  "language": {
+    "sp": {
+      "question": "¿Cuál es la longitud aproximada del circuito de Mónaco?",
+      "options": [
+        "2.0 km",
+        "3.3 km",
+        "4.1 km",
+        "5.6 km"
+      ],
+      "answer": "3.3 km",
+      "fact": "Es uno de los circuitos más cortos del calendario de Fórmula 1."
+    },
+    "en": {
+      "question": "What is the approximate length of the Monaco circuit?",
+      "options": [
+        "2.0 km",
+        "3.3 km",
+        "4.1 km",
+        "5.6 km"
+      ],
+      "answer": "3.3 km",
+      "fact": "It is one of the shortest circuits on the Formula 1 calendar."
+    }
+  },
+  "difficulty": 2,
+  "tags": [
+    "length",
+    "facts"
+  ],
+  "image": "circuit_lenght.png"
+},
+{
+  "_id": {
+    "oid": "691d8fb106dd902831e49eca"
+  },
+  "category": "circuits",
+  "topic": "monaco",
+  "language": {
+    "sp": {
+      "question": "¿Cuál es el principal desafío para los pilotos en Mónaco?",
+      "options": [
+        "La velocidad punta",
+        "La lluvia constante",
+        "La falta de espacio",
+        "Los adelantamientos fáciles"
+      ],
+      "answer": "La falta de espacio",
+      "fact": "El circuito es muy estrecho y exige una precisión extrema."
+    },
+    "en": {
+      "question": "What is the main challenge for drivers in Monaco?",
+      "options": [
+        "Top speed",
+        "Constant rain",
+        "Lack of space",
+        "Easy overtaking"
+      ],
+      "answer": "Lack of space",
+      "fact": "The circuit is very narrow, requiring extreme precision."
+    }
+  },
+  "difficulty": 2,
+  "tags": [
+    "difficulty",
+    "technical"
+  ],
+  "image": "crash.png"
+},
+{
+  "_id": {
+    "oid": "691d8fb106dd902831e49ecf"
+  },
+  "category": "circuits",
+  "topic": "monaco",
+  "language": {
+    "sp": {
+      "question": "¿Qué elemento histórico se encuentra junto a Sainte Dévote?",
+      "options": [
+        "Un museo marítimo",
+        "Una iglesia",
+        "Un castillo",
+        "Un monumento militar"
+      ],
+      "answer": "Una iglesia",
+      "fact": "La curva Sainte Dévote recibe su nombre de una capilla situada justo al lado."
+    },
+    "en": {
+      "question": "Which historic element is located next to the Sainte Dévote area?",
+      "options": [
+        "A maritime museum",
+        "A church",
+        "A castle",
+        "A military monument"
+      ],
+      "answer": "A church",
+      "fact": "The Sainte Dévote corner is named after a chapel located right next to it."
+    }
+  },
+  "difficulty": 3,
+  "tags": [
+    "history",
+    "corners"
+  ],
+  "image": "santa_devota.png"
+},
+{
+  "_id": {
+    "oid": "691d8fb106dd902831e49ec6"
+  },
+  "category": "circuits",
+  "topic": "monaco",
+  "language": {
+    "sp": {
+      "question": "¿Qué sección del circuito es famosa por su fuerte bajada?",
+      "options": [
+        "Mirabeau",
+        "La Piscine",
+        "Tabac",
+        "Rascasse"
+      ],
+      "answer": "Mirabeau",
+      "fact": "La sección de Mirabeau es una de las más complejas debido a los cambios de pendiente."
+    },
+    "en": {
+      "question": "Which section of the circuit is famous for its steep downhill?",
+      "options": [
+        "Mirabeau",
+        "La Piscine",
+        "Tabac",
+        "Rascasse"
+      ],
+      "answer": "Mirabeau",
+      "fact": "The Mirabeau section is one of the most complex due to changes in gradient."
+    }
+  },
+  "difficulty": 1,
+  "tags": [
+    "zones",
+    "basic"
+  ],
+  "image": "mirabeau.png"
+},
+{
+  "_id": {
+    "oid": "691d8fb106dd902831e49ecb"
+  },
+  "category": "circuits",
+  "topic": "monaco",
+  "language": {
+    "sp": {
+      "question": "¿Qué zona es especialmente estrecha antes de la línea de meta?",
+      "options": [
+        "La Rascasse",
+        "La Piscine",
+        "Mirabeau",
+        "Portier"
+      ],
+      "answer": "La Rascasse",
+      "fact": "La curva Rascasse ha sido escenario de momentos polémicos como el bloqueo de Schumacher en 2006."
+    },
+    "en": {
+      "question": "Which section is known for being especially narrow before the finish line?",
+      "options": [
+        "La Rascasse",
+        "La Piscine",
+        "Mirabeau",
+        "Portier"
+      ],
+      "answer": "La Rascasse",
+      "fact": "The Rascasse corner has been the scene of controversial moments such as Schumacher's block in 2006."
+    }
+  },
+  "difficulty": 2,
+  "tags": [
+    "rascasse",
+    "narrow"
+  ],
+  "image": "rascasse.png"
+},
+{
+  "_id": {
+    "oid": "691d8c9906dd902831e49ebe"
+  },
+  "category": "circuits",
+  "topic": "montmelo",
+  "language": {
+    "sp": {
+      "question": "¿Cuál es el reto principal para los pilotos en Montmeló?",
+      "options": [
+        "Curvas rápidas",
+        "Cambio de temperatura",
+        "Consistencia en neumáticos",
+        "Condiciones de lluvia"
+      ],
+      "answer": "Consistencia en neumáticos",
+      "fact": "Los cambios de temperatura y desgaste de neumáticos afectan mucho la estrategia."
+    },
+    "en": {
+      "question": "What is the main challenge for drivers at Montmeló?",
+      "options": [
+        "Fast corners",
+        "Temperature changes",
+        "Tyre consistency",
+        "Rain conditions"
+      ],
+      "answer": "Tyre consistency",
+      "fact": "Temperature changes and tyre wear heavily influence race strategy."
+    }
+  },
+  "difficulty": 3,
+  "tags": [
+    "challenge",
+    "strategy"
+  ],
+  "image": "montmelo_difficulty.png"
+},
+{
+  "_id": {
+    "oid": "691d8c9906dd902831e49ec0"
+  },
+  "category": "circuits",
+  "topic": "montmelo",
+  "language": {
+    "sp": {
+      "question": "¿Para qué se utiliza frecuentemente el Circuit de Barcelona-Cataluña fuera de las carreras?",
+      "options": [
+        "Pruebas de pretemporada",
+        "Conciertos",
+        "Ferias agrícolas",
+        "Carreras de camiones"
+      ],
+      "answer": "Pruebas de pretemporada",
+      "fact": "El circuito es muy utilizado por equipos de Fórmula 1 y otras categorías para pruebas y test de pretemporada."
+    },
+    "en": {
+      "question": "What is the Circuit de Barcelona-Catalunya frequently used for outside of racing events?",
+      "options": [
+        "Pre-season testing",
+        "Concerts",
+        "Agricultural fairs",
+        "Truck races"
+      ],
+      "answer": "Pre-season testing",
+      "fact": "The circuit is widely used by Formula 1 and other categories for testing sessions."
+    }
+  },
+  "difficulty": 2,
+  "tags": [
+    "testing",
+    "events"
+  ],
+  "image": "montmelo_tests.png"
+},
+{
+  "_id": {
+    "oid": "691d8fb106dd902831e49ecd"
+  },
+  "category": "circuits",
+  "topic": "monaco",
+  "language": {
+    "sp": {
+      "question": "¿En qué año se incluyó oficialmente el GP de Mónaco en el Campeonato Mundial de F1?",
+      "options": [
+        "1950",
+        "1955",
+        "1960",
+        "1948"
+      ],
+      "answer": "1950",
+      "fact": "Aunque hubo carreras previas, la primera válida para el mundial fue en 1950."
+    },
+    "en": {
+      "question": "In which year was the Monaco Grand Prix officially included in the F1 World Championship for the first time?",
+      "options": [
+        "1950",
+        "1955",
+        "1960",
+        "1948"
+      ],
+      "answer": "1950",
+      "fact": "Although there were previous races, the first official World Championship race was in 1950."
+    }
+  },
+  "difficulty": 3,
+  "tags": [
+    "history",
+    "dates"
+  ],
+  "image": "first_race.png"
+},
+{
+  "_id": {
+    "oid": "691d8fb106dd902831e49ec3"
+  },
+  "category": "circuits",
+  "topic": "monaco",
+  "language": {
+    "sp": {
+      "question": "¿Cómo se conoce comúnmente el Gran Premio de Mónaco?",
+      "options": [
+        "El GP del Principado",
+        "El GP del Mediterráneo",
+        "El GP del Casino",
+        "El GP Azul"
+      ],
+      "answer": "El GP del Principado",
+      "fact": "El circuito pasa junto al famoso Casino de Montecarlo."
+    },
+    "en": {
+      "question": "What is the Monaco Grand Prix commonly known as?",
+      "options": [
+        "The Principality GP",
+        "The Mediterranean GP",
+        "The Casino GP",
+        "The Blue GP"
+      ],
+      "answer": "The Principality GP",
+      "fact": "The circuit passes by the famous Montecarlo Casino."
+    }
+  },
+  "difficulty": 1,
+  "tags": [
+    "name",
+    "basic"
+  ],
+  "image": "circuit_name.png"
+},
+{
+  "_id": {
+    "oid": "691d8fb106dd902831e49ece"
+  },
+  "category": "circuits",
+  "topic": "monaco",
+  "language": {
+    "sp": {
+      "question": "¿Qué hace única la salida del túnel en Mónaco?",
+      "options": [
+        "Un cambio brusco de luz",
+        "Una zona de grava",
+        "Un peralte negativo",
+        "Un salto en el asfalto"
+      ],
+      "answer": "Un cambio brusco de luz",
+      "fact": "Los pilotos pasan de la oscuridad a la luz directa del sol, dificultando la frenada."
+    },
+    "en": {
+      "question": "What makes the tunnel exit in Monaco unique?",
+      "options": [
+        "A sudden change in light",
+        "A gravel area",
+        "A negative camber",
+        "A jump on the track"
+      ],
+      "answer": "A sudden change in light",
+      "fact": "Drivers go from darkness to direct sunlight, making braking difficult."
+    }
+  },
+  "difficulty": 3,
+  "tags": [
+    "tunnel",
+    "technical"
+  ],
+  "image": "tunnel_exit.png"
+},
+{
+  "_id": {
+    "oid": "691d8fb106dd902831e49ed0"
+  },
+  "category": "circuits",
+  "topic": "monaco",
+  "language": {
+    "sp": {
+      "question": "¿Qué sección del circuito es crítica por su combinación de velocidad y precisión?",
+      "options": [
+        "La Piscine",
+        "Tabac",
+        "Mirabeau",
+        "Portier"
+      ],
+      "answer": "La Piscine",
+      "fact": "Las rápidas curvas enlazadas de La Piscine requieren cambios de dirección milimétricos."
+    },
+    "en": {
+      "question": "Which section of the circuit is particularly critical due to its combination of speed and precision?",
+      "options": [
+        "La Piscine",
+        "Tabac",
+        "Mirabeau",
+        "Portier"
+      ],
+      "answer": "La Piscine",
+      "fact": "The fast linked corners of La Piscine require millimeter-precise direction changes."
+    }
+  },
+  "difficulty": 3,
+  "tags": [
+    "technical",
+    "precission"
+  ],
+  "image": "critic_sector.png"
+},
+{
+  "_id": {
+    "oid": "691d8c9906dd902831e49eb8"
+  },
+  "category": "circuits",
+  "topic": "montmelo",
+  "language": {
+    "sp": {
+      "question": "¿Qué curva es la más lenta del circuito?",
+      "options": [
+        "Curva 3",
+        "Curva 10",
+        "Curva 1",
+        "Curva 9"
+      ],
+      "answer": "Curva 10",
+      "fact": "La Curva 10 es una de las más lentas, tomada a baja velocidad y requiere precisión."
+    },
+    "en": {
+      "question": "Which corner is the slowest on the circuit?",
+      "options": [
+        "Turn 3",
+        "Turn 10",
+        "Turn 1",
+        "Turn 9"
+      ],
+      "answer": "Turn 10",
+      "fact": "Turn 10 is one of the slowest corners, taken at low speed and requiring precision."
+    }
+  },
+  "difficulty": 2,
+  "tags": [
+    "corners",
+    "speed"
+  ],
+  "image": "montmelo_cornerten.png"
+},
+{
+  "_id": {
+    "oid": "691d8c9906dd902831e49ebd"
+  },
+  "category": "circuits",
+  "topic": "montmelo",
+  "language": {
+    "sp": {
+      "question": "¿En qué año se inauguró el Circuito de Barcelona-Cataluña?",
+      "options": [
+        "1991",
+        "1985",
+        "1995",
+        "2000"
+      ],
+      "answer": "1991",
+      "fact": "El circuito se inauguró en 1991 y forma parte del calendario de F1 desde entonces."
+    },
+    "en": {
+      "question": "In what year was the Circuit de Barcelona-Catalunya inaugurated?",
+      "options": [
+        "1991",
+        "1985",
+        "1995",
+        "2000"
+      ],
+      "answer": "1991",
+      "fact": "The circuit opened in 1991 and has been part of the F1 calendar since then."
+    }
+  },
+  "difficulty": 3,
+  "tags": [
+    "history",
+    "dates"
+  ],
+  "image": "montmelo_inauguration.png"
+},
+{
+  "_id": {
+    "oid": "691d8c9906dd902831e49ebf"
+  },
+  "category": "circuits",
+  "topic": "montmelo",
+  "language": {
+    "sp": {
+      "question": "¿Qué curva es conocida por su combinación de chicanes rápidas?",
+      "options": [
+        "Curva 3-4",
+        "Curva 5-6",
+        "Curva 9-10",
+        "Curva 14-15"
+      ],
+      "answer": "Curva 3-4",
+      "fact": "La combinación de Curva 3-4 requiere cambios rápidos de dirección."
+    },
+    "en": {
+      "question": "Which corner is known for its combination of fast chicanes?",
+      "options": [
+        "Turn 3-4",
+        "Turn 5-6",
+        "Turn 9-10",
+        "Turn 14-15"
+      ],
+      "answer": "Turn 3-4",
+      "fact": "The Turn 3-4 combination requires rapid direction changes."
+    }
+  },
+  "difficulty": 3,
+  "tags": [
+    "corners",
+    "technical"
+  ],
+  "image": "montmelo_fastcorners.png"
+},
+{
+  "_id": {
+    "oid": "691d8c9906dd902831e49eb5"
+  },
+  "category": "circuits",
+  "topic": "montmelo",
+  "language": {
+    "sp": {
+      "question": "¿De qué tipo es el Circuito de Barcelona-Cataluña?",
+      "options": [
+        "Permanente",
+        "Urbano",
+        "Semi-permanente",
+        "Ovalado"
+      ],
+      "answer": "Permanente",
+      "fact": "Es un circuito permanente, no un trazado urbano temporal."
+    },
+    "en": {
+      "question": "What type of circuit is the Circuit de Barcelona-Catalunya?",
+      "options": [
+        "Permanent",
+        "Street",
+        "Semi-permanent",
+        "Oval"
+      ],
+      "answer": "Permanent",
+      "fact": "It is a permanent circuit, not a temporary street layout."
+    }
+  },
+  "difficulty": 1,
+  "tags": [
+    "circuit",
+    "type"
+  ],
+  "image": "circuit_type.png"
+},
+{
+  "_id": {
+    "oid": "691d8c9906dd902831e49eb9"
+  },
+  "category": "circuits",
+  "topic": "montmelo",
+  "language": {
+    "sp": {
+      "question": "¿Cuál es la recta principal del circuito?",
+      "options": [
+        "Recta de meta",
+        "Recta de boxes",
+        "Recta del estadio",
+        "Recta larga"
+      ],
+      "answer": "Recta de meta",
+      "fact": "La recta principal o de meta es donde se alcanza la mayor velocidad."
+    },
+    "en": {
+      "question": "What is the main straight of the circuit called?",
+      "options": [
+        "Main straight",
+        "Pit straight",
+        "Stadium straight",
+        "Long straight"
+      ],
+      "answer": "Main straight",
+      "fact": "The main or start/finish straight is where the highest speeds are reached."
+    }
+  },
+  "difficulty": 2,
+  "tags": [
+    "straight",
+    "speed"
+  ],
+  "image": "montmelo_straight.png"
+},
+{
+  "_id": {
+    "oid": "691d8c9906dd902831e49ebb"
+  },
+  "category": "circuits",
+  "topic": "montmelo",
+  "language": {
+    "sp": {
+      "question": "¿Qué sección del circuito suele ser decisiva para adelantar?",
+      "options": [
+        "Recta principal",
+        "Curva 5",
+        "Curva 3",
+        "Curva 10"
+      ],
+      "answer": "Recta principal",
+      "fact": "Los adelantamientos suelen darse en la recta principal gracias a la DRS."
+    },
+    "en": {
+      "question": "Which section of the circuit is usually decisive for overtaking?",
+      "options": [
+        "Main straight",
+        "Turn 5",
+        "Turn 3",
+        "Turn 10"
+      ],
+      "answer": "Main straight",
+      "fact": "Overtakes often occur on the main straight thanks to DRS."
+    }
+  },
+  "difficulty": 2,
+  "tags": [
+    "overtaking",
+    "strategy"
+  ],
+  "image": "montmelo_overtakes.png"
+},
+{
+  "_id": {
+    "oid": "691d8c9906dd902831e49eb7"
+  },
+  "category": "circuits",
+  "topic": "montmelo",
+  "language": {
+    "sp": {
+      "question": "¿Qué característica distingue a las curvas del Circuito de Montmeló?",
+      "options": [
+        "Son muy lentas",
+        "Son de alta velocidad",
+        "Tienen peraltes",
+        "Varían en velocidad y radio"
+      ],
+      "answer": "Varían en velocidad y radio",
+      "fact": "El circuito combina curvas lentas, medias y rápidas, lo que lo hace técnico para los pilotos."
+    },
+    "en": {
+      "question": "What characteristic distinguishes the corners of the Montmeló circuit?",
+      "options": [
+        "They are very slow",
+        "They are high-speed",
+        "They have banking",
+        "They vary in speed and radius"
+      ],
+      "answer": "They vary in speed and radius",
+      "fact": "The circuit combines slow, medium, and fast corners, making it technical for drivers."
+    }
+  },
+  "difficulty": 1,
+  "tags": [
+    "corners",
+    "basic"
+  ],
+  "image": "montmelo_corners.png"
+},
+{
+  "_id": {
+    "oid": "691d8fb106dd902831e49ec4"
+  },
+  "category": "circuits",
+  "topic": "monaco",
+  "language": {
+    "sp": {
+      "question": "¿Qué tipo de circuito es Mónaco?",
+      "options": [
+        "Permanente",
+        "Semipermanente",
+        "Urbano",
+        "Desértico"
+      ],
+      "answer": "Urbano",
+      "fact": "El trazado se monta cada año utilizando las calles reales de la ciudad."
+    },
+    "en": {
+      "question": "What type of circuit is Monaco?",
+      "options": [
+        "Permanent",
+        "Semi-permanent",
+        "Street",
+        "Desert"
+      ],
+      "answer": "Street",
+      "fact": "The track is set up each year using real city streets."
+    }
+  },
+  "difficulty": 1,
+  "tags": [
+    "circuit",
+    "urban"
+  ],
+  "image": "urban_circuit.png"
+},
+{
+  "_id": {
+    "oid": "691d8fb106dd902831e49ecc"
+  },
+  "category": "circuits",
+  "topic": "monaco",
+  "language": {
+    "sp": {
+      "question": "¿Qué piloto tiene más victorias en Mónaco?",
+      "options": [
+        "Michael Schumacher",
+        "Lewis Hamilton",
+        "Ayrton Senna",
+        "Graham Hill"
+      ],
+      "answer": "Ayrton Senna",
+      "fact": "Senna tiene 6 victorias en Mónaco, un récord histórico."
+    },
+    "en": {
+      "question": "Which driver has the most wins in Monaco?",
+      "options": [
+        "Michael Schumacher",
+        "Lewis Hamilton",
+        "Ayrton Senna",
+        "Graham Hill"
+      ],
+      "answer": "Ayrton Senna",
+      "fact": "Senna has 6 wins in Monaco, a historic record."
+    }
+  },
+  "difficulty": 3,
+  "tags": [
+    "records",
+    "history"
+  ],
+  "image": "most_wins.png"
+},
+{
+  "_id": {
+    "oid": "69849244379d950ad610c599"
+  },
+  "category": "circuits",
+  "topic": "suzuka",
+  "language": {
+    "sp": {
+      "question": "¿En qué país se encuentra el circuito de Suzuka?",
+      "options": [
+        "China",
+        "Corea del Sur",
+        "Japón",
+        "Tailandia"
+      ],
+      "answer": "Japón",
+      "fact": "El Circuito de Suzuka está situado en la prefectura de Mie, en Japón."
+    },
+    "en": {
+      "question": "In which country is the Suzuka Circuit located?",
+      "options": [
+        "China",
+        "South Korea",
+        "Japan",
+        "Thailand"
+      ],
+      "answer": "Japan",
+      "fact": "The Suzuka Circuit is located in Mie Prefecture, Japan."
+    }
+  },
+  "difficulty": 1,
+  "tags": [
+    "location",
+    "basic"
+  ],
+  "image": "suzuka_airview.png"
+},
+{
+  "_id": {
+    "oid": "69849244379d950ad610c59a"
+  },
+  "category": "circuits",
+  "topic": "suzuka",
+  "language": {
+    "sp": {
+      "question": "¿Qué fabricante construyó originalmente el circuito de Suzuka?",
+      "options": [
+        "Toyota",
+        "Nissan",
+        "Honda",
+        "Yamaha"
+      ],
+      "answer": "Honda",
+      "fact": "Suzuka fue construido por Honda como pista de pruebas."
+    },
+    "en": {
+      "question": "Which manufacturer originally built the Suzuka Circuit?",
+      "options": [
+        "Toyota",
+        "Nissan",
+        "Honda",
+        "Yamaha"
+      ],
+      "answer": "Honda",
+      "fact": "Suzuka was built by Honda as a test track."
+    }
+  },
+  "difficulty": 1,
+  "tags": [
+    "history",
+    "basic"
+  ],
+  "image": "suzuka_firstcorner.png"
+},
+{
+  "_id": {
+    "oid": "69849244379d950ad610c59b"
+  },
+  "category": "circuits",
+  "topic": "suzuka",
+  "language": {
+    "sp": {
+      "question": "¿Qué tipo de circuito es Suzuka?",
+      "options": [
+        "Urbano",
+        "Oval",
+        "Permanente",
+        "Semipermanente"
+      ],
+      "answer": "Permanente",
+      "fact": "Suzuka es un circuito permanente utilizado todo el año."
+    },
+    "en": {
+      "question": "What type of circuit is Suzuka?",
+      "options": [
+        "Street",
+        "Oval",
+        "Permanent",
+        "Semi-permanent"
+      ],
+      "answer": "Permanent",
+      "fact": "Suzuka is a permanent circuit used throughout the year."
+    }
+  },
+  "difficulty": 1,
+  "tags": [
+    "circuit",
+    "basic"
+  ],
+  "image": "suzuka_corners.png"
+},
+{
+  "_id": {
+    "oid": "69849244379d950ad610c59c"
+  },
+  "category": "circuits",
+  "topic": "suzuka",
+  "language": {
+    "sp": {
+      "question": "¿Qué característica hace único al trazado de Suzuka?",
+      "options": [
+        "Tiene un túnel",
+        "Tiene forma de ocho",
+        "Es urbano",
+        "Tiene peraltes"
+      ],
+      "answer": "Tiene forma de ocho",
+      "fact": "Suzuka es uno de los pocos circuitos con un trazado en forma de ocho."
+    },
+    "en": {
+      "question": "What feature makes Suzuka unique?",
+      "options": [
+        "It has a tunnel",
+        "It has a figure-eight layout",
+        "It is a street circuit",
+        "It has banked corners"
+      ],
+      "answer": "It has a figure-eight layout",
+      "fact": "Suzuka is one of the few circuits with a figure-eight layout."
+    }
+  },
+  "difficulty": 1,
+  "tags": [
+    "layout",
+    "unique"
+  ],
+  "image": "suzuka_form.png"
+},
+{
+  "_id": {
+    "oid": "69849244379d950ad610c59d"
+  },
+  "category": "circuits",
+  "topic": "suzuka",
+  "language": {
+    "sp": {
+      "question": "¿Qué evento de Fórmula 1 se celebra en Suzuka?",
+      "options": [
+        "GP de Japón",
+        "GP de Asia",
+        "GP del Pacífico",
+        "GP de Suzuka"
+      ],
+      "answer": "GP de Japón",
+      "fact": "Suzuka acoge tradicionalmente el Gran Premio de Japón."
+    },
+    "en": {
+      "question": "Which Formula 1 event is held at Suzuka?",
+      "options": [
+        "Japanese Grand Prix",
+        "Asian Grand Prix",
+        "Pacific Grand Prix",
+        "Suzuka Grand Prix"
+      ],
+      "answer": "Japanese Grand Prix",
+      "fact": "Suzuka traditionally hosts the Japanese Grand Prix."
+    }
+  },
+  "difficulty": 1,
+  "tags": [
+    "event",
+    "basic"
+  ],
+  "image": "suzuka_gp.png"
+},
+{
+  "_id": {
+    "oid": "69849244379d950ad610c59e"
+  },
+  "category": "circuits",
+  "topic": "suzuka",
+  "language": {
+    "sp": {
+      "question": "¿Cuál es una de las secciones más rápidas del circuito?",
+      "options": [
+        "Las S",
+        "Degner",
+        "130R",
+        "Hairpin"
+      ],
+      "answer": "130R",
+      "fact": "La curva 130R es una de las más rápidas y famosas del circuito."
+    },
+    "en": {
+      "question": "Which is one of the fastest sections of the circuit?",
+      "options": [
+        "Esses",
+        "Degner",
+        "130R",
+        "Hairpin"
+      ],
+      "answer": "130R",
+      "fact": "The 130R corner is one of the fastest and most famous at Suzuka."
+    }
+  },
+  "difficulty": 2,
+  "tags": [
+    "corners",
+    "speed"
+  ],
+  "image": "suzuka_ieor.png"
+},
+{
+  "_id": {
+    "oid": "69849244379d950ad610c59f"
+  },
+  "category": "circuits",
+  "topic": "suzuka",
+  "language": {
+    "sp": {
+      "question": "¿Qué zona inicial del circuito es conocida por sus curvas enlazadas?",
+      "options": [
+        "S Curves",
+        "Spoon",
+        "Degner",
+        "Casio Triangle"
+      ],
+      "answer": "S Curves",
+      "fact": "Las curvas en S exigen precisión y ritmo desde el inicio."
+    },
+    "en": {
+      "question": "Which opening section is known for its linked corners?",
+      "options": [
+        "S Curves",
+        "Spoon",
+        "Degner",
+        "Casio Triangle"
+      ],
+      "answer": "S Curves",
+      "fact": "The S Curves demand precision and rhythm from the start."
+    }
+  },
+  "difficulty": 2,
+  "tags": [
+    "technical",
+    "corners"
+  ],
+  "image": "suzuka_lastcorner.png"
+},
+{
+  "_id": {
+    "oid": "69849244379d950ad610c5a0"
+  },
+  "category": "circuits",
+  "topic": "suzuka",
+  "language": {
+    "sp": {
+      "question": "¿Cuál es la longitud aproximada del circuito de Suzuka?",
+      "options": [
+        "4.8 km",
+        "5.8 km",
+        "6.2 km",
+        "7.0 km"
+      ],
+      "answer": "5.8 km",
+      "fact": "Suzuka tiene una longitud aproximada de 5,807 km."
+    },
+    "en": {
+      "question": "What is the approximate length of the Suzuka circuit?",
+      "options": [
+        "4.8 km",
+        "5.8 km",
+        "6.2 km",
+        "7.0 km"
+      ],
+      "answer": "5.8 km",
+      "fact": "Suzuka has an approximate length of 5.807 km."
+    }
+  },
+  "difficulty": 2,
+  "tags": [
+    "length",
+    "facts"
+  ],
+  "image": "suzuka_lengt.png"
+},
+{
+  "_id": {
+    "oid": "69849244379d950ad610c5a1"
+  },
+  "category": "circuits",
+  "topic": "suzuka",
+  "language": {
+    "sp": {
+      "question": "¿Qué curva precede a la recta trasera del circuito?",
+      "options": [
+        "Hairpin",
+        "Degner 2",
+        "Spoon",
+        "130R"
+      ],
+      "answer": "Spoon",
+      "fact": "La curva Spoon es clave para una buena salida a la recta."
+    },
+    "en": {
+      "question": "Which corner precedes the back straight?",
+      "options": [
+        "Hairpin",
+        "Degner 2",
+        "Spoon",
+        "130R"
+      ],
+      "answer": "Spoon",
+      "fact": "Spoon corner is crucial for a strong exit onto the straight."
+    }
+  },
+  "difficulty": 2,
+  "tags": [
+    "strategy",
+    "corners"
+  ],
+  "image": "suzuka_racestart.png"
+},
+{
+  "_id": {
+    "oid": "69849244379d950ad610c5a2"
+  },
+  "category": "circuits",
+  "topic": "suzuka",
+  "language": {
+    "sp": {
+      "question": "¿Qué sector del circuito suele ser el más técnico?",
+      "options": [
+        "Sector 1",
+        "Sector 2",
+        "Sector 3",
+        "Zona de meta"
+      ],
+      "answer": "Sector 1",
+      "fact": "El primer sector incluye las exigentes curvas en S."
+    },
+    "en": {
+      "question": "Which sector is usually the most technical?",
+      "options": [
+        "Sector 1",
+        "Sector 2",
+        "Sector 3",
+        "Finish area"
+      ],
+      "answer": "Sector 1",
+      "fact": "The first sector includes the demanding S Curves."
+    }
+  },
+  "difficulty": 2,
+  "tags": [
+    "sector",
+    "technical"
+  ],
+  "image": "suzuka_spinwheel.png"
+},
+{
+  "_id": {
+    "oid": "69849244379d950ad610c5a3"
+  },
+  "category": "circuits",
+  "topic": "suzuka",
+  "language": {
+    "sp": {
+      "question": "¿Qué piloto ganó varios campeonatos mundiales en Suzuka?",
+      "options": [
+        "Michael Schumacher",
+        "Ayrton Senna",
+        "Sebastian Vettel",
+        "Alain Prost"
+      ],
+      "answer": "Michael Schumacher",
+      "fact": "Schumacher aseguró varios títulos mundiales en Suzuka."
+    },
+    "en": {
+      "question": "Which driver won multiple world championships at Suzuka?",
+      "options": [
+        "Michael Schumacher",
+        "Ayrton Senna",
+        "Sebastian Vettel",
+        "Alain Prost"
+      ],
+      "answer": "Michael Schumacher",
+      "fact": "Schumacher secured multiple world titles at Suzuka."
+    }
+  },
+  "difficulty": 3,
+  "tags": [
+    "records",
+    "history"
+  ],
+  "image": "suzuka_schumacher.png"
+},
+{
+  "_id": {
+    "oid": "69849244379d950ad610c5a4"
+  },
+  "category": "circuits",
+  "topic": "suzuka",
+  "language": {
+    "sp": {
+      "question": "¿Qué famosa rivalidad se decidió en Suzuka en los años 80?",
+      "options": [
+        "Senna vs Prost",
+        "Schumacher vs Hakkinen",
+        "Hamilton vs Rosberg",
+        "Vettel vs Alonso"
+      ],
+      "answer": "Senna vs Prost",
+      "fact": "Suzuka fue escenario clave de la rivalidad Senna-Prost."
+    },
+    "en": {
+      "question": "Which famous rivalry was decided at Suzuka in the 1980s?",
+      "options": [
+        "Senna vs Prost",
+        "Schumacher vs Hakkinen",
+        "Hamilton vs Rosberg",
+        "Vettel vs Alonso"
+      ],
+      "answer": "Senna vs Prost",
+      "fact": "Suzuka was a key stage in the Senna–Prost rivalry."
+    }
+  },
+  "difficulty": 3,
+  "tags": [
+    "history",
+    "rivalry"
+  ],
+  "image": "suzuka_raikkonen.png"
+},
+{
+  "_id": {
+    "oid": "69849244379d950ad610c5a5"
+  },
+  "category": "circuits",
+  "topic": "suzuka",
+  "language": {
+    "sp": {
+      "question": "¿Qué curva es considerada una de las más peligrosas del circuito?",
+      "options": [
+        "Degner 1",
+        "Hairpin",
+        "Casio Triangle",
+        "Spoon"
+      ],
+      "answer": "Degner 1",
+      "fact": "Degner 1 es rápida y no permite margen de error."
+    },
+    "en": {
+      "question": "Which corner is considered one of the most dangerous?",
+      "options": [
+        "Degner 1",
+        "Hairpin",
+        "Casio Triangle",
+        "Spoon"
+      ],
+      "answer": "Degner 1",
+      "fact": "Degner 1 is fast and leaves no room for error."
+    }
+  },
+  "difficulty": 3,
+  "tags": [
+    "danger",
+    "corners"
+  ],
+  "image": "suzuka_degner.png"
+},
+{
+  "_id": {
+    "oid": "69849244379d950ad610c5a6"
+  },
+  "category": "circuits",
+  "topic": "suzuka",
+  "language": {
+    "sp": {
+      "question": "¿Por qué Suzuka es especialmente exigente para los neumáticos?",
+      "options": [
+        "Por el clima",
+        "Por sus rectas",
+        "Por sus curvas rápidas",
+        "Por la altura"
+      ],
+      "answer": "Por sus curvas rápidas",
+      "fact": "Las curvas rápidas generan altas cargas laterales en los neumáticos."
+    },
+    "en": {
+      "question": "Why is Suzuka especially demanding on tyres?",
+      "options": [
+        "Because of the climate",
+        "Because of its straights",
+        "Because of its fast corners",
+        "Because of altitude"
+      ],
+      "answer": "Because of its fast corners",
+      "fact": "Fast corners generate high lateral loads on the tyres."
+    }
+  },
+  "difficulty": 3,
+  "tags": [
+    "tyres",
+    "technical"
+  ],
+  "image": "suzuka_puncture.png"
+},
+{
+  "_id": {
+    "oid": "69849244379d950ad610c5a7"
+  },
+  "category": "circuits",
+  "topic": "suzuka",
+  "language": {
+    "sp": {
+      "question": "¿Qué combinación de curvas finaliza la vuelta en Suzuka?",
+      "options": [
+        "S Curves",
+        "Degner",
+        "Casio Triangle",
+        "130R"
+      ],
+      "answer": "Casio Triangle",
+      "fact": "La Casio Triangle es la última chicane antes de meta."
+    },
+    "en": {
+      "question": "Which corner combination ends a lap at Suzuka?",
+      "options": [
+        "S Curves",
+        "Degner",
+        "Casio Triangle",
+        "130R"
+      ],
+      "answer": "Casio Triangle",
+      "fact": "The Casio Triangle is the final chicane before the finish line."
+    }
+  },
+  "difficulty": 3,
+  "tags": [
+    "layout",
+    "finish"
+  ],
+  "image": "suzuka_racestarts.png"
+},
+{
+  "_id": {
+    "oid": "6984946c379d950ad610c5b9"
+  },
+  "category": "circuits",
+  "topic": "silverstone",
+  "language": {
+    "sp": {
+      "question": "¿En qué país se encuentra el circuito de Silverstone?",
+      "options": [
+        "Irlanda",
+        "Escocia",
+        "Inglaterra",
+        "Gales"
+      ],
+      "answer": "Inglaterra",
+      "fact": "Silverstone está ubicado en Inglaterra y es considerado la cuna de la Fórmula 1."
+    },
+    "en": {
+      "question": "In which country is the Silverstone Circuit located?",
+      "options": [
+        "Ireland",
+        "Scotland",
+        "England",
+        "Wales"
+      ],
+      "answer": "England",
+      "fact": "Silverstone is located in England and is considered the birthplace of Formula 1."
+    }
+  },
+  "difficulty": 1,
+  "tags": [
+    "location",
+    "basic"
+  ],
+  "image": "silverstonse_straight.png"
+},
+{
+  "_id": {
+    "oid": "6984946c379d950ad610c5ba"
+  },
+  "category": "circuits",
+  "topic": "silverstone",
+  "language": {
+    "sp": {
+      "question": "¿Qué tipo de circuito es Silverstone?",
+      "options": [
+        "Urbano",
+        "Permanente",
+        "Temporal",
+        "Desértico"
+      ],
+      "answer": "Permanente",
+      "fact": "Silverstone se construyó sobre una antigua base aérea militar."
+    },
+    "en": {
+      "question": "What type of circuit is Silverstone?",
+      "options": [
+        "Street",
+        "Permanent",
+        "Temporary",
+        "Desert"
+      ],
+      "answer": "Permanent",
+      "fact": "Silverstone was built on a former military airfield."
+    }
+  },
+  "difficulty": 1,
+  "tags": [
+    "circuit",
+    "basic"
+  ],
+  "image": "silverstonse_straight.png"
+},
+{
+  "_id": {
+    "oid": "6984946c379d950ad610c5bb"
+  },
+  "category": "circuits",
+  "topic": "silverstone",
+  "language": {
+    "sp": {
+      "question": "¿Qué Gran Premio se celebra en Silverstone?",
+      "options": [
+        "Gran Premio de Europa",
+        "Gran Premio de Gran Bretaña",
+        "Gran Premio de Inglaterra",
+        "Gran Premio del Reino Unido"
+      ],
+      "answer": "Gran Premio de Gran Bretaña",
+      "fact": "El GP de Gran Bretaña es uno de los más antiguos del calendario."
+    },
+    "en": {
+      "question": "Which Grand Prix is held at Silverstone?",
+      "options": [
+        "European Grand Prix",
+        "British Grand Prix",
+        "England Grand Prix",
+        "United Kingdom Grand Prix"
+      ],
+      "answer": "British Grand Prix",
+      "fact": "The British Grand Prix is one of the oldest races on the calendar."
+    }
+  },
+  "difficulty": 1,
+  "tags": [
+    "event",
+    "basic"
+  ],
+  "image": "silverstonse_straight.png"
+},
+{
+  "_id": {
+    "oid": "6984946c379d950ad610c5bc"
+  },
+  "category": "circuits",
+  "topic": "silverstone",
+  "language": {
+    "sp": {
+      "question": "¿Qué característica define a Silverstone?",
+      "options": [
+        "Curvas muy lentas",
+        "Rectas cortas",
+        "Curvas rápidas",
+        "Asfalto urbano"
+      ],
+      "answer": "Curvas rápidas",
+      "fact": "Silverstone es famoso por sus curvas de alta velocidad."
+    },
+    "en": {
+      "question": "What defines the Silverstone circuit?",
+      "options": [
+        "Very slow corners",
+        "Short straights",
+        "Fast corners",
+        "Street asphalt"
+      ],
+      "answer": "Fast corners",
+      "fact": "Silverstone is famous for its high-speed corners."
+    }
+  },
+  "difficulty": 1,
+  "tags": [
+    "layout",
+    "basic"
+  ],
+  "image": "silverstonse_straight.png"
+},
+{
+  "_id": {
+    "oid": "6984946c379d950ad610c5bd"
+  },
+  "category": "circuits",
+  "topic": "silverstone",
+  "language": {
+    "sp": {
+      "question": "¿Qué equipo tiene su sede cerca de Silverstone?",
+      "options": [
+        "Ferrari",
+        "Mercedes",
+        "Red Bull",
+        "Alpine"
+      ],
+      "answer": "Mercedes",
+      "fact": "Muchas escuderías tienen sus fábricas cerca del circuito."
+    },
+    "en": {
+      "question": "Which team has its headquarters near Silverstone?",
+      "options": [
+        "Ferrari",
+        "Mercedes",
+        "Red Bull",
+        "Alpine"
+      ],
+      "answer": "Mercedes",
+      "fact": "Many teams have their factories close to the circuit."
+    }
+  },
+  "difficulty": 1,
+  "tags": [
+    "teams",
+    "basic"
+  ],
+  "image": "silverstonse_straight.png"
+},
+{
+  "_id": {
+    "oid": "6984946c379d950ad610c5be"
+  },
+  "category": "circuits",
+  "topic": "silverstone",
+  "language": {
+    "sp": {
+      "question": "¿Cuál es la longitud aproximada del circuito de Silverstone?",
+      "options": [
+        "4.5 km",
+        "5.9 km",
+        "6.8 km",
+        "7.2 km"
+      ],
+      "answer": "5.9 km",
+      "fact": "Es uno de los circuitos más largos del calendario."
+    },
+    "en": {
+      "question": "What is the approximate length of the Silverstone circuit?",
+      "options": [
+        "4.5 km",
+        "5.9 km",
+        "6.8 km",
+        "7.2 km"
+      ],
+      "answer": "5.9 km",
+      "fact": "It is one of the longest circuits on the calendar."
+    }
+  },
+  "difficulty": 2,
+  "tags": [
+    "length",
+    "facts"
+  ],
+  "image": "silverstonse_straight.png"
+},
+{
+  "_id": {
+    "oid": "6984946c379d950ad610c5bf"
+  },
+  "category": "circuits",
+  "topic": "silverstone",
+  "language": {
+    "sp": {
+      "question": "¿Qué sección de Silverstone es especialmente rápida?",
+      "options": [
+        "Becketts",
+        "Brooklands",
+        "Copse",
+        "Village"
+      ],
+      "answer": "Becketts",
+      "fact": "Becketts exige cambios de dirección a gran velocidad."
+    },
+    "en": {
+      "question": "Which section of Silverstone is particularly fast?",
+      "options": [
+        "Becketts",
+        "Brooklands",
+        "Copse",
+        "Village"
+      ],
+      "answer": "Becketts",
+      "fact": "Becketts requires rapid direction changes at high speed."
+    }
+  },
+  "difficulty": 2,
+  "tags": [
+    "corners",
+    "speed"
+  ],
+  "image": "silverstonse_straight.png"
+},
+{
+  "_id": {
+    "oid": "6984946c379d950ad610c5c0"
+  },
+  "category": "circuits",
+  "topic": "silverstone",
+  "language": {
+    "sp": {
+      "question": "¿Qué curva es una de las más famosas de Silverstone?",
+      "options": [
+        "Copse",
+        "Ascari",
+        "Eau Rouge",
+        "Rascasse"
+      ],
+      "answer": "Copse",
+      "fact": "Copse se toma a muy alta velocidad en clasificación."
+    },
+    "en": {
+      "question": "Which corner is one of the most famous at Silverstone?",
+      "options": [
+        "Copse",
+        "Ascari",
+        "Eau Rouge",
+        "Rascasse"
+      ],
+      "answer": "Copse",
+      "fact": "Copse is taken at extremely high speed during qualifying."
+    }
+  },
+  "difficulty": 2,
+  "tags": [
+    "corners",
+    "famous"
+  ],
+  "image": "silverstonse_straight.png"
+},
+{
+  "_id": {
+    "oid": "6984946c379d950ad610c5c1"
+  },
+  "category": "circuits",
+  "topic": "silverstone",
+  "language": {
+    "sp": {
+      "question": "¿Qué factor meteorológico es habitual en Silverstone?",
+      "options": [
+        "Calor extremo",
+        "Viento cambiante",
+        "Tormentas de arena",
+        "Niebla constante"
+      ],
+      "answer": "Viento cambiante",
+      "fact": "El viento puede afectar notablemente al comportamiento del coche."
+    },
+    "en": {
+      "question": "Which weather factor is common at Silverstone?",
+      "options": [
+        "Extreme heat",
+        "Changing winds",
+        "Sandstorms",
+        "Constant fog"
+      ],
+      "answer": "Changing winds",
+      "fact": "Wind can significantly affect car performance."
+    }
+  },
+  "difficulty": 2,
+  "tags": [
+    "weather",
+    "conditions"
+  ],
+  "image": "silverstonse_straight.png"
+},
+{
+  "_id": {
+    "oid": "6984946c379d950ad610c5c2"
+  },
+  "category": "circuits",
+  "topic": "silverstone",
+  "language": {
+    "sp": {
+      "question": "¿Qué zona del circuito combina frenada fuerte y aceleración?",
+      "options": [
+        "Brooklands",
+        "Copse",
+        "Maggotts",
+        "Stowe"
+      ],
+      "answer": "Brooklands",
+      "fact": "Brooklands es clave para los adelantamientos."
+    },
+    "en": {
+      "question": "Which area of the circuit combines heavy braking and acceleration?",
+      "options": [
+        "Brooklands",
+        "Copse",
+        "Maggotts",
+        "Stowe"
+      ],
+      "answer": "Brooklands",
+      "fact": "Brooklands is key for overtaking opportunities."
+    }
+  },
+  "difficulty": 2,
+  "tags": [
+    "braking",
+    "technical"
+  ],
+  "image": "silverstonse_straight.png"
+},
+{
+  "_id": {
+    "oid": "6984946c379d950ad610c5c3"
+  },
+  "category": "circuits",
+  "topic": "silverstone",
+  "language": {
+    "sp": {
+      "question": "¿En qué año se celebró la primera carrera del Mundial de F1 en Silverstone?",
+      "options": [
+        "1948",
+        "1950",
+        "1955",
+        "1960"
+      ],
+      "answer": "1950",
+      "fact": "Silverstone acogió la primera carrera de la historia del Mundial de F1."
+    },
+    "en": {
+      "question": "In which year was the first F1 World Championship race held at Silverstone?",
+      "options": [
+        "1948",
+        "1950",
+        "1955",
+        "1960"
+      ],
+      "answer": "1950",
+      "fact": "Silverstone hosted the first race in Formula 1 World Championship history."
+    }
+  },
+  "difficulty": 3,
+  "tags": [
+    "history",
+    "dates"
+  ],
+  "image": "silverstonse_straight.png"
+},
+{
+  "_id": {
+    "oid": "6984946c379d950ad610c5c4"
+  },
+  "category": "circuits",
+  "topic": "silverstone",
+  "language": {
+    "sp": {
+      "question": "¿Qué conjunto de curvas es considerado el más técnico de Silverstone?",
+      "options": [
+        "Copse",
+        "Maggotts-Becketts",
+        "Stowe",
+        "Village"
+      ],
+      "answer": "Maggotts-Becketts",
+      "fact": "Este sector exige máxima carga aerodinámica y precisión."
+    },
+    "en": {
+      "question": "Which set of corners is considered the most technical at Silverstone?",
+      "options": [
+        "Copse",
+        "Maggotts-Becketts",
+        "Stowe",
+        "Village"
+      ],
+      "answer": "Maggotts-Becketts",
+      "fact": "This sector demands maximum downforce and precision."
+    }
+  },
+  "difficulty": 3,
+  "tags": [
+    "technical",
+    "corners"
+  ],
+  "image": "silverstonse_straight.png"
+},
+{
+  "_id": {
+    "oid": "6984946c379d950ad610c5c5"
+  },
+  "category": "circuits",
+  "topic": "silverstone",
+  "language": {
+    "sp": {
+      "question": "¿Qué tipo de carga aerodinámica se prioriza en Silverstone?",
+      "options": [
+        "Muy baja",
+        "Media",
+        "Alta",
+        "Variable extrema"
+      ],
+      "answer": "Alta",
+      "fact": "Las curvas rápidas requieren altos niveles de apoyo aerodinámico."
+    },
+    "en": {
+      "question": "What type of aerodynamic setup is prioritized at Silverstone?",
+      "options": [
+        "Very low",
+        "Medium",
+        "High",
+        "Extreme variable"
+      ],
+      "answer": "High",
+      "fact": "Fast corners require high levels of aerodynamic downforce."
+    }
+  },
+  "difficulty": 3,
+  "tags": [
+    "aerodynamics",
+    "setup"
+  ],
+  "image": "silverstonse_straight.png"
+},
+{
+  "_id": {
+    "oid": "6984946c379d950ad610c5c6"
+  },
+  "category": "circuits",
+  "topic": "silverstone",
+  "language": {
+    "sp": {
+      "question": "¿Por qué Silverstone es especialmente exigente para los neumáticos?",
+      "options": [
+        "Por el asfalto urbano",
+        "Por las curvas rápidas prolongadas",
+        "Por la baja temperatura",
+        "Por las rectas largas"
+      ],
+      "answer": "Por las curvas rápidas prolongadas",
+      "fact": "Las fuerzas laterales generan un gran desgaste."
+    },
+    "en": {
+      "question": "Why is Silverstone particularly demanding on tyres?",
+      "options": [
+        "Due to street asphalt",
+        "Due to long high-speed corners",
+        "Due to low temperatures",
+        "Due to long straights"
+      ],
+      "answer": "Due to long high-speed corners",
+      "fact": "Lateral forces generate significant tyre wear."
+    }
+  },
+  "difficulty": 3,
+  "tags": [
+    "tyres",
+    "technical"
+  ],
+  "image": "silverstonse_straight.png"
+},
+{
+  "_id": {
+    "oid": "6984946c379d950ad610c5c7"
+  },
+  "category": "circuits",
+  "topic": "silverstone",
+  "language": {
+    "sp": {
+      "question": "¿Qué hace históricamente especial a Silverstone en la Fórmula 1?",
+      "options": [
+        "Es un circuito urbano",
+        "Fue sede del primer GP del mundial",
+        "Tiene el túnel más largo",
+        "Es el más corto del calendario"
+      ],
+      "answer": "Fue sede del primer GP del mundial",
+      "fact": "La primera carrera del Mundial de F1 se disputó allí."
+    },
+    "en": {
+      "question": "What makes Silverstone historically special in Formula 1?",
+      "options": [
+        "It is a street circuit",
+        "It hosted the first World Championship GP",
+        "It has the longest tunnel",
+        "It is the shortest circuit"
+      ],
+      "answer": "It hosted the first World Championship GP",
+      "fact": "The first Formula 1 World Championship race was held there."
+    }
+  },
+  "difficulty": 3,
+  "tags": [
+    "history",
+    "records"
+  ],
+  "image": "silverstonse_straight.png"
+}
+]
+}

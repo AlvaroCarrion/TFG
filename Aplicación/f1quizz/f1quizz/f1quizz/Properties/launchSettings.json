@@ -1,0 +1,23 @@
+/*{
+  "profiles": {
+    "Windows Machine": {
+      "commandName": "Project",
+      "nativeDebugging": false,
+      "commandLineArgs": "-disable-msix",
+      "hotReloadEnabled": true
+    }
+  }
+}*/
+
+{
+  "profiles": {
+    "Windows Machine": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    },
+    "MSIX": {
+      "commandName": "MsixPackage",
+      "nativeDebugging": false
+    }
+  }
+}
