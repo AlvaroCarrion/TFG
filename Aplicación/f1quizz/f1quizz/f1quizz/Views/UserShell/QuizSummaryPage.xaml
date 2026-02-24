@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PPQ.Views.UserShell.QuizSummaryPage"
+             Title="QuizSummaryPage">
+
+    <Shell.TitleView>
+        <StackLayout>
+            <Label
+            Style="{StaticResource LabelShellTitleStyle}"
+            Text="{DynamicResource ShellLabelPolePositionQuiz}"/>
+        </StackLayout>
+    </Shell.TitleView>
+
+    <ScrollView
+        VerticalOptions="Fill">
+        
+        <VerticalStackLayout>
+
+            <Grid
+                RowDefinitions="*,*,*,*,*,*"
+                ColumnDefinitions="2*,6*,2*">
+
+                <Label
+                    Style="{StaticResource LabelTitleStyle}"
+                    Text="{DynamicResource TitleLabelSummary}"
+                    Grid.Row="0"
+                    Grid.Column="1"/>
+    
+                <Label
+                    Style="{StaticResource LabelSubitleStyle}"
+                    Text="{DynamicResource LabelQuizResults}"
+                    Grid.Row="1"
+                    Grid.Column="0"
+                    Grid.ColumnSpan="3"/>
+
+                <Button Style="{StaticResource ButtonStyle}"
+                    Text="{DynamicResource ButtonLabelCloseQuiz}"
+                    Clicked="GoToQuizMenu"
+                    Grid.Row="2"
+                    Grid.Column="1"/>
+
+                <Grid
+                    ColumnDefinitions="*,*,*,*"
+                    Margin="0,30,0,20"
+                    Grid.Row="3"
+                    Grid.Column="1">
+
+                    <Label Style="{StaticResource LabelRegularStyle}"
+                           Text="{DynamicResource LabelTotalPoints}"
+                           Margin="0,0,20,0"
+                           HorizontalOptions="End"
+                           Grid.Column="0"/>
+
+                    <Label Style="{StaticResource LabelRegularStyle}"
+                           x:Name="TotalPointsLabel"
+                           HorizontalOptions="Start"
+                           Grid.Column="1"/>
+
+                    <Label Style="{StaticResource LabelRegularStyle}"
+                           Text="{DynamicResource LabelTotalTime}"
+                           Margin="0,0,20,0"
+                           HorizontalOptions="End"
+                           Grid.Column="2"/>
+
+                    <Label Style="{StaticResource LabelRegularStyle}"
+                           HorizontalOptions="Start"
+                           x:Name="TotalTimeLabel"
+                           Grid.Column="3"/>
+                </Grid>
+
+                <CollectionView 
+                    x:Name="ResultsList"
+                    SelectionMode="None"
+                    Margin="0,0,0,20"
+                    Grid.Row="4"
+                    Grid.Column="1">
+                
+                    <CollectionView.ItemTemplate>
+                        <DataTemplate>
+                            <Frame
+                                CornerRadius="10" 
+                                BackgroundColor="{DynamicResource ColorEntryBackground}">
+                                <Grid
+                                    RowDefinitions="*,*,*"
+                                    ColumnDefinitions="*,*,*,*,*,*">
+
+                                    <Label Style="{StaticResource LabelRegularStyle}"
+                                           Text="{DynamicResource LabelQuestion}"
+                                           TextColor="{DynamicResource White}"
+                                           HorizontalOptions="End"
+                                           Margin="0,0,20,0"
+                                           Grid.Row="0"
+                                           Grid.Column="0"/>
+
+                                    <Label Style="{StaticResource LabelRegularStyle}"
+                                           Text="{Binding QuestionNumber}"
+                                           TextColor="{DynamicResource White}"
+                                           Margin="20,0,0,0"
+                                           HorizontalOptions="Start"
+                                           Grid.Row="0"
+                                           Grid.Column="1"/>
+
+                                    <BoxView
+                                           Style="{StaticResource BoxViewSytle}"
+                                           Color="{DynamicResource Principal}"
+                                           HeightRequest="1"
+                                           Grid.ColumnSpan="6"
+                                           Grid.Row="1"
+                                           Grid.Column="0"/>
+
+                                    <Label Style="{StaticResource LabelRegularStyle}"
+                                           Text="{DynamicResource LabelPoints2}"
+                                           TextColor="{DynamicResource White}"
+                                           HorizontalOptions="End"
+                                           Margin="0,0,20,0"
+                                           Grid.Row="2"
+                                           Grid.Column="0"/>
+
+                                    <Label Style="{StaticResource LabelRegularStyle}"
+                                           Text="{Binding Points}"
+                                           TextColor="{DynamicResource White}"
+                                           HorizontalOptions="Start"
+                                           Margin="20,0,0,0"
+                                           Grid.Row="2"
+                                           Grid.Column="1"/>
+
+                                    <Label Style="{StaticResource LabelRegularStyle}"
+                                           Text="{DynamicResource LabelTimeSpent}"
+                                           TextColor="{DynamicResource White}"
+                                           Margin="0,0,20,0"
+                                           HorizontalOptions="End"
+                                           Grid.Row="2"
+                                           Grid.Column="2"/>
+
+                                    <Label Style="{StaticResource LabelRegularStyle}"
+                                           Text="{Binding TimeUsed}"
+                                           TextColor="{DynamicResource White}"
+                                           HorizontalOptions="Start"
+                                           Margin="20,0,0,0"
+                                           Grid.Row="2"
+                                           Grid.Column="3"/>
+
+                                    <Label Style="{StaticResource LabelRegularStyle}"
+                                           Text="{DynamicResource LabelAnswer}"
+                                           TextColor="{DynamicResource White}"
+                                           Margin="0,0,20,0"
+                                           HorizontalOptions="End"
+                                           Grid.Row="2"
+                                           Grid.Column="4"/>
+
+                                    <Label Style="{StaticResource LabelRegularStyle}"
+                                           Text="{Binding Correct}"
+                                           TextColor="{DynamicResource White}"
+                                           Margin="20,0,0,0"
+                                           HorizontalOptions="Start"
+                                           Grid.Row="2"
+                                           Grid.Column="5"/>
+                                </Grid>
+                            </Frame>
+                        </DataTemplate>
+                    </CollectionView.ItemTemplate>
+                </CollectionView>
+
+                <Button Style="{StaticResource ButtonStyle}"
+                        Text="{DynamicResource ButtonLabelCloseQuiz}"
+                        Clicked="GoToQuizMenu"
+                        Grid.Row="5"
+                        Grid.Column="1"/>
+            </Grid>
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

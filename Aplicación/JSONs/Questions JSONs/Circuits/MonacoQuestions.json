@@ -1,0 +1,382 @@
+[
+  {
+    "category": "circuits",
+    "topic": "monaco",
+    "language": {
+      "sp": {
+        "question": "¿En qué país se encuentra el circuito de Mónaco?",
+        "options": ["Francia", "Italia", "Mónaco", "Suiza"],
+        "answer": "Mónaco",
+        "fact": "El Principado de Mónaco es el segundo país más pequeño del mundo."
+      },
+      "en": {
+        "question": "In which country is the Monaco Circuit located?",
+        "options": ["France", "Italy", "Monaco", "Switzerland"],
+        "answer": "Monaco",
+        "fact": "The Principality of Monaco is the second smallest country in the world."
+      }
+    },
+    "difficulty": 1,
+    "tags": ["location", "basic"],
+    "image": "where_monaco.png"
+  },
+  {
+    "category": "circuits",
+    "topic": "monaco",
+    "language": {
+      "sp": {
+        "question": "¿Cómo se conoce comúnmente el Gran Premio de Mónaco?",
+        "options": [
+          "El GP del Principado",
+          "El GP del Mediterráneo",
+          "El GP del Casino",
+          "El GP Azul"
+        ],
+        "answer": "El GP del Principado",
+        "fact": "El circuito pasa junto al famoso Casino de Montecarlo."
+      },
+      "en": {
+        "question": "What is the Monaco Grand Prix commonly known as?",
+        "options": [
+          "The Principality GP",
+          "The Mediterranean GP",
+          "The Casino GP",
+          "The Blue GP"
+        ],
+        "answer": "The Principality GP",
+        "fact": "The circuit passes by the famous Montecarlo Casino."
+      }
+    },
+    "difficulty": 1,
+    "tags": ["name", "basic"],
+    "image": "circuit_name.png"
+  },
+  {
+    "category": "circuits",
+    "topic": "monaco",
+    "language": {
+      "sp": {
+        "question": "¿Qué tipo de circuito es Mónaco?",
+        "options": ["Permanente", "Semipermanente", "Urbano", "Desértico"],
+        "answer": "Urbano",
+        "fact": "El trazado se monta cada año utilizando las calles reales de la ciudad."
+      },
+      "en": {
+        "question": "What type of circuit is Monaco?",
+        "options": ["Permanent", "Semi-permanent", "Street", "Desert"],
+        "answer": "Street",
+        "fact": "The track is set up each year using real city streets."
+      }
+    },
+    "difficulty": 1,
+    "tags": ["circuit", "urban"],
+    "image": "urban_circuit.png"
+  },
+  {
+    "category": "circuits",
+    "topic": "monaco",
+    "language": {
+      "sp": {
+        "question": "¿Qué caracteriza a las curvas del circuito de Mónaco?",
+        "options": [
+          "Son extremadamente rápidas",
+          "Son muy estrechas",
+          "Tienen grava",
+          "Todas son peraltadas"
+        ],
+        "answer": "Son muy estrechas",
+        "fact": "Es uno de los circuitos con menos espacio para adelantar."
+      },
+      "en": {
+        "question": "What characterizes the corners of the Monaco circuit?",
+        "options": [
+          "They are extremely fast",
+          "They are very narrow",
+          "They have gravel",
+          "They are all banked"
+        ],
+        "answer": "They are very narrow",
+        "fact": "It is one of the circuits with the least space for overtaking."
+      }
+    },
+    "difficulty": 1,
+    "tags": ["corners", "basic"],
+    "image": "corners_of_monaco.png"
+  },
+  {
+    "category": "circuits",
+    "topic": "monaco",
+    "language": {
+      "sp": {
+        "question": "¿Qué sección del circuito es famosa por su fuerte bajada?",
+        "options": ["Mirabeau", "La Piscine", "Tabac", "Rascasse"],
+        "answer": "Mirabeau",
+        "fact": "La sección de Mirabeau es una de las más complejas debido a los cambios de pendiente."
+      },
+      "en": {
+        "question": "Which section of the circuit is famous for its steep downhill?",
+        "options": ["Mirabeau", "La Piscine", "Tabac", "Rascasse"],
+        "answer": "Mirabeau",
+        "fact": "The Mirabeau section is one of the most complex due to changes in gradient."
+      }
+    },
+    "difficulty": 1,
+    "tags": ["zones", "basic"],
+    "image": "mirabeau.png"
+  },
+  {
+    "category": "circuits",
+    "topic": "monaco",
+    "language": {
+      "sp": {
+        "question": "¿Cuál es la curva más lenta del circuito de Mónaco?",
+        "options": [
+          "La Piscine",
+          "Curva Fairmont",
+          "Tabac",
+          "Sainte Dévote"
+        ],
+        "answer": "Curva Fairmont",
+        "fact": "Es la curva más lenta de toda la Fórmula 1, tomada a unos 50 km/h."
+      },
+      "en": {
+        "question": "Which is the slowest corner of the Monaco circuit?",
+        "options": [
+          "La Piscine",
+          "Fairmont Hairpin",
+          "Tabac",
+          "Sainte Dévote"
+        ],
+        "answer": "Fairmont Hairpin",
+        "fact": "It is the slowest corner in all of Formula 1, taken at about 50 km/h."
+      }
+    },
+    "difficulty": 2,
+    "tags": ["corners", "speed"],
+    "image": "slowest_zone.png"
+  },
+  {
+    "category": "circuits",
+    "topic": "monaco",
+    "language": {
+      "sp": {
+        "question": "¿Qué parte del circuito pasa por un túnel?",
+        "options": ["Sector 1", "Sector 2", "Sector 3", "Línea de meta"],
+        "answer": "Sector 2",
+        "fact": "El túnel produce un cambio brusco de luz que dificulta la visibilidad."
+      },
+      "en": {
+        "question": "Which part of the circuit passes through a tunnel?",
+        "options": ["Sector 1", "Sector 2", "Sector 3", "Finish line"],
+        "answer": "Sector 2",
+        "fact": "The tunnel produces a sudden change in light that makes visibility difficult."
+      }
+    },
+    "difficulty": 2,
+    "tags": ["tunnel", "sector"],
+    "image": "tunnel.png"
+  },
+  {
+    "category": "circuits",
+    "topic": "monaco",
+    "language": {
+      "sp": {
+        "question": "¿Cuál es la longitud aproximada del circuito de Mónaco?",
+        "options": ["2.0 km", "3.3 km", "4.1 km", "5.6 km"],
+        "answer": "3.3 km",
+        "fact": "Es uno de los circuitos más cortos del calendario de Fórmula 1."
+      },
+      "en": {
+        "question": "What is the approximate length of the Monaco circuit?",
+        "options": ["2.0 km", "3.3 km", "4.1 km", "5.6 km"],
+        "answer": "3.3 km",
+        "fact": "It is one of the shortest circuits on the Formula 1 calendar."
+      }
+    },
+    "difficulty": 2,
+    "tags": ["length", "facts"],
+    "image": "circuit_lenght.png"
+  },
+  {
+    "category": "circuits",
+    "topic": "monaco",
+    "language": {
+      "sp": {
+        "question": "¿Cuál es el principal desafío para los pilotos en Mónaco?",
+        "options": [
+          "La velocidad punta",
+          "La lluvia constante",
+          "La falta de espacio",
+          "Los adelantamientos fáciles"
+        ],
+        "answer": "La falta de espacio",
+        "fact": "El circuito es muy estrecho y exige una precisión extrema."
+      },
+      "en": {
+        "question": "What is the main challenge for drivers in Monaco?",
+        "options": [
+          "Top speed",
+          "Constant rain",
+          "Lack of space",
+          "Easy overtaking"
+        ],
+        "answer": "Lack of space",
+        "fact": "The circuit is very narrow, requiring extreme precision."
+      }
+    },
+    "difficulty": 2,
+    "tags": ["difficulty", "technical"],
+    "image": "crash.png"
+  },
+  {
+    "category": "circuits",
+    "topic": "monaco",
+    "language": {
+      "sp": {
+        "question": "¿Qué zona es especialmente estrecha antes de la línea de meta?",
+        "options": ["La Rascasse", "La Piscine", "Mirabeau", "Portier"],
+        "answer": "La Rascasse",
+        "fact": "La curva Rascasse ha sido escenario de momentos polémicos como el bloqueo de Schumacher en 2006."
+      },
+      "en": {
+        "question": "Which section is known for being especially narrow before the finish line?",
+        "options": ["La Rascasse", "La Piscine", "Mirabeau", "Portier"],
+        "answer": "La Rascasse",
+        "fact": "The Rascasse corner has been the scene of controversial moments such as Schumacher's block in 2006."
+      }
+    },
+    "difficulty": 2,
+    "tags": ["rascasse", "narrow"],
+    "image": "rascasse.png"
+  },
+  {
+    "category": "circuits",
+    "topic": "monaco",
+    "language": {
+      "sp": {
+        "question": "¿Qué piloto tiene más victorias en Mónaco?",
+        "options": [
+          "Michael Schumacher",
+          "Lewis Hamilton",
+          "Ayrton Senna",
+          "Graham Hill"
+        ],
+        "answer": "Ayrton Senna",
+        "fact": "Senna tiene 6 victorias en Mónaco, un récord histórico."
+      },
+      "en": {
+        "question": "Which driver has the most wins in Monaco?",
+        "options": [
+          "Michael Schumacher",
+          "Lewis Hamilton",
+          "Ayrton Senna",
+          "Graham Hill"
+        ],
+        "answer": "Ayrton Senna",
+        "fact": "Senna has 6 wins in Monaco, a historic record."
+      }
+    },
+    "difficulty": 3,
+    "tags": ["records", "history"],
+    "image": "most_wins.png"
+  },
+  {
+    "category": "circuits",
+    "topic": "monaco",
+    "language": {
+      "sp": {
+        "question": "¿En qué año se incluyó oficialmente el GP de Mónaco en el Campeonato Mundial de F1?",
+        "options": ["1950", "1955", "1960", "1948"],
+        "answer": "1950",
+        "fact": "Aunque hubo carreras previas, la primera válida para el mundial fue en 1950."
+      },
+      "en": {
+        "question": "In which year was the Monaco Grand Prix officially included in the F1 World Championship for the first time?",
+        "options": ["1950", "1955", "1960", "1948"],
+        "answer": "1950",
+        "fact": "Although there were previous races, the first official World Championship race was in 1950."
+      }
+    },
+    "difficulty": 3,
+    "tags": ["history", "dates"],
+    "image": "first_race.png"
+  },
+  {
+    "category": "circuits",
+    "topic": "monaco",
+    "language": {
+      "sp": {
+        "question": "¿Qué hace única la salida del túnel en Mónaco?",
+        "options": [
+          "Un cambio brusco de luz",
+          "Una zona de grava",
+          "Un peralte negativo",
+          "Un salto en el asfalto"
+        ],
+        "answer": "Un cambio brusco de luz",
+        "fact": "Los pilotos pasan de la oscuridad a la luz directa del sol, dificultando la frenada."
+      },
+      "en": {
+        "question": "What makes the tunnel exit in Monaco unique?",
+        "options": [
+          "A sudden change in light",
+          "A gravel area",
+          "A negative camber",
+          "A jump on the track"
+        ],
+        "answer": "A sudden change in light",
+        "fact": "Drivers go from darkness to direct sunlight, making braking difficult."
+      }
+    },
+    "difficulty": 3,
+    "tags": ["tunnel", "technical"],
+    "image": "tunnel_exit.png"
+  },
+  {
+    "category": "circuits",
+    "topic": "monaco",
+    "language": {
+      "sp": {
+        "question": "¿Qué elemento histórico se encuentra junto a Sainte Dévote?",
+        "options": ["Un museo marítimo", "Una iglesia", "Un castillo", "Un monumento militar"],
+        "answer": "Una iglesia",
+        "fact": "La curva Sainte Dévote recibe su nombre de una capilla situada justo al lado."
+      },
+      "en": {
+        "question": "Which historic element is located next to the Sainte Dévote area?",
+        "options": [
+          "A maritime museum",
+          "A church",
+          "A castle",
+          "A military monument"
+        ],
+        "answer": "A church",
+        "fact": "The Sainte Dévote corner is named after a chapel located right next to it."
+      }
+    },
+    "difficulty": 3,
+    "tags": ["history", "corners"],
+    "image": "santa_devota.png"
+  },
+  {
+    "category": "circuits",
+    "topic": "monaco",
+    "language": {
+      "sp": {
+        "question": "¿Qué sección del circuito es crítica por su combinación de velocidad y precisión?",
+        "options": ["La Piscine", "Tabac", "Mirabeau", "Portier"],
+        "answer": "La Piscine",
+        "fact": "Las rápidas curvas enlazadas de La Piscine requieren cambios de dirección milimétricos."
+      },
+      "en": {
+        "question": "Which section of the circuit is particularly critical due to its combination of speed and precision?",
+        "options": ["La Piscine", "Tabac", "Mirabeau", "Portier"],
+        "answer": "La Piscine",
+        "fact": "The fast linked corners of La Piscine require millimeter-precise direction changes."
+      }
+    },
+    "difficulty": 3,
+    "tags": ["technical", "precission"],
+    "image": "critic_sector.png"
+  }
+]

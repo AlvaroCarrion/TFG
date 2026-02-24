@@ -1,0 +1,318 @@
+[
+    {
+      "category": "teams",
+      "topic": "redbull",
+      "language": {
+        "sp": {
+          "question": "¿De qué país es el equipo Red Bull Racing?",
+          "options": ["Reino Unido", "Austria", "Estados Unidos", "Alemania"],
+          "answer": "Reino Unido",
+          "fact": "Red Bull Racing tiene sede en Milton Keynes, Reino Unido, aunque Red Bull es una marca austríaca."
+        },
+        "en": {
+          "question": "Which country is the Red Bull Racing team from?",
+          "options": ["United Kingdom", "Austria", "United States", "Germany"],
+          "answer": "United Kingdom",
+          "fact": "Red Bull Racing is based in Milton Keynes, UK, although Red Bull is an Austrian brand."
+        }
+      },
+      "difficulty": 1,
+      "tags": ["origin", "basic"],
+      "image": "redbull.png"
+    },
+    {
+      "category": "teams",
+      "topic": "redbull",
+      "language": {
+        "sp": {
+          "question": "¿Cuál es el color característico de los coches de Red Bull Racing?",
+          "options": ["Azul Oscuro", "Rojo", "Negro", "Plateado"],
+          "answer": "Azul Oscuro",
+          "fact": "El color azul oscuro con detalles rojos y amarillos es el distintivo de Red Bull Racing."
+        },
+        "en": {
+          "question": "What is the characteristic color of Red Bull Racing cars?",
+          "options": ["Dark Blue", "Red", "Black", "Silver"],
+          "answer": "Dark Blue",
+          "fact": "The dark blue color with red and yellow details is Red Bull Racing's signature."
+        }
+      },
+      "difficulty": 1,
+      "tags": ["identity", "basic"],
+      "image": "redbull.png"
+    },
+    {
+      "category": "teams",
+      "topic": "redbull",
+      "language": {
+        "sp": {
+          "question": "¿En qué año debutó Red Bull Racing en la Fórmula 1?",
+          "options": ["2004", "2005", "2006", "2003"],
+          "answer": "2005",
+          "fact": "Red Bull Racing debutó en el Campeonato Mundial de F1 en 2005 tras comprar Jaguar Racing."
+        },
+        "en": {
+          "question": "In which year did Red Bull Racing debut in Formula 1?",
+          "options": ["2004", "2005", "2006", "2003"],
+          "answer": "2005",
+          "fact": "Red Bull Racing debuted in the F1 World Championship in 2005 after purchasing Jaguar Racing."
+        }
+      },
+      "difficulty": 1,
+      "tags": ["history", "basic"],
+      "image": "redbull.png"
+    },
+    {
+      "category": "teams",
+      "topic": "redbull",
+      "language": {
+        "sp": {
+          "question": "¿Quién es el fundador de Red Bull Racing como equipo de F1?",
+          "options": ["Dietrich Mateschitz", "Christian Horner", "Helmut Marko", "Adrian Newey"],
+          "answer": "Dietrich Mateschitz",
+          "fact": "Dietrich Mateschitz, cofundador de Red Bull, adquirió Jaguar Racing y creó Red Bull Racing en 2005."
+        },
+        "en": {
+          "question": "Who is the founder of Red Bull Racing as an F1 team?",
+          "options": ["Dietrich Mateschitz", "Christian Horner", "Helmut Marko", "Adrian Newey"],
+          "answer": "Dietrich Mateschitz",
+          "fact": "Dietrich Mateschitz, co-founder of Red Bull, purchased Jaguar Racing and created Red Bull Racing in 2005."
+        }
+      },
+      "difficulty": 1,
+      "tags": ["founder", "basic"],
+      "image": "redbull.png"
+    },
+    {
+      "category": "teams",
+      "topic": "redbull",
+      "language": {
+        "sp": {
+          "question": "¿Cuál es el circuito icónico de Red Bull Racing en Austria?",
+          "options": ["Red Bull Ring", "Hockenheim", "Monza", "Silverstone"],
+          "answer": "Red Bull Ring",
+          "fact": "El Red Bull Ring en Spielberg es el gran premio de casa para el equipo Red Bull Racing."
+        },
+        "en": {
+          "question": "Which is Red Bull Racing's iconic circuit in Austria?",
+          "options": ["Red Bull Ring", "Hockenheim", "Monza", "Silverstone"],
+          "answer": "Red Bull Ring",
+          "fact": "The Red Bull Ring in Spielberg is Red Bull Racing's home Grand Prix circuit."
+        }
+      },
+      "difficulty": 1,
+      "tags": ["circuits", "basic"],
+      "image": "redbull.png"
+    },
+    {
+      "category": "teams",
+      "topic": "redbull",
+      "language": {
+          "sp": {
+              "question": "¿Quién fue el primer piloto en ganar un Gran Premio para Red Bull Racing?",
+              "options": ["David Coulthard", "Sebastian Vettel", "Mark Webber", "Daniel Ricciardo"],
+              "answer": "David Coulthard",
+              "fact": "David Coulthard consiguió la primera victoria de Red Bull Racing en 2006 en el Gran Premio de Francia."
+          },
+          "en": {
+              "question": "Who was the first driver to win a Grand Prix for Red Bull Racing?",
+              "options": ["David Coulthard", "Sebastian Vettel", "Mark Webber", "Daniel Ricciardo"],
+              "answer": "David Coulthard",
+              "fact": "David Coulthard secured Red Bull Racing's first win in 2006 at the French Grand Prix."
+          }
+      },
+      "difficulty": 2,
+      "tags": ["history", "wins"],
+      "image": "redbull.png"
+    },
+    {
+        "category": "teams",
+        "topic": "redbull",
+        "language": {
+          "sp": {
+            "question": "¿Quién fue el piloto con más victorias para Red Bull Racing en la temporada 2013?",
+            "options": ["Sebastian Vettel", "Mark Webber", "Daniel Ricciardo", "Max Verstappen"],
+            "answer": "Sebastian Vettel",
+            "fact": "En 2013, Sebastian Vettel ganó 13 carreras para Red Bull Racing, siendo el piloto más exitoso de la temporada."
+          },
+          "en": {
+            "question": "Who was Red Bull Racing's driver with the most wins in the 2013 season?",
+            "options": ["Sebastian Vettel", "Mark Webber", "Daniel Ricciardo", "Max Verstappen"],
+            "answer": "Sebastian Vettel",
+            "fact": "In 2013, Sebastian Vettel won 13 races for Red Bull Racing, making him the most successful driver that season."
+          }
+        },
+        "difficulty": 2,
+        "tags": ["drivers", "wins", "records"],
+        "image": "redbull.png"
+      },      
+    {
+      "category": "teams",
+      "topic": "redbull",
+      "language": {
+          "sp": {
+              "question": "¿Cuántos campeonatos de constructores consecutivos ganó Red Bull Racing entre 2010 y 2013?",
+              "options": ["3", "4", "5", "6"],
+              "answer": "4",
+              "fact": "Red Bull Racing ganó 4 campeonatos de constructores consecutivos entre 2010 y 2013."
+          },
+          "en": {
+              "question": "How many consecutive Constructors' Championships did Red Bull Racing win between 2010 and 2013?",
+              "options": ["3", "4", "5", "6"],
+              "answer": "4",
+              "fact": "Red Bull Racing won 4 consecutive Constructors' Championships between 2010 and 2013."
+          }
+      },
+      "difficulty": 2,
+      "tags": ["records", "championships"],
+      "image": "redbull.png"
+    },
+    {
+      "category": "teams",
+      "topic": "redbull",
+      "language": {
+          "sp": {
+              "question": "¿Qué piloto ganó su primer título mundial con Red Bull en 2010?",
+              "options": ["Sebastian Vettel", "Mark Webber", "Daniel Ricciardo", "Max Verstappen"],
+              "answer": "Sebastian Vettel",
+              "fact": "Sebastian Vettel se convirtió en campeón mundial con Red Bull Racing en 2010."
+          },
+          "en": {
+              "question": "Which driver won his first world championship with Red Bull in 2010?",
+              "options": ["Sebastian Vettel", "Mark Webber", "Daniel Ricciardo", "Max Verstappen"],
+              "answer": "Sebastian Vettel",
+              "fact": "Sebastian Vettel became world champion with Red Bull Racing in 2010."
+          }
+      },
+      "difficulty": 2,
+      "tags": ["drivers", "championships"],
+      "image": "redbull.png"
+    },
+    {
+      "category": "teams",
+      "topic": "redbull",
+      "language": {
+          "sp": {
+              "question": "¿Qué motor utilizaba Red Bull Racing en su era de campeonatos 2010-2013?",
+              "options": ["Renault", "Ferrari", "Mercedes", "Honda"],
+              "answer": "Renault",
+              "fact": "Durante su dominio entre 2010 y 2013, Red Bull Racing utilizaba motores Renault."
+          },
+          "en": {
+              "question": "Which engine did Red Bull Racing use during their 2010-2013 championship era?",
+              "options": ["Renault", "Ferrari", "Mercedes", "Honda"],
+              "answer": "Renault",
+              "fact": "During their 2010-2013 dominance, Red Bull Racing used Renault engines."
+          }
+      },
+      "difficulty": 2,
+      "tags": ["technical", "engines"],
+      "image": "redbull.png"
+    },
+    {
+      "category": "teams",
+      "topic": "redbull",
+      "language": {
+          "sp": {
+              "question": "¿Qué director técnico es responsable del diseño del monoplaza de Red Bull Racing?",
+              "options": ["Adrian Newey", "Christian Horner", "Helmut Marko", "Sebastian Vettel"],
+              "answer": "Adrian Newey",
+              "fact": "Adrian Newey es el diseñador jefe de Red Bull Racing y clave en sus éxitos en F1."
+          },
+          "en": {
+              "question": "Which technical director is responsible for Red Bull Racing's car design?",
+              "options": ["Adrian Newey", "Christian Horner", "Helmut Marko", "Sebastian Vettel"],
+              "answer": "Adrian Newey",
+              "fact": "Adrian Newey is Red Bull Racing's chief designer and key to their F1 success."
+          }
+      },
+      "difficulty": 3,
+      "tags": ["technical", "design"],
+      "image": "redbull.png"
+    },
+    {
+      "category": "teams",
+      "topic": "redbull",
+      "language": {
+          "sp": {
+              "question": "¿Qué récord de victorias consecutivas posee Red Bull Racing en una temporada?",
+              "options": ["9", "10", "11", "12"],
+              "answer": "12",
+              "fact": "Red Bull Racing ganó 12 carreras consecutivas en la temporada 2013, un récord en su historia."
+          },
+          "en": {
+              "question": "What is Red Bull Racing's record for consecutive wins in a single season?",
+              "options": ["9", "10", "11", "12"],
+              "answer": "12",
+              "fact": "Red Bull Racing won 12 consecutive races in the 2013 season, a record in their history."
+          }
+      },
+      "difficulty": 3,
+      "tags": ["records", "history"],
+      "image": "redbull.png"
+    },
+    {
+      "category": "teams",
+      "topic": "redbull",
+      "language": {
+          "sp": {
+              "question": "¿Qué piloto de Red Bull Racing ganó el Gran Premio de Mónaco 2022?",
+              "options": ["Max Verstappen", "Sergio Pérez", "Daniel Ricciardo", "Sebastian Vettel"],
+              "answer": "Sergio Pérez",
+              "fact": "Sergio Pérez ganó el GP de Mónaco 2022, siendo una victoria destacada de Red Bull Racing."
+          },
+          "en": {
+              "question": "Which Red Bull Racing driver won the 2022 Monaco Grand Prix?",
+              "options": ["Max Verstappen", "Sergio Pérez", "Daniel Ricciardo", "Sebastian Vettel"],
+              "answer": "Sergio Pérez",
+              "fact": "Sergio Pérez won the 2022 Monaco GP, a notable Red Bull Racing victory."
+          }
+      },
+      "difficulty": 3,
+      "tags": ["drivers", "wins"],
+      "image": "redbull.png"
+    },
+    {
+      "category": "teams",
+      "topic": "redbull",
+      "language": {
+          "sp": {
+              "question": "¿Qué innovación técnica introdujo Red Bull Racing con el sistema de conducto de frenos en 2019?",
+              "options": ["Enfriamiento mejorado de frenos", "Alerón activo", "Chasis de carbono completo", "Suspensión activa"],
+              "answer": "Enfriamiento mejorado de frenos",
+              "fact": "En 2019, Red Bull Racing optimizó sus frenos mediante un conducto de refrigeración innovador."
+          },
+          "en": {
+              "question": "Which technical innovation did Red Bull Racing introduce with their brake duct system in 2019?",
+              "options": ["Improved brake cooling", "Active wing", "Full carbon chassis", "Active suspension"],
+              "answer": "Improved brake cooling",
+              "fact": "In 2019, Red Bull Racing optimized their brakes with an innovative cooling duct system."
+          }
+      },
+      "difficulty": 3,
+      "tags": ["technical", "innovation"],
+      "image": "redbull.png"
+    },
+    {
+      "category": "teams",
+      "topic": "redbull",
+      "language": {
+          "sp": {
+              "question": "¿Cuál fue la puntuación en constructores de Red Bull Racing en su temporada récord 2013?",
+              "options": ["596", "596", "550", "521"],
+              "answer": "596",
+              "fact": "En 2013, Red Bull Racing acumuló 596 puntos en el campeonato de constructores, su récord histórico."
+          },
+          "en": {
+              "question": "What was Red Bull Racing's Constructors' points tally in their record 2013 season?",
+              "options": ["596", "550", "521", "480"],
+              "answer": "596",
+              "fact": "In 2013, Red Bull Racing scored 596 points in the Constructors' Championship, their all-time record."
+          }
+      },
+      "difficulty": 3,
+      "tags": ["records", "championships"],
+      "image": "redbull.png"
+    }
+  ]
+  

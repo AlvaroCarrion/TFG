@@ -1,0 +1,2221 @@
+{"questionsTeams":[{
+  "_id": {
+    "oid": "6984a5e7683cd2b7c6ff6c92"
+  },
+  "category": "teams",
+  "topic": "ferrari",
+  "language": {
+    "sp": {
+      "question": "¿De qué país es el equipo Ferrari?",
+      "options": [
+        "Italia",
+        "Alemania",
+        "España",
+        "Francia"
+      ],
+      "answer": "Italia",
+      "fact": "Ferrari es un equipo italiano fundado en Maranello."
+    },
+    "en": {
+      "question": "Which country is the Ferrari team from?",
+      "options": [
+        "Italy",
+        "Germany",
+        "Spain",
+        "France"
+      ],
+      "answer": "Italy",
+      "fact": "Ferrari is an Italian team founded in Maranello."
+    }
+  },
+  "difficulty": 1,
+  "tags": [
+    "origin",
+    "basic"
+  ],
+  "image": "ferrari.png"
+},
+{
+  "_id": {
+    "oid": "6984a5e7683cd2b7c6ff6c93"
+  },
+  "category": "teams",
+  "topic": "ferrari",
+  "language": {
+    "sp": {
+      "question": "¿En qué año debutó Ferrari en Fórmula 1?",
+      "options": [
+        "1947",
+        "1950",
+        "1952",
+        "1960"
+      ],
+      "answer": "1950",
+      "fact": "Ferrari debutó en el Campeonato Mundial de F1 en 1950."
+    },
+    "en": {
+      "question": "In which year did Ferrari debut in Formula 1?",
+      "options": [
+        "1947",
+        "1950",
+        "1952",
+        "1960"
+      ],
+      "answer": "1950",
+      "fact": "Ferrari debuted in the Formula 1 World Championship in 1950."
+    }
+  },
+  "difficulty": 1,
+  "tags": [
+    "history",
+    "basic"
+  ],
+  "image": "ferrari.png"
+},
+{
+  "_id": {
+    "oid": "6984a5e7683cd2b7c6ff6c94"
+  },
+  "category": "teams",
+  "topic": "ferrari",
+  "language": {
+    "sp": {
+      "question": "¿Cuál es el color característico de los coches de Ferrari?",
+      "options": [
+        "Rojo",
+        "Azul",
+        "Negro",
+        "Blanco"
+      ],
+      "answer": "Rojo",
+      "fact": "El rojo 'Rosso Corsa' es el color tradicional de Ferrari en competición."
+    },
+    "en": {
+      "question": "What is the characteristic color of Ferrari cars?",
+      "options": [
+        "Red",
+        "Blue",
+        "Black",
+        "White"
+      ],
+      "answer": "Red",
+      "fact": "The 'Rosso Corsa' red is Ferrari's traditional racing color."
+    }
+  },
+  "difficulty": 1,
+  "tags": [
+    "identity",
+    "basic"
+  ],
+  "image": "ferrari.png"
+},
+{
+  "_id": {
+    "oid": "6984a5e7683cd2b7c6ff6c95"
+  },
+  "category": "teams",
+  "topic": "ferrari",
+  "language": {
+    "sp": {
+      "question": "¿Quién es el fundador de Ferrari?",
+      "options": [
+        "Enzo Ferrari",
+        "Ayrton Senna",
+        "Michael Schumacher",
+        "Alberto Ascari"
+      ],
+      "answer": "Enzo Ferrari",
+      "fact": "Enzo Ferrari fundó la Scuderia Ferrari en 1929."
+    },
+    "en": {
+      "question": "Who founded Ferrari?",
+      "options": [
+        "Enzo Ferrari",
+        "Ayrton Senna",
+        "Michael Schumacher",
+        "Alberto Ascari"
+      ],
+      "answer": "Enzo Ferrari",
+      "fact": "Enzo Ferrari founded Scuderia Ferrari in 1929."
+    }
+  },
+  "difficulty": 1,
+  "tags": [
+    "founder",
+    "basic"
+  ],
+  "image": "ferrari.png"
+},
+{
+  "_id": {
+    "oid": "6984a5e7683cd2b7c6ff6c96"
+  },
+  "category": "teams",
+  "topic": "ferrari",
+  "language": {
+    "sp": {
+      "question": "¿Cuál es el circuito icónico de Ferrari en Italia?",
+      "options": [
+        "Monza",
+        "Imola",
+        "Mugello",
+        "Misano"
+      ],
+      "answer": "Monza",
+      "fact": "El Gran Premio de Italia se celebra históricamente en el circuito de Monza."
+    },
+    "en": {
+      "question": "Which is Ferrari's iconic circuit in Italy?",
+      "options": [
+        "Monza",
+        "Imola",
+        "Mugello",
+        "Misano"
+      ],
+      "answer": "Monza",
+      "fact": "The Italian Grand Prix is historically held at Monza."
+    }
+  },
+  "difficulty": 1,
+  "tags": [
+    "circuits",
+    "basic"
+  ],
+  "image": "ferrari.png"
+},
+{
+  "_id": {
+    "oid": "6984a5e7683cd2b7c6ff6c97"
+  },
+  "category": "teams",
+  "topic": "ferrari",
+  "language": {
+    "sp": {
+      "question": "¿Qué piloto ganó el primer campeonato de Ferrari en F1?",
+      "options": [
+        "Alberto Ascari",
+        "Niki Lauda",
+        "Michael Schumacher",
+        "Kimi Räikkönen"
+      ],
+      "answer": "Alberto Ascari",
+      "fact": "Alberto Ascari ganó el primer título de pilotos para Ferrari en 1952."
+    },
+    "en": {
+      "question": "Which driver won Ferrari's first F1 championship?",
+      "options": [
+        "Alberto Ascari",
+        "Niki Lauda",
+        "Michael Schumacher",
+        "Kimi Räikkönen"
+      ],
+      "answer": "Alberto Ascari",
+      "fact": "Alberto Ascari won Ferrari's first drivers' title in 1952."
+    }
+  },
+  "difficulty": 2,
+  "tags": [
+    "history",
+    "championships"
+  ],
+  "image": "ferrari.png"
+},
+{
+  "_id": {
+    "oid": "6984a5e7683cd2b7c6ff6c98"
+  },
+  "category": "teams",
+  "topic": "ferrari",
+  "language": {
+    "sp": {
+      "question": "¿Cuántos campeonatos de constructores ha ganado Ferrari hasta 2023?",
+      "options": [
+        "16",
+        "15",
+        "18",
+        "20"
+      ],
+      "answer": "16",
+      "fact": "Ferrari ha ganado 16 campeonatos de constructores en F1 hasta 2023."
+    },
+    "en": {
+      "question": "How many Constructors' Championships has Ferrari won until 2023?",
+      "options": [
+        "16",
+        "15",
+        "18",
+        "20"
+      ],
+      "answer": "16",
+      "fact": "Ferrari has won 16 Constructors' Championships in F1 until 2023."
+    }
+  },
+  "difficulty": 2,
+  "tags": [
+    "records",
+    "championships"
+  ],
+  "image": "ferrari.png"
+},
+{
+  "_id": {
+    "oid": "6984a5e7683cd2b7c6ff6c99"
+  },
+  "category": "teams",
+  "topic": "ferrari",
+  "language": {
+    "sp": {
+      "question": "¿Qué piloto consiguió su primer título con Ferrari en 2007?",
+      "options": [
+        "Kimi Räikkönen",
+        "Felipe Massa",
+        "Michael Schumacher",
+        "Sebastian Vettel"
+      ],
+      "answer": "Kimi Räikkönen",
+      "fact": "Kimi Räikkönen ganó el campeonato de pilotos con Ferrari en 2007."
+    },
+    "en": {
+      "question": "Which driver won his first title with Ferrari in 2007?",
+      "options": [
+        "Kimi Räikkönen",
+        "Felipe Massa",
+        "Michael Schumacher",
+        "Sebastian Vettel"
+      ],
+      "answer": "Kimi Räikkönen",
+      "fact": "Kimi Räikkönen won the drivers' championship with Ferrari in 2007."
+    }
+  },
+  "difficulty": 2,
+  "tags": [
+    "drivers",
+    "championships"
+  ],
+  "image": "ferrari.png"
+},
+{
+  "_id": {
+    "oid": "6984a5e7683cd2b7c6ff6c9a"
+  },
+  "category": "teams",
+  "topic": "ferrari",
+  "language": {
+    "sp": {
+      "question": "¿Qué modelo de motor introdujo Ferrari en 2014 con la era híbrida de F1?",
+      "options": [
+        "V6 Turbo",
+        "V8 Atmosférico",
+        "V10 Turbo",
+        "V12 Atmosférico"
+      ],
+      "answer": "V6 Turbo",
+      "fact": "En 2014 Ferrari adaptó su motor a la normativa híbrida de F1 con un V6 turbo."
+    },
+    "en": {
+      "question": "Which engine model did Ferrari introduce in 2014 with the F1 hybrid era?",
+      "options": [
+        "V6 Turbo",
+        "V8 Naturally Aspirated",
+        "V10 Turbo",
+        "V12 Naturally Aspirated"
+      ],
+      "answer": "V6 Turbo",
+      "fact": "In 2014 Ferrari adapted its engine to the F1 hybrid regulations with a V6 turbo."
+    }
+  },
+  "difficulty": 2,
+  "tags": [
+    "technical",
+    "engines"
+  ],
+  "image": "ferrari.png"
+},
+{
+  "_id": {
+    "oid": "6984a5e7683cd2b7c6ff6c9b"
+  },
+  "category": "teams",
+  "topic": "ferrari",
+  "language": {
+    "sp": {
+      "question": "¿Qué récord ostenta Ferrari en la historia de F1?",
+      "options": [
+        "Más carreras ganadas",
+        "Más poles consecutivas",
+        "Más títulos consecutivos",
+        "Más pilotos campeones"
+      ],
+      "answer": "Más carreras ganadas",
+      "fact": "Ferrari tiene el récord de más victorias en la historia de la F1."
+    },
+    "en": {
+      "question": "Which record does Ferrari hold in F1 history?",
+      "options": [
+        "Most race wins",
+        "Most consecutive poles",
+        "Most consecutive titles",
+        "Most champion drivers"
+      ],
+      "answer": "Most race wins",
+      "fact": "Ferrari holds the record for most wins in F1 history."
+    }
+  },
+  "difficulty": 2,
+  "tags": [
+    "records",
+    "history"
+  ],
+  "image": "ferrari.png"
+},
+{
+  "_id": {
+    "oid": "6984a5e7683cd2b7c6ff6c9c"
+  },
+  "category": "teams",
+  "topic": "ferrari",
+  "language": {
+    "sp": {
+      "question": "¿Qué año marcó la llegada de Michael Schumacher a Ferrari?",
+      "options": [
+        "1996",
+        "1997",
+        "1998",
+        "1999"
+      ],
+      "answer": "1996",
+      "fact": "Michael Schumacher se unió a Ferrari en 1996 y revitalizó el equipo."
+    },
+    "en": {
+      "question": "Which year did Michael Schumacher join Ferrari?",
+      "options": [
+        "1996",
+        "1997",
+        "1998",
+        "1999"
+      ],
+      "answer": "1996",
+      "fact": "Michael Schumacher joined Ferrari in 1996 and revitalized the team."
+    }
+  },
+  "difficulty": 3,
+  "tags": [
+    "drivers",
+    "history"
+  ],
+  "image": "ferrari.png"
+},
+{
+  "_id": {
+    "oid": "6984a5e7683cd2b7c6ff6c9d"
+  },
+  "category": "teams",
+  "topic": "ferrari",
+  "language": {
+    "sp": {
+      "question": "¿Qué director técnico lideró Ferrari durante la era de Schumacher?",
+      "options": [
+        "Ross Brawn",
+        "Mattia Binotto",
+        "Jean Todt",
+        "Maurizio Arrivabene"
+      ],
+      "answer": "Jean Todt",
+      "fact": "Jean Todt fue director del equipo durante la etapa de Schumacher en Ferrari."
+    },
+    "en": {
+      "question": "Which technical director led Ferrari during Schumacher's era?",
+      "options": [
+        "Ross Brawn",
+        "Mattia Binotto",
+        "Jean Todt",
+        "Maurizio Arrivabene"
+      ],
+      "answer": "Jean Todt",
+      "fact": "Jean Todt was the team principal during Schumacher's time at Ferrari."
+    }
+  },
+  "difficulty": 3,
+  "tags": [
+    "management",
+    "history"
+  ],
+  "image": "ferrari.png"
+},
+{
+  "_id": {
+    "oid": "6984a5e7683cd2b7c6ff6c9e"
+  },
+  "category": "teams",
+  "topic": "ferrari",
+  "language": {
+    "sp": {
+      "question": "¿Qué año logró Ferrari 6 títulos de constructores consecutivos?",
+      "options": [
+        "1999–2004",
+        "2000–2005",
+        "2001–2006",
+        "1998–2003"
+      ],
+      "answer": "1999–2004",
+      "fact": "Ferrari ganó seis campeonatos consecutivos de constructores entre 1999 y 2004."
+    },
+    "en": {
+      "question": "Which years did Ferrari win 6 consecutive Constructors' Championships?",
+      "options": [
+        "1999–2004",
+        "2000–2005",
+        "2001–2006",
+        "1998–2003"
+      ],
+      "answer": "1999–2004",
+      "fact": "Ferrari won six consecutive Constructors' Championships from 1999 to 2004."
+    }
+  },
+  "difficulty": 3,
+  "tags": [
+    "records",
+    "championships"
+  ],
+  "image": "ferrari.png"
+},
+{
+  "_id": {
+    "oid": "6984a5e7683cd2b7c6ff6c9f"
+  },
+  "category": "teams",
+  "topic": "ferrari",
+  "language": {
+    "sp": {
+      "question": "¿Qué piloto ganó el Gran Premio de Italia 2008 para Ferrari?",
+      "options": [
+        "Felipe Massa",
+        "Kimi Räikkönen",
+        "Michael Schumacher",
+        "Fernando Alonso"
+      ],
+      "answer": "Felipe Massa",
+      "fact": "Felipe Massa ganó en Monza en 2008 para Ferrari."
+    },
+    "en": {
+      "question": "Which driver won the 2008 Italian Grand Prix for Ferrari?",
+      "options": [
+        "Felipe Massa",
+        "Kimi Räikkönen",
+        "Michael Schumacher",
+        "Fernando Alonso"
+      ],
+      "answer": "Felipe Massa",
+      "fact": "Felipe Massa won at Monza in 2008 for Ferrari."
+    }
+  },
+  "difficulty": 3,
+  "tags": [
+    "drivers",
+    "wins"
+  ],
+  "image": "ferrari.png"
+},
+{
+  "_id": {
+    "oid": "6984a5e7683cd2b7c6ff6ca0"
+  },
+  "category": "teams",
+  "topic": "ferrari",
+  "language": {
+    "sp": {
+      "question": "¿Quién fue el primer piloto en correr para Ferrari en F1?",
+      "options": [
+        "Alberto Ascari",
+        "José Froilán González",
+        "Giuseppe Farina",
+        "Mike Hawthorn"
+      ],
+      "answer": "José Froilán González",
+      "fact": "José Froilán González fue el primer piloto en ganar un GP con Ferrari en 1951."
+    },
+    "en": {
+      "question": "Who was the first driver to race for Ferrari in F1?",
+      "options": [
+        "Alberto Ascari",
+        "José Froilán González",
+        "Giuseppe Farina",
+        "Mike Hawthorn"
+      ],
+      "answer": "José Froilán González",
+      "fact": "José Froilán González was the first driver to win a GP with Ferrari in 1951."
+    }
+  },
+  "difficulty": 3,
+  "tags": [
+    "history",
+    "drivers"
+  ],
+  "image": "ferrari.png"
+},
+{
+  "_id": {
+    "oid": "6984a76c683cd2b7c6ff6ca1"
+  },
+  "category": "teams",
+  "topic": "mclaren",
+  "language": {
+    "sp": {
+      "question": "¿De qué país es el equipo McLaren?",
+      "options": [
+        "Reino Unido",
+        "Estados Unidos",
+        "Alemania",
+        "Italia"
+      ],
+      "answer": "Reino Unido",
+      "fact": "McLaren es un equipo británico fundado en Woking, Inglaterra."
+    },
+    "en": {
+      "question": "Which country is the McLaren team from?",
+      "options": [
+        "United Kingdom",
+        "United States",
+        "Germany",
+        "Italy"
+      ],
+      "answer": "United Kingdom",
+      "fact": "McLaren is a British team founded in Woking, England."
+    }
+  },
+  "difficulty": 1,
+  "tags": [
+    "origin",
+    "basic"
+  ],
+  "image": "mclaren.png"
+},
+{
+  "_id": {
+    "oid": "6984a76c683cd2b7c6ff6ca2"
+  },
+  "category": "teams",
+  "topic": "mclaren",
+  "language": {
+    "sp": {
+      "question": "¿En qué año debutó McLaren en Fórmula 1?",
+      "options": [
+        "1963",
+        "1958",
+        "1966",
+        "1970"
+      ],
+      "answer": "1966",
+      "fact": "McLaren debutó en el Campeonato Mundial de F1 en 1966."
+    },
+    "en": {
+      "question": "In which year did McLaren debut in Formula 1?",
+      "options": [
+        "1963",
+        "1958",
+        "1966",
+        "1970"
+      ],
+      "answer": "1966",
+      "fact": "McLaren debuted in the Formula 1 World Championship in 1966."
+    }
+  },
+  "difficulty": 1,
+  "tags": [
+    "history",
+    "basic"
+  ],
+  "image": "mclaren.png"
+},
+{
+  "_id": {
+    "oid": "6984a76c683cd2b7c6ff6ca3"
+  },
+  "category": "teams",
+  "topic": "mclaren",
+  "language": {
+    "sp": {
+      "question": "¿Cuál es el color característico de los coches de McLaren?",
+      "options": [
+        "Naranja Papaya",
+        "Rojo",
+        "Azul",
+        "Negro"
+      ],
+      "answer": "Naranja Papaya",
+      "fact": "El naranja 'Papaya' es el color icónico de McLaren en la competición."
+    },
+    "en": {
+      "question": "What is the characteristic color of McLaren cars?",
+      "options": [
+        "Papaya Orange",
+        "Red",
+        "Blue",
+        "Black"
+      ],
+      "answer": "Papaya Orange",
+      "fact": "The 'Papaya Orange' color is McLaren's iconic racing color."
+    }
+  },
+  "difficulty": 1,
+  "tags": [
+    "identity",
+    "basic"
+  ],
+  "image": "mclaren.png"
+},
+{
+  "_id": {
+    "oid": "6984a76c683cd2b7c6ff6ca4"
+  },
+  "category": "teams",
+  "topic": "mclaren",
+  "language": {
+    "sp": {
+      "question": "¿Quién fundó el equipo McLaren?",
+      "options": [
+        "Bruce McLaren",
+        "Ron Dennis",
+        "Ayrton Senna",
+        "Niki Lauda"
+      ],
+      "answer": "Bruce McLaren",
+      "fact": "Bruce McLaren fundó el equipo en 1963."
+    },
+    "en": {
+      "question": "Who founded the McLaren team?",
+      "options": [
+        "Bruce McLaren",
+        "Ron Dennis",
+        "Ayrton Senna",
+        "Niki Lauda"
+      ],
+      "answer": "Bruce McLaren",
+      "fact": "Bruce McLaren founded the team in 1963."
+    }
+  },
+  "difficulty": 1,
+  "tags": [
+    "founder",
+    "basic"
+  ],
+  "image": "mclaren.png"
+},
+{
+  "_id": {
+    "oid": "6984a76c683cd2b7c6ff6ca5"
+  },
+  "category": "teams",
+  "topic": "mclaren",
+  "language": {
+    "sp": {
+      "question": "¿Cuál es el circuito icónico de McLaren en el Reino Unido?",
+      "options": [
+        "Silverstone",
+        "Brands Hatch",
+        "Donington Park",
+        "Spa-Francorchamps"
+      ],
+      "answer": "Silverstone",
+      "fact": "Silverstone es históricamente el gran premio más importante en el Reino Unido para McLaren."
+    },
+    "en": {
+      "question": "Which is McLaren's iconic circuit in the United Kingdom?",
+      "options": [
+        "Silverstone",
+        "Brands Hatch",
+        "Donington Park",
+        "Spa-Francorchamps"
+      ],
+      "answer": "Silverstone",
+      "fact": "Silverstone is historically the most important Grand Prix circuit in the UK for McLaren."
+    }
+  },
+  "difficulty": 1,
+  "tags": [
+    "circuits",
+    "basic"
+  ],
+  "image": "mclaren.png"
+},
+{
+  "_id": {
+    "oid": "6984a76c683cd2b7c6ff6ca6"
+  },
+  "category": "teams",
+  "topic": "mclaren",
+  "language": {
+    "sp": {
+      "question": "¿Qué piloto ganó el primer campeonato de pilotos con McLaren?",
+      "options": [
+        "Emerson Fittipaldi",
+        "James Hunt",
+        "Niki Lauda",
+        "Ayrton Senna"
+      ],
+      "answer": "Emerson Fittipaldi",
+      "fact": "Emerson Fittipaldi ganó el primer título de pilotos para McLaren en 1974."
+    },
+    "en": {
+      "question": "Which driver won McLaren's first drivers' championship?",
+      "options": [
+        "Emerson Fittipaldi",
+        "James Hunt",
+        "Niki Lauda",
+        "Ayrton Senna"
+      ],
+      "answer": "Emerson Fittipaldi",
+      "fact": "Emerson Fittipaldi won McLaren's first drivers' title in 1974."
+    }
+  },
+  "difficulty": 2,
+  "tags": [
+    "history",
+    "championships"
+  ],
+  "image": "mclaren.png"
+},
+{
+  "_id": {
+    "oid": "6984a76c683cd2b7c6ff6ca7"
+  },
+  "category": "teams",
+  "topic": "mclaren",
+  "language": {
+    "sp": {
+      "question": "¿Cuántos campeonatos de constructores ha ganado McLaren hasta 2023?",
+      "options": [
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "answer": "8",
+      "fact": "McLaren ha ganado 8 campeonatos de constructores en F1 hasta 2023."
+    },
+    "en": {
+      "question": "How many Constructors' Championships has McLaren won until 2023?",
+      "options": [
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "answer": "8",
+      "fact": "McLaren has won 8 Constructors' Championships in F1 until 2023."
+    }
+  },
+  "difficulty": 2,
+  "tags": [
+    "records",
+    "championships"
+  ],
+  "image": "mclaren.png"
+},
+{
+  "_id": {
+    "oid": "6984a76c683cd2b7c6ff6ca8"
+  },
+  "category": "teams",
+  "topic": "mclaren",
+  "language": {
+    "sp": {
+      "question": "¿Qué piloto ganó su primer título con McLaren en 1984?",
+      "options": [
+        "Niki Lauda",
+        "Alain Prost",
+        "Ayrton Senna",
+        "James Hunt"
+      ],
+      "answer": "Niki Lauda",
+      "fact": "Niki Lauda ganó el campeonato de pilotos con McLaren en 1984."
+    },
+    "en": {
+      "question": "Which driver won his first title with McLaren in 1984?",
+      "options": [
+        "Niki Lauda",
+        "Alain Prost",
+        "Ayrton Senna",
+        "James Hunt"
+      ],
+      "answer": "Niki Lauda",
+      "fact": "Niki Lauda won the drivers' championship with McLaren in 1984."
+    }
+  },
+  "difficulty": 2,
+  "tags": [
+    "drivers",
+    "championships"
+  ],
+  "image": "mclaren.png"
+},
+{
+  "_id": {
+    "oid": "6984a76c683cd2b7c6ff6ca9"
+  },
+  "category": "teams",
+  "topic": "mclaren",
+  "language": {
+    "sp": {
+      "question": "¿Quién fue el primer piloto en ganar un Gran Premio con McLaren?",
+      "options": [
+        "Bruce McLaren",
+        "Emerson Fittipaldi",
+        "Jochen Rindt",
+        "Denny Hulme"
+      ],
+      "answer": "Denny Hulme",
+      "fact": "Denny Hulme fue el primer piloto en ganar un Gran Premio para McLaren en 1968."
+    },
+    "en": {
+      "question": "Who was the first driver to win a Grand Prix for McLaren?",
+      "options": [
+        "Bruce McLaren",
+        "Emerson Fittipaldi",
+        "Jochen Rindt",
+        "Denny Hulme"
+      ],
+      "answer": "Denny Hulme",
+      "fact": "Denny Hulme was the first driver to win a Grand Prix for McLaren in 1968."
+    }
+  },
+  "difficulty": 2,
+  "tags": [
+    "history",
+    "wins"
+  ],
+  "image": "mclaren.png"
+},
+{
+  "_id": {
+    "oid": "6984a76c683cd2b7c6ff6caa"
+  },
+  "category": "teams",
+  "topic": "mclaren",
+  "language": {
+    "sp": {
+      "question": "¿Qué motor utilizó McLaren en la era de Ayrton Senna?",
+      "options": [
+        "Honda",
+        "Mercedes",
+        "Ferrari",
+        "Renault"
+      ],
+      "answer": "Honda",
+      "fact": "Durante la época de Senna, McLaren utilizaba motores Honda."
+    },
+    "en": {
+      "question": "Which engine did McLaren use during Ayrton Senna's era?",
+      "options": [
+        "Honda",
+        "Mercedes",
+        "Ferrari",
+        "Renault"
+      ],
+      "answer": "Honda",
+      "fact": "During Senna's era, McLaren used Honda engines."
+    }
+  },
+  "difficulty": 2,
+  "tags": [
+    "technical",
+    "engines"
+  ],
+  "image": "mclaren.png"
+},
+{
+  "_id": {
+    "oid": "6984a76c683cd2b7c6ff6cab"
+  },
+  "category": "teams",
+  "topic": "mclaren",
+  "language": {
+    "sp": {
+      "question": "¿Qué año marcó la llegada de Lewis Hamilton a McLaren?",
+      "options": [
+        "2005",
+        "2006",
+        "2007",
+        "2008"
+      ],
+      "answer": "2007",
+      "fact": "Lewis Hamilton debutó con McLaren en 2007 y ganó el campeonato en 2008."
+    },
+    "en": {
+      "question": "Which year did Lewis Hamilton join McLaren?",
+      "options": [
+        "2005",
+        "2006",
+        "2007",
+        "2008"
+      ],
+      "answer": "2007",
+      "fact": "Lewis Hamilton debuted with McLaren in 2007 and won the championship in 2008."
+    }
+  },
+  "difficulty": 3,
+  "tags": [
+    "drivers",
+    "history"
+  ],
+  "image": "mclaren.png"
+},
+{
+  "_id": {
+    "oid": "6984a76c683cd2b7c6ff6cac"
+  },
+  "category": "teams",
+  "topic": "mclaren",
+  "language": {
+    "sp": {
+      "question": "¿Qué director técnico lideró McLaren durante la era de Ayrton Senna y Alain Prost?",
+      "options": [
+        "Ron Dennis",
+        "Eric Boullier",
+        "Toto Wolff",
+        "Martin Whitmarsh"
+      ],
+      "answer": "Ron Dennis",
+      "fact": "Ron Dennis fue director del equipo durante la época dorada de McLaren en los 80 y 90."
+    },
+    "en": {
+      "question": "Which team principal led McLaren during Ayrton Senna and Alain Prost's era?",
+      "options": [
+        "Ron Dennis",
+        "Eric Boullier",
+        "Toto Wolff",
+        "Martin Whitmarsh"
+      ],
+      "answer": "Ron Dennis",
+      "fact": "Ron Dennis was team principal during McLaren's golden era in the 80s and 90s."
+    }
+  },
+  "difficulty": 3,
+  "tags": [
+    "management",
+    "history"
+  ],
+  "image": "mclaren.png"
+},
+{
+  "_id": {
+    "oid": "6984a76c683cd2b7c6ff6cad"
+  },
+  "category": "teams",
+  "topic": "mclaren",
+  "language": {
+    "sp": {
+      "question": "¿Qué récord ostenta McLaren en el Gran Premio de Mónaco?",
+      "options": [
+        "Más victorias consecutivas",
+        "Más poles consecutivas",
+        "Más títulos de pilotos",
+        "Más carreras disputadas"
+      ],
+      "answer": "Más victorias consecutivas",
+      "fact": "McLaren ostenta el récord de más victorias consecutivas en Mónaco durante los 80."
+    },
+    "en": {
+      "question": "Which record does McLaren hold at the Monaco Grand Prix?",
+      "options": [
+        "Most consecutive wins",
+        "Most consecutive poles",
+        "Most drivers' titles",
+        "Most races competed"
+      ],
+      "answer": "Most consecutive wins",
+      "fact": "McLaren holds the record for most consecutive wins in Monaco during the 1980s."
+    }
+  },
+  "difficulty": 3,
+  "tags": [
+    "records",
+    "history"
+  ],
+  "image": "mclaren.png"
+},
+{
+  "_id": {
+    "oid": "6984a76c683cd2b7c6ff6cae"
+  },
+  "category": "teams",
+  "topic": "mclaren",
+  "language": {
+    "sp": {
+      "question": "¿Qué piloto ganó el Gran Premio de Brasil 2008 para McLaren?",
+      "options": [
+        "Lewis Hamilton",
+        "Heikki Kovalainen",
+        "Fernando Alonso",
+        "Kimi Räikkönen"
+      ],
+      "answer": "Lewis Hamilton",
+      "fact": "Hamilton ganó el GP de Brasil en 2008 asegurando su primer título mundial con McLaren."
+    },
+    "en": {
+      "question": "Which driver won the 2008 Brazilian Grand Prix for McLaren?",
+      "options": [
+        "Lewis Hamilton",
+        "Heikki Kovalainen",
+        "Fernando Alonso",
+        "Kimi Räikkönen"
+      ],
+      "answer": "Lewis Hamilton",
+      "fact": "Hamilton won the 2008 Brazilian GP securing his first world championship with McLaren."
+    }
+  },
+  "difficulty": 3,
+  "tags": [
+    "drivers",
+    "wins"
+  ],
+  "image": "mclaren.png"
+},
+{
+  "_id": {
+    "oid": "6984a76c683cd2b7c6ff6caf"
+  },
+  "category": "teams",
+  "topic": "mclaren",
+  "language": {
+    "sp": {
+      "question": "¿Qué innovación técnica introdujo McLaren en los años 80 con su chasis de carbono?",
+      "options": [
+        "Primer chasis de carbono completo",
+        "Primer motor híbrido",
+        "Primer alerón activo",
+        "Primer sistema de frenos ABS"
+      ],
+      "answer": "Primer chasis de carbono completo",
+      "fact": "McLaren fue pionero en el uso de un chasis de fibra de carbono completo en F1 con el MP4/1."
+    },
+    "en": {
+      "question": "Which technical innovation did McLaren introduce in the 1980s with its carbon chassis?",
+      "options": [
+        "First full carbon chassis",
+        "First hybrid engine",
+        "First active wing",
+        "First ABS brakes"
+      ],
+      "answer": "First full carbon chassis",
+      "fact": "McLaren pioneered the use of a full carbon fiber chassis in F1 with the MP4/1."
+    }
+  },
+  "difficulty": 3,
+  "tags": [
+    "technical",
+    "innovation"
+  ],
+  "image": "mclaren.png"
+},
+{
+  "_id": {
+    "oid": "6984a9c6683cd2b7c6ff6cb1"
+  },
+  "category": "teams",
+  "topic": "mercedes",
+  "language": {
+    "sp": {
+      "question": "¿De qué país es el equipo Mercedes?",
+      "options": [
+        "Alemania",
+        "Reino Unido",
+        "Estados Unidos",
+        "Italia"
+      ],
+      "answer": "Alemania",
+      "fact": "Mercedes es un equipo alemán con sede en Brackley y Affalterbach."
+    },
+    "en": {
+      "question": "Which country is the Mercedes team from?",
+      "options": [
+        "Germany",
+        "United Kingdom",
+        "United States",
+        "Italy"
+      ],
+      "answer": "Germany",
+      "fact": "Mercedes is a German team based in Brackley and Affalterbach."
+    }
+  },
+  "difficulty": 1,
+  "tags": [
+    "origin",
+    "basic"
+  ],
+  "image": "mercedes.png"
+},
+{
+  "_id": {
+    "oid": "6984a9c6683cd2b7c6ff6cb2"
+  },
+  "category": "teams",
+  "topic": "mercedes",
+  "language": {
+    "sp": {
+      "question": "¿Cuál es el color característico de los coches de Mercedes en F1?",
+      "options": [
+        "Plateado",
+        "Negro",
+        "Rojo",
+        "Azul"
+      ],
+      "answer": "Plateado",
+      "fact": "El plateado es el color icónico de los Mercedes 'Silver Arrows' en la competición."
+    },
+    "en": {
+      "question": "What is the characteristic color of Mercedes cars in F1?",
+      "options": [
+        "Silver",
+        "Black",
+        "Red",
+        "Blue"
+      ],
+      "answer": "Silver",
+      "fact": "Silver is the iconic color of Mercedes 'Silver Arrows' in racing."
+    }
+  },
+  "difficulty": 1,
+  "tags": [
+    "identity",
+    "basic"
+  ],
+  "image": "mercedes.png"
+},
+{
+  "_id": {
+    "oid": "6984a9c6683cd2b7c6ff6cb3"
+  },
+  "category": "teams",
+  "topic": "mercedes",
+  "language": {
+    "sp": {
+      "question": "¿Quién fundó Mercedes como constructor de automóviles?",
+      "options": [
+        "Karl Benz",
+        "Gottlieb Daimler",
+        "Juan Manuel Fangio",
+        "Lewis Hamilton"
+      ],
+      "answer": "Gottlieb Daimler",
+      "fact": "Gottlieb Daimler y Karl Benz son considerados los pioneros de Mercedes-Benz como constructor."
+    },
+    "en": {
+      "question": "Who founded Mercedes as a car constructor?",
+      "options": [
+        "Karl Benz",
+        "Gottlieb Daimler",
+        "Juan Manuel Fangio",
+        "Lewis Hamilton"
+      ],
+      "answer": "Gottlieb Daimler",
+      "fact": "Gottlieb Daimler and Karl Benz are considered the founders of Mercedes-Benz as a constructor."
+    }
+  },
+  "difficulty": 1,
+  "tags": [
+    "founder",
+    "basic"
+  ],
+  "image": "mercedes.png"
+},
+{
+  "_id": {
+    "oid": "6984a9c6683cd2b7c6ff6cb4"
+  },
+  "category": "teams",
+  "topic": "mercedes",
+  "language": {
+    "sp": {
+      "question": "¿En qué año debutó Mercedes como equipo oficial en la F1 moderna?",
+      "options": [
+        "2010",
+        "2010",
+        "2010",
+        "2010"
+      ],
+      "answer": "2010",
+      "fact": "Mercedes regresó como equipo oficial de F1 en 2010 tras comprar el equipo Brawn GP."
+    },
+    "en": {
+      "question": "In which year did Mercedes debut as an official team in modern F1?",
+      "options": [
+        "2010",
+        "2010",
+        "2010",
+        "2010"
+      ],
+      "answer": "2010",
+      "fact": "Mercedes returned as an official F1 team in 2010 after buying the Brawn GP team."
+    }
+  },
+  "difficulty": 1,
+  "tags": [
+    "history",
+    "basic"
+  ],
+  "image": "mercedes.png"
+},
+{
+  "_id": {
+    "oid": "6984a9c6683cd2b7c6ff6cb5"
+  },
+  "category": "teams",
+  "topic": "mercedes",
+  "language": {
+    "sp": {
+      "question": "¿Cuál es el circuito icónico de Mercedes en Alemania?",
+      "options": [
+        "Hockenheim",
+        "Nürburgring",
+        "Monza",
+        "Spa-Francorchamps"
+      ],
+      "answer": "Hockenheim",
+      "fact": "Hockenheimring es el circuito histórico donde Mercedes ha competido en casa durante décadas."
+    },
+    "en": {
+      "question": "Which is Mercedes' iconic circuit in Germany?",
+      "options": [
+        "Hockenheim",
+        "Nürburgring",
+        "Monza",
+        "Spa-Francorchamps"
+      ],
+      "answer": "Hockenheim",
+      "fact": "Hockenheimring is the historic circuit where Mercedes has raced at home for decades."
+    }
+  },
+  "difficulty": 1,
+  "tags": [
+    "circuits",
+    "basic"
+  ],
+  "image": "mercedes.png"
+},
+{
+  "_id": {
+    "oid": "6984a9c6683cd2b7c6ff6cb6"
+  },
+  "category": "teams",
+  "topic": "mercedes",
+  "language": {
+    "sp": {
+      "question": "¿Quién fue el primer piloto en ganar un Gran Premio con Mercedes en la era moderna?",
+      "options": [
+        "Nico Rosberg",
+        "Lewis Hamilton",
+        "Michael Schumacher",
+        "Valtteri Bottas"
+      ],
+      "answer": "Nico Rosberg",
+      "fact": "Nico Rosberg ganó el primer Gran Premio de Mercedes en 2010 en el GP de China."
+    },
+    "en": {
+      "question": "Who was the first driver to win a Grand Prix for Mercedes in the modern era?",
+      "options": [
+        "Nico Rosberg",
+        "Lewis Hamilton",
+        "Michael Schumacher",
+        "Valtteri Bottas"
+      ],
+      "answer": "Nico Rosberg",
+      "fact": "Nico Rosberg won Mercedes' first modern era Grand Prix in 2010 at the Chinese GP."
+    }
+  },
+  "difficulty": 2,
+  "tags": [
+    "history",
+    "wins"
+  ],
+  "image": "mercedes.png"
+},
+{
+  "_id": {
+    "oid": "6984a9c6683cd2b7c6ff6cb7"
+  },
+  "category": "teams",
+  "topic": "mercedes",
+  "language": {
+    "sp": {
+      "question": "¿Cuántos campeonatos de constructores consecutivos ganó Mercedes entre 2014 y 2020?",
+      "options": [
+        "6",
+        "7",
+        "5",
+        "4"
+      ],
+      "answer": "7",
+      "fact": "Mercedes ganó 7 campeonatos de constructores consecutivos entre 2014 y 2020."
+    },
+    "en": {
+      "question": "How many consecutive Constructors' Championships did Mercedes win between 2014 and 2020?",
+      "options": [
+        "6",
+        "7",
+        "5",
+        "4"
+      ],
+      "answer": "7",
+      "fact": "Mercedes won 7 consecutive Constructors' Championships between 2014 and 2020."
+    }
+  },
+  "difficulty": 2,
+  "tags": [
+    "records",
+    "championships"
+  ],
+  "image": "mercedes.png"
+},
+{
+  "_id": {
+    "oid": "6984a9c6683cd2b7c6ff6cb8"
+  },
+  "category": "teams",
+  "topic": "mercedes",
+  "language": {
+    "sp": {
+      "question": "¿Qué piloto logró la primera victoria de Mercedes en la era híbrida en 2014?",
+      "options": [
+        "Lewis Hamilton",
+        "Nico Rosberg",
+        "Valtteri Bottas",
+        "Michael Schumacher"
+      ],
+      "answer": "Lewis Hamilton",
+      "fact": "Lewis Hamilton consiguió la primera victoria de Mercedes en la era híbrida en el Gran Premio de Malasia 2014."
+    },
+    "en": {
+      "question": "Which driver achieved Mercedes' first win in the hybrid era in 2014?",
+      "options": [
+        "Lewis Hamilton",
+        "Nico Rosberg",
+        "Valtteri Bottas",
+        "Michael Schumacher"
+      ],
+      "answer": "Lewis Hamilton",
+      "fact": "Lewis Hamilton achieved Mercedes' first win in the hybrid era at the 2014 Malaysian Grand Prix."
+    }
+  },
+  "difficulty": 2,
+  "tags": [
+    "drivers",
+    "wins"
+  ],
+  "image": "mercedes.png"
+},
+{
+  "_id": {
+    "oid": "6984a9c6683cd2b7c6ff6cb9"
+  },
+  "category": "teams",
+  "topic": "mercedes",
+  "language": {
+    "sp": {
+      "question": "¿Qué piloto ganó su primer campeonato mundial con Mercedes en 2014?",
+      "options": [
+        "Lewis Hamilton",
+        "Nico Rosberg",
+        "Valtteri Bottas",
+        "Michael Schumacher"
+      ],
+      "answer": "Lewis Hamilton",
+      "fact": "Lewis Hamilton ganó su segundo campeonato mundial en 2014, su primero con Mercedes."
+    },
+    "en": {
+      "question": "Which driver won his first world championship with Mercedes in 2014?",
+      "options": [
+        "Lewis Hamilton",
+        "Nico Rosberg",
+        "Valtteri Bottas",
+        "Michael Schumacher"
+      ],
+      "answer": "Lewis Hamilton",
+      "fact": "Lewis Hamilton won his second world championship in 2014, his first with Mercedes."
+    }
+  },
+  "difficulty": 2,
+  "tags": [
+    "drivers",
+    "championships"
+  ],
+  "image": "mercedes.png"
+},
+{
+  "_id": {
+    "oid": "6984a9c6683cd2b7c6ff6cba"
+  },
+  "category": "teams",
+  "topic": "mercedes",
+  "language": {
+    "sp": {
+      "question": "¿Qué motor utiliza Mercedes en su monoplaza de F1 híbrido desde 2014?",
+      "options": [
+        "Motor V6 Turbo Híbrido",
+        "Motor V8 Atmosférico",
+        "Motor V10 Turbo",
+        "Motor V12"
+      ],
+      "answer": "Motor V6 Turbo Híbrido",
+      "fact": "Mercedes utiliza un motor V6 Turbo Híbrido desde la introducción de la era híbrida en 2014."
+    },
+    "en": {
+      "question": "Which engine does Mercedes use in its hybrid F1 car since 2014?",
+      "options": [
+        "V6 Turbo Hybrid engine",
+        "V8 Naturally Aspirated",
+        "V10 Turbo",
+        "V12 engine"
+      ],
+      "answer": "V6 Turbo Hybrid engine",
+      "fact": "Mercedes has used a V6 Turbo Hybrid engine since the hybrid era began in 2014."
+    }
+  },
+  "difficulty": 2,
+  "tags": [
+    "technical",
+    "engines"
+  ],
+  "image": "mercedes.png"
+},
+{
+  "_id": {
+    "oid": "6984a9c6683cd2b7c6ff6cbb"
+  },
+  "category": "teams",
+  "topic": "mercedes",
+  "language": {
+    "sp": {
+      "question": "¿Qué director técnico lidera Mercedes desde la era híbrida exitosa?",
+      "options": [
+        "Toto Wolff",
+        "Ross Brawn",
+        "Niki Lauda",
+        "Andy Cowell"
+      ],
+      "answer": "Toto Wolff",
+      "fact": "Toto Wolff es el director ejecutivo de Mercedes AMG Petronas desde 2013."
+    },
+    "en": {
+      "question": "Which team principal leads Mercedes since the successful hybrid era?",
+      "options": [
+        "Toto Wolff",
+        "Ross Brawn",
+        "Niki Lauda",
+        "Andy Cowell"
+      ],
+      "answer": "Toto Wolff",
+      "fact": "Toto Wolff has been the executive director of Mercedes AMG Petronas since 2013."
+    }
+  },
+  "difficulty": 3,
+  "tags": [
+    "management",
+    "history"
+  ],
+  "image": "mercedes.png"
+},
+{
+  "_id": {
+    "oid": "6984a9c6683cd2b7c6ff6cbc"
+  },
+  "category": "teams",
+  "topic": "mercedes",
+  "language": {
+    "sp": {
+      "question": "¿Cuál es el récord de victorias consecutivas de Mercedes en un inicio de temporada?",
+      "options": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "answer": "11",
+      "fact": "Mercedes ganó 11 carreras consecutivas desde el inicio de la temporada 2016, un récord en la era híbrida."
+    },
+    "en": {
+      "question": "What is Mercedes' record for consecutive wins at the start of a season?",
+      "options": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "answer": "11",
+      "fact": "Mercedes won 11 consecutive races at the start of the 2016 season, a hybrid era record."
+    }
+  },
+  "difficulty": 3,
+  "tags": [
+    "records",
+    "history"
+  ],
+  "image": "mercedes.png"
+},
+{
+  "_id": {
+    "oid": "6984a9c6683cd2b7c6ff6cbd"
+  },
+  "category": "teams",
+  "topic": "mercedes",
+  "language": {
+    "sp": {
+      "question": "¿Qué piloto de Mercedes ganó el Gran Premio de España 2020 liderando todas las vueltas?",
+      "options": [
+        "Lewis Hamilton",
+        "Valtteri Bottas",
+        "Nico Rosberg",
+        "George Russell"
+      ],
+      "answer": "Lewis Hamilton",
+      "fact": "Hamilton ganó de forma dominante en España 2020 liderando todas las vueltas."
+    },
+    "en": {
+      "question": "Which Mercedes driver won the 2020 Spanish Grand Prix leading every lap?",
+      "options": [
+        "Lewis Hamilton",
+        "Valtteri Bottas",
+        "Nico Rosberg",
+        "George Russell"
+      ],
+      "answer": "Lewis Hamilton",
+      "fact": "Hamilton dominated the 2020 Spanish GP by leading every lap."
+    }
+  },
+  "difficulty": 3,
+  "tags": [
+    "drivers",
+    "wins"
+  ],
+  "image": "mercedes.png"
+},
+{
+  "_id": {
+    "oid": "6984a9c6683cd2b7c6ff6cbe"
+  },
+  "category": "teams",
+  "topic": "mercedes",
+  "language": {
+    "sp": {
+      "question": "¿Qué innovación técnica introdujo Mercedes con el sistema DAS?",
+      "options": [
+        "Alineación dinámica de las ruedas",
+        "Primer alerón activo",
+        "Chasis de carbono completo",
+        "Frenos ABS"
+      ],
+      "answer": "Alineación dinámica de las ruedas",
+      "fact": "Mercedes introdujo el sistema DAS en 2020 para ajustar la convergencia de las ruedas en movimiento."
+    },
+    "en": {
+      "question": "Which technical innovation did Mercedes introduce with the DAS system?",
+      "options": [
+        "Dynamic wheel alignment",
+        "First active wing",
+        "Full carbon chassis",
+        "ABS brakes"
+      ],
+      "answer": "Dynamic wheel alignment",
+      "fact": "Mercedes introduced the DAS system in 2020 to adjust wheel toe while driving."
+    }
+  },
+  "difficulty": 3,
+  "tags": [
+    "technical",
+    "innovation"
+  ],
+  "image": "mercedes.png"
+},
+{
+  "_id": {
+    "oid": "6984a9c6683cd2b7c6ff6cbf"
+  },
+  "category": "teams",
+  "topic": "mercedes",
+  "language": {
+    "sp": {
+      "question": "¿Cuál fue la puntuación de Mercedes en constructores en su temporada récord 2016?",
+      "options": [
+        "765",
+        "703",
+        "661",
+        "589"
+      ],
+      "answer": "765",
+      "fact": "En 2016, Mercedes obtuvo 765 puntos en el campeonato de constructores, su récord en la era híbrida."
+    },
+    "en": {
+      "question": "What was Mercedes' Constructors' points tally in their record 2016 season?",
+      "options": [
+        "765",
+        "703",
+        "661",
+        "589"
+      ],
+      "answer": "765",
+      "fact": "In 2016, Mercedes scored 765 points in the Constructors' Championship, a hybrid era record."
+    }
+  },
+  "difficulty": 3,
+  "tags": [
+    "records",
+    "championships"
+  ],
+  "image": "mercedes.png"
+},
+{
+  "_id": {
+    "oid": "6984abce683cd2b7c6ff6cc0"
+  },
+  "category": "teams",
+  "topic": "redbull",
+  "language": {
+    "sp": {
+      "question": "¿De qué país es el equipo Red Bull Racing?",
+      "options": [
+        "Reino Unido",
+        "Austria",
+        "Estados Unidos",
+        "Alemania"
+      ],
+      "answer": "Reino Unido",
+      "fact": "Red Bull Racing tiene sede en Milton Keynes, Reino Unido, aunque Red Bull es una marca austríaca."
+    },
+    "en": {
+      "question": "Which country is the Red Bull Racing team from?",
+      "options": [
+        "United Kingdom",
+        "Austria",
+        "United States",
+        "Germany"
+      ],
+      "answer": "United Kingdom",
+      "fact": "Red Bull Racing is based in Milton Keynes, UK, although Red Bull is an Austrian brand."
+    }
+  },
+  "difficulty": 1,
+  "tags": [
+    "origin",
+    "basic"
+  ],
+  "image": "redbull.png"
+},
+{
+  "_id": {
+    "oid": "6984abce683cd2b7c6ff6cc1"
+  },
+  "category": "teams",
+  "topic": "redbull",
+  "language": {
+    "sp": {
+      "question": "¿Cuál es el color característico de los coches de Red Bull Racing?",
+      "options": [
+        "Azul Oscuro",
+        "Rojo",
+        "Negro",
+        "Plateado"
+      ],
+      "answer": "Azul Oscuro",
+      "fact": "El color azul oscuro con detalles rojos y amarillos es el distintivo de Red Bull Racing."
+    },
+    "en": {
+      "question": "What is the characteristic color of Red Bull Racing cars?",
+      "options": [
+        "Dark Blue",
+        "Red",
+        "Black",
+        "Silver"
+      ],
+      "answer": "Dark Blue",
+      "fact": "The dark blue color with red and yellow details is Red Bull Racing's signature."
+    }
+  },
+  "difficulty": 1,
+  "tags": [
+    "identity",
+    "basic"
+  ],
+  "image": "redbull.png"
+},
+{
+  "_id": {
+    "oid": "6984abce683cd2b7c6ff6cc2"
+  },
+  "category": "teams",
+  "topic": "redbull",
+  "language": {
+    "sp": {
+      "question": "¿En qué año debutó Red Bull Racing en la Fórmula 1?",
+      "options": [
+        "2004",
+        "2005",
+        "2006",
+        "2003"
+      ],
+      "answer": "2005",
+      "fact": "Red Bull Racing debutó en el Campeonato Mundial de F1 en 2005 tras comprar Jaguar Racing."
+    },
+    "en": {
+      "question": "In which year did Red Bull Racing debut in Formula 1?",
+      "options": [
+        "2004",
+        "2005",
+        "2006",
+        "2003"
+      ],
+      "answer": "2005",
+      "fact": "Red Bull Racing debuted in the F1 World Championship in 2005 after purchasing Jaguar Racing."
+    }
+  },
+  "difficulty": 1,
+  "tags": [
+    "history",
+    "basic"
+  ],
+  "image": "redbull.png"
+},
+{
+  "_id": {
+    "oid": "6984abce683cd2b7c6ff6cc3"
+  },
+  "category": "teams",
+  "topic": "redbull",
+  "language": {
+    "sp": {
+      "question": "¿Quién es el fundador de Red Bull Racing como equipo de F1?",
+      "options": [
+        "Dietrich Mateschitz",
+        "Christian Horner",
+        "Helmut Marko",
+        "Adrian Newey"
+      ],
+      "answer": "Dietrich Mateschitz",
+      "fact": "Dietrich Mateschitz, cofundador de Red Bull, adquirió Jaguar Racing y creó Red Bull Racing en 2005."
+    },
+    "en": {
+      "question": "Who is the founder of Red Bull Racing as an F1 team?",
+      "options": [
+        "Dietrich Mateschitz",
+        "Christian Horner",
+        "Helmut Marko",
+        "Adrian Newey"
+      ],
+      "answer": "Dietrich Mateschitz",
+      "fact": "Dietrich Mateschitz, co-founder of Red Bull, purchased Jaguar Racing and created Red Bull Racing in 2005."
+    }
+  },
+  "difficulty": 1,
+  "tags": [
+    "founder",
+    "basic"
+  ],
+  "image": "redbull.png"
+},
+{
+  "_id": {
+    "oid": "6984abce683cd2b7c6ff6cc4"
+  },
+  "category": "teams",
+  "topic": "redbull",
+  "language": {
+    "sp": {
+      "question": "¿Cuál es el circuito icónico de Red Bull Racing en Austria?",
+      "options": [
+        "Red Bull Ring",
+        "Hockenheim",
+        "Monza",
+        "Silverstone"
+      ],
+      "answer": "Red Bull Ring",
+      "fact": "El Red Bull Ring en Spielberg es el gran premio de casa para el equipo Red Bull Racing."
+    },
+    "en": {
+      "question": "Which is Red Bull Racing's iconic circuit in Austria?",
+      "options": [
+        "Red Bull Ring",
+        "Hockenheim",
+        "Monza",
+        "Silverstone"
+      ],
+      "answer": "Red Bull Ring",
+      "fact": "The Red Bull Ring in Spielberg is Red Bull Racing's home Grand Prix circuit."
+    }
+  },
+  "difficulty": 1,
+  "tags": [
+    "circuits",
+    "basic"
+  ],
+  "image": "redbull.png"
+},
+{
+  "_id": {
+    "oid": "6984abce683cd2b7c6ff6cc5"
+  },
+  "category": "teams",
+  "topic": "redbull",
+  "language": {
+    "sp": {
+      "question": "¿Quién fue el primer piloto en ganar un Gran Premio para Red Bull Racing?",
+      "options": [
+        "David Coulthard",
+        "Sebastian Vettel",
+        "Mark Webber",
+        "Daniel Ricciardo"
+      ],
+      "answer": "David Coulthard",
+      "fact": "David Coulthard consiguió la primera victoria de Red Bull Racing en 2006 en el Gran Premio de Francia."
+    },
+    "en": {
+      "question": "Who was the first driver to win a Grand Prix for Red Bull Racing?",
+      "options": [
+        "David Coulthard",
+        "Sebastian Vettel",
+        "Mark Webber",
+        "Daniel Ricciardo"
+      ],
+      "answer": "David Coulthard",
+      "fact": "David Coulthard secured Red Bull Racing's first win in 2006 at the French Grand Prix."
+    }
+  },
+  "difficulty": 2,
+  "tags": [
+    "history",
+    "wins"
+  ],
+  "image": "redbull.png"
+},
+{
+  "_id": {
+    "oid": "6984abce683cd2b7c6ff6cc6"
+  },
+  "category": "teams",
+  "topic": "redbull",
+  "language": {
+    "sp": {
+      "question": "¿Quién fue el piloto con más victorias para Red Bull Racing en la temporada 2013?",
+      "options": [
+        "Sebastian Vettel",
+        "Mark Webber",
+        "Daniel Ricciardo",
+        "Max Verstappen"
+      ],
+      "answer": "Sebastian Vettel",
+      "fact": "En 2013, Sebastian Vettel ganó 13 carreras para Red Bull Racing, siendo el piloto más exitoso de la temporada."
+    },
+    "en": {
+      "question": "Who was Red Bull Racing's driver with the most wins in the 2013 season?",
+      "options": [
+        "Sebastian Vettel",
+        "Mark Webber",
+        "Daniel Ricciardo",
+        "Max Verstappen"
+      ],
+      "answer": "Sebastian Vettel",
+      "fact": "In 2013, Sebastian Vettel won 13 races for Red Bull Racing, making him the most successful driver that season."
+    }
+  },
+  "difficulty": 2,
+  "tags": [
+    "drivers",
+    "wins",
+    "records"
+  ],
+  "image": "redbull.png"
+},
+{
+  "_id": {
+    "oid": "6984abce683cd2b7c6ff6cc7"
+  },
+  "category": "teams",
+  "topic": "redbull",
+  "language": {
+    "sp": {
+      "question": "¿Cuántos campeonatos de constructores consecutivos ganó Red Bull Racing entre 2010 y 2013?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": "4",
+      "fact": "Red Bull Racing ganó 4 campeonatos de constructores consecutivos entre 2010 y 2013."
+    },
+    "en": {
+      "question": "How many consecutive Constructors' Championships did Red Bull Racing win between 2010 and 2013?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": "4",
+      "fact": "Red Bull Racing won 4 consecutive Constructors' Championships between 2010 and 2013."
+    }
+  },
+  "difficulty": 2,
+  "tags": [
+    "records",
+    "championships"
+  ],
+  "image": "redbull.png"
+},
+{
+  "_id": {
+    "oid": "6984abce683cd2b7c6ff6cc8"
+  },
+  "category": "teams",
+  "topic": "redbull",
+  "language": {
+    "sp": {
+      "question": "¿Qué piloto ganó su primer título mundial con Red Bull en 2010?",
+      "options": [
+        "Sebastian Vettel",
+        "Mark Webber",
+        "Daniel Ricciardo",
+        "Max Verstappen"
+      ],
+      "answer": "Sebastian Vettel",
+      "fact": "Sebastian Vettel se convirtió en campeón mundial con Red Bull Racing en 2010."
+    },
+    "en": {
+      "question": "Which driver won his first world championship with Red Bull in 2010?",
+      "options": [
+        "Sebastian Vettel",
+        "Mark Webber",
+        "Daniel Ricciardo",
+        "Max Verstappen"
+      ],
+      "answer": "Sebastian Vettel",
+      "fact": "Sebastian Vettel became world champion with Red Bull Racing in 2010."
+    }
+  },
+  "difficulty": 2,
+  "tags": [
+    "drivers",
+    "championships"
+  ],
+  "image": "redbull.png"
+},
+{
+  "_id": {
+    "oid": "6984abce683cd2b7c6ff6cc9"
+  },
+  "category": "teams",
+  "topic": "redbull",
+  "language": {
+    "sp": {
+      "question": "¿Qué motor utilizaba Red Bull Racing en su era de campeonatos 2010-2013?",
+      "options": [
+        "Renault",
+        "Ferrari",
+        "Mercedes",
+        "Honda"
+      ],
+      "answer": "Renault",
+      "fact": "Durante su dominio entre 2010 y 2013, Red Bull Racing utilizaba motores Renault."
+    },
+    "en": {
+      "question": "Which engine did Red Bull Racing use during their 2010-2013 championship era?",
+      "options": [
+        "Renault",
+        "Ferrari",
+        "Mercedes",
+        "Honda"
+      ],
+      "answer": "Renault",
+      "fact": "During their 2010-2013 dominance, Red Bull Racing used Renault engines."
+    }
+  },
+  "difficulty": 2,
+  "tags": [
+    "technical",
+    "engines"
+  ],
+  "image": "redbull.png"
+},
+{
+  "_id": {
+    "oid": "6984abce683cd2b7c6ff6cca"
+  },
+  "category": "teams",
+  "topic": "redbull",
+  "language": {
+    "sp": {
+      "question": "¿Qué director técnico es responsable del diseño del monoplaza de Red Bull Racing?",
+      "options": [
+        "Adrian Newey",
+        "Christian Horner",
+        "Helmut Marko",
+        "Sebastian Vettel"
+      ],
+      "answer": "Adrian Newey",
+      "fact": "Adrian Newey es el diseñador jefe de Red Bull Racing y clave en sus éxitos en F1."
+    },
+    "en": {
+      "question": "Which technical director is responsible for Red Bull Racing's car design?",
+      "options": [
+        "Adrian Newey",
+        "Christian Horner",
+        "Helmut Marko",
+        "Sebastian Vettel"
+      ],
+      "answer": "Adrian Newey",
+      "fact": "Adrian Newey is Red Bull Racing's chief designer and key to their F1 success."
+    }
+  },
+  "difficulty": 3,
+  "tags": [
+    "technical",
+    "design"
+  ],
+  "image": "redbull.png"
+},
+{
+  "_id": {
+    "oid": "6984abce683cd2b7c6ff6ccb"
+  },
+  "category": "teams",
+  "topic": "redbull",
+  "language": {
+    "sp": {
+      "question": "¿Qué récord de victorias consecutivas posee Red Bull Racing en una temporada?",
+      "options": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "answer": "12",
+      "fact": "Red Bull Racing ganó 12 carreras consecutivas en la temporada 2013, un récord en su historia."
+    },
+    "en": {
+      "question": "What is Red Bull Racing's record for consecutive wins in a single season?",
+      "options": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "answer": "12",
+      "fact": "Red Bull Racing won 12 consecutive races in the 2013 season, a record in their history."
+    }
+  },
+  "difficulty": 3,
+  "tags": [
+    "records",
+    "history"
+  ],
+  "image": "redbull.png"
+},
+{
+  "_id": {
+    "oid": "6984abce683cd2b7c6ff6ccc"
+  },
+  "category": "teams",
+  "topic": "redbull",
+  "language": {
+    "sp": {
+      "question": "¿Qué piloto de Red Bull Racing ganó el Gran Premio de Mónaco 2022?",
+      "options": [
+        "Max Verstappen",
+        "Sergio Pérez",
+        "Daniel Ricciardo",
+        "Sebastian Vettel"
+      ],
+      "answer": "Sergio Pérez",
+      "fact": "Sergio Pérez ganó el GP de Mónaco 2022, siendo una victoria destacada de Red Bull Racing."
+    },
+    "en": {
+      "question": "Which Red Bull Racing driver won the 2022 Monaco Grand Prix?",
+      "options": [
+        "Max Verstappen",
+        "Sergio Pérez",
+        "Daniel Ricciardo",
+        "Sebastian Vettel"
+      ],
+      "answer": "Sergio Pérez",
+      "fact": "Sergio Pérez won the 2022 Monaco GP, a notable Red Bull Racing victory."
+    }
+  },
+  "difficulty": 3,
+  "tags": [
+    "drivers",
+    "wins"
+  ],
+  "image": "redbull.png"
+},
+{
+  "_id": {
+    "oid": "6984abce683cd2b7c6ff6ccd"
+  },
+  "category": "teams",
+  "topic": "redbull",
+  "language": {
+    "sp": {
+      "question": "¿Qué innovación técnica introdujo Red Bull Racing con el sistema de conducto de frenos en 2019?",
+      "options": [
+        "Enfriamiento mejorado de frenos",
+        "Alerón activo",
+        "Chasis de carbono completo",
+        "Suspensión activa"
+      ],
+      "answer": "Enfriamiento mejorado de frenos",
+      "fact": "En 2019, Red Bull Racing optimizó sus frenos mediante un conducto de refrigeración innovador."
+    },
+    "en": {
+      "question": "Which technical innovation did Red Bull Racing introduce with their brake duct system in 2019?",
+      "options": [
+        "Improved brake cooling",
+        "Active wing",
+        "Full carbon chassis",
+        "Active suspension"
+      ],
+      "answer": "Improved brake cooling",
+      "fact": "In 2019, Red Bull Racing optimized their brakes with an innovative cooling duct system."
+    }
+  },
+  "difficulty": 3,
+  "tags": [
+    "technical",
+    "innovation"
+  ],
+  "image": "redbull.png"
+},
+{
+  "_id": {
+    "oid": "6984abce683cd2b7c6ff6cce"
+  },
+  "category": "teams",
+  "topic": "redbull",
+  "language": {
+    "sp": {
+      "question": "¿Cuál fue la puntuación en constructores de Red Bull Racing en su temporada récord 2013?",
+      "options": [
+        "596",
+        "596",
+        "550",
+        "521"
+      ],
+      "answer": "596",
+      "fact": "En 2013, Red Bull Racing acumuló 596 puntos en el campeonato de constructores, su récord histórico."
+    },
+    "en": {
+      "question": "What was Red Bull Racing's Constructors' points tally in their record 2013 season?",
+      "options": [
+        "596",
+        "550",
+        "521",
+        "480"
+      ],
+      "answer": "596",
+      "fact": "In 2013, Red Bull Racing scored 596 points in the Constructors' Championship, their all-time record."
+    }
+  },
+  "difficulty": 3,
+  "tags": [
+    "records",
+    "championships"
+  ],
+  "image": "redbull.png"
+}]}
